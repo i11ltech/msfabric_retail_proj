@@ -42,7 +42,7 @@ This capstone project implements a **modern retail data warehouse**. The solutio
 The project follows Databricks' **medallion architecture** pattern, implementing a three-layer data lakehouse:
 
 ```
-![medallion architecture](images/medallion-arch.jpeg "medallion architecture")
+![medallion architecture](images/medallion-arch.jpeg)
 
 ```
 
@@ -55,7 +55,7 @@ The project follows Databricks' **medallion architecture** pattern, implementing
 The gold layer implements a **classic star schema** optimized for analytical queries:
 
 ```
-![Star Schema](images/star-schema.jpeg "Star Schema")
+![Star Schema](images/star-schema.jpeg)
 
 ```
 

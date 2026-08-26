@@ -1,23 +1,23 @@
-# Capstone Retail Data Warehouse - Project Documentation
+# Retail Data Warehouse - Project Documentation
 
 ## Table of Contents
-1. [Project Objective](#objective)
-2. [Architecture Overview](#architecture)
-3. [Data Model Design](#data-model)
-4. [ETL Pipeline Design](#etl-pipeline)
-5. [Visualization & Analytics](#visualizations)
-6. [Key Features](#features)
-7. [Data Quality & Governance](#quality)
-8. [Usage Guide](#usage)
-9. [Future Enhancements](#future)
-10. [Key Metrics Summary](#metrics)
+1. [Project Objective](#project-objective)
+2. [Architecture Overview](#architecture-overview)
+3. [Data Model Design](#data-model-design)
+4. [ETL Pipeline Design](#etl-pipeline-design)
+5. [Visualization & Analytics](#visualizations-&-analytics)
+6. [Key Features](#key-features)
+7. [Data Quality & Governance](#data-quality-&-governance)
+8. [Usage Guide](#usage-guide)
+9. [Future Enhancements](#future-enhancements)
+10. [Key Metrics Summary](#key-metrics-summary)
 
 ---
 
-##  Project Objective {#objective}
+##  Project Objective 
 
 ### Business Purpose
-This project implements a **modern retail data warehouse**. The solution enables:
+This capstone project implements a **modern retail data warehouse**. The solution enables:
 
 * **360° Business Intelligence**: Comprehensive analytics across products, customers, stores, and time dimensions
 * **Real-time Decision Making**: Near real-time data pipeline supporting operational and strategic decisions
@@ -35,160 +35,40 @@ This project implements a **modern retail data warehouse**. The solution enables
 
 ---
 
-##  Architecture Overview {#architecture}
+##  Architecture Overview
 
 ### Medallion Architecture (Bronze → Silver → Gold)
 
 The project follows Databricks' **medallion architecture** pattern, implementing a three-layer data lakehouse:
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                      DATA SOURCES                                │
-│  CSV Files (Sales, Customers, Stores, Promotions, Dates)        │
-│  JSON Files (Products with nested attributes)                    │
-└─────────────────────┬───────────────────────────────────────────┘
-                      │
-                      ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                   BRONZE LAYER (Raw Data)                        │
-│  ┌──────────────────────────────────────────────────────────┐   │
-│  │ • Ingestion from /Volumes/skillease/bronze/raw_csv       │   │
-│  │ • Schema validation and structure preservation           │   │
-│  │ • Audit logging (load_control table)                     │   │
-│  │ • Idempotency checks (duplicate file detection)          │   │
-│  │ • File archival to processed/ folder                     │   │
-│  │                                                           │   │
-│  │ Tables: bronze_sales, bronze_customer, bronze_store,     │   │
-│  │         bronze_promotion, bronze_date, bronze_products   │   │
-│  └──────────────────────────────────────────────────────────┘   │
-└─────────────────────┬───────────────────────────────────────────┘
-                      │
-                      ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                  SILVER LAYER (Cleaned Data)                     │
-│  ┌──────────────────────────────────────────────────────────┐   │
-│  │ • Data quality enforcement and validation                │   │
-│  │ • Type conversions and standardization                   │   │
-│  │ • Deduplication and null handling                        │   │
-│  │ • Timestamp parsing (multiple format support)            │   │
-│  │ • Quarantine bad records for investigation               │   │
-│  │ • Incremental merge processing (watermark-based)         │   │
-│  │                                                           │   │
-│  │ Tables: silver_sales, silver_customer, silver_store,     │   │
-│  │         silver_promotion, silver_date, silver_products,  │   │
-│  │         quarantine_sales                                 │   │
-│  └──────────────────────────────────────────────────────────┘   │
-└─────────────────────┬───────────────────────────────────────────┘
-                      │
-                      ▼
-┌─────────────────────────────────────────────────────────────────┐
-│              GOLD LAYER (Business-Ready Analytics)               │
-│  ┌──────────────────────────────────────────────────────────┐   │
-│  │ • Dimensional modeling (Star Schema)                     │   │
-│  │ • Surrogate key generation                               │   │
-│  │ • Unknown member handling (-1 keys)                      │   │
-│  │ • Denormalized for query performance                     │   │
-│  │ • Pre-calculated business metrics                        │   │
-│  │                                                           │   │
-│  │ Dimensions: gold_dim_customer, gold_dim_product,         │   │
-│  │            gold_dim_store, gold_dim_date                 │   │
-│  │                                                           │   │
-│  │ Facts: gold_fact_sales (with net_amount, margin)         │   │
-│  └──────────────────────────────────────────────────────────┘   │
-└─────────────────────┬───────────────────────────────────────────┘
-                      │
-                      ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                 BI LAYER (Analytics & Insights)                  │
-│  ┌──────────────────────────────────────────────────────────┐   │
-│  │ • KPI Dashboards and Visualizations                      │   │
-│  │ • Trend Analysis and Forecasting Views                   │   │
-│  │ • Performance Scorecards                                 │   │
-│  │ • Ad-hoc Analytics and Reporting                         │   │
-│  └──────────────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────────┘
+![medallion architecture](images/medallion-arch.jpeg "medallion architecture")
+
 ```
 
 ---
 
-##  Data Model Design {#data-model}
+##  Data Model Design
 
 ### Star Schema Design
 
 The gold layer implements a **classic star schema** optimized for analytical queries:
 
 ```
-                    ┌──────────────────────┐
-                    │  gold_dim_date       │
-                    │──────────────────────│
-                    │ • date_key (PK)      │
-                    │ • date               │
-                    │ • year, quarter      │
-                    │ • month_name         │
-                    │ • day_of_week        │
-                    │ • is_weekend         │
-                    │ • fiscal_year        │
-                    └──────────┬───────────┘
-                               │
-                               │
-┌──────────────────────┐       │       ┌──────────────────────┐
-│  gold_dim_customer   │       │       │  gold_dim_product    │
-│──────────────────────│       │       │──────────────────────│
-│ • customer_key (PK)  │       │       │ • product_key (PK)   │
-│ • customer_id        │       │       │ • product_id         │
-│ • first_name         │       │       │ • product_name       │
-│ • last_name          │       │       │ • category           │
-│ • segment            │       │       │ • subcategory        │
-│ • preferred_channel  │       │       │ • brand              │
-│ • home_region        │       │       │ • unit_cost          │
-│ • age_band           │       │       │ • list_price         │
-│ • is_churned         │       │       │ • is_active          │
-└──────────┬───────────┘       │       └──────────┬───────────┘
-           │                   │                  │
-           │                   │                  │
-           │      ┌────────────▼──────────────┐   │
-           │      │   gold_fact_sales         │   │
-           │      │───────────────────────────│   │
-           └─────►│ • date_key (FK)           │◄──┘
-                  │ • customer_key (FK)       │
-                  │ • store_key (FK)          │
-                  │ • product_key (FK)        │
-                  │───────────────────────────│
-                  │ • order_id                │
-                  │ • line_number             │
-                  │ • transaction_ts          │
-                  │ • payment_method          │
-                  │ • order_status            │
-                  │ • quantity                │
-                  │ • unit_price              │
-                  │ • discount_amount         │
-                  │ • net_amount (computed)   │
-                  │ • margin (computed)       │
-                  └────────────┬──────────────┘
-                               │
-                               │
-                    ┌──────────▼───────────┐
-                    │  gold_dim_store      │
-                    │──────────────────────│
-                    │ • store_key (PK)     │
-                    │ • store_id           │
-                    │ • store_name         │
-                    │ • city               │
-                    │ • region             │
-                    │ • store_type         │
-                    └──────────────────────┘
+![Star Schema](images/star-schema.jpeg "Star Schema")
+
 ```
 
 ### Dimension Tables
 
-#### 1. gold_dim_customer (1,200+ rows)
+#### 1. gold_dim_customer 
 * **Purpose**: Customer demographics and segmentation
 * **Surrogate Key**: `customer_key` (generated via ROW_NUMBER)
 * **Business Key**: `customer_id`
 * **Key Attributes**: segment (Consumer, Loyalty Member, Corporate), preferred_channel (In-Store, Online, Mobile App), age_band, is_churned
 * **Unknown Handling**: customer_key = -1 for guest transactions
 
-#### 2. gold_dim_product (251 rows)
+#### 2. gold_dim_product 
 * **Purpose**: Product catalog and hierarchy
 * **Surrogate Key**: `product_key`
 * **Business Key**: `product_id`
@@ -197,13 +77,13 @@ The gold layer implements a **classic star schema** optimized for analytical que
   - subcategory, brand, unit_cost, list_price
 * **Source**: JSON file with nested attributes (flattened in silver layer)
 
-#### 3. gold_dim_store (22 rows)
+#### 3. gold_dim_store
 * **Purpose**: Store locations and types
 * **Surrogate Key**: `store_key`
 * **Business Key**: `store_id`
 * **Key Attributes**: region (East, West, Central, Online), store_type (Flagship, Standard, Express, Outlet, Online)
 
-#### 4. gold_dim_date (1,461 rows: 2023-01-01 to 2026-12-31)
+#### 4. gold_dim_date
 * **Purpose**: Time intelligence and fiscal calendar
 * **Primary Key**: `date_key` (integer YYYYMMDD format)
 * **Key Attributes**:
@@ -214,7 +94,7 @@ The gold layer implements a **classic star schema** optimized for analytical que
 
 ### Fact Table
 
-#### gold_fact_sales (323,947 rows)
+#### gold_fact_sales
 * **Grain**: One row per sales transaction line item
 * **Foreign Keys**: date_key, customer_key, store_key, product_key
 * **Measures**:
@@ -228,7 +108,7 @@ The gold layer implements a **classic star schema** optimized for analytical que
 
 ---
 
-##  ETL Pipeline Design {#etl-pipeline}
+##  ETL Pipeline Design
 
 ### Bronze Layer: Raw Data Ingestion
 
@@ -328,7 +208,7 @@ Watermark-based incremental merge:
 
 ---
 
-##  Key Features {#features}
+##  Key Features
 
 ### 1. Idempotent Pipeline
 * Duplicate detection prevents re-processing
@@ -366,7 +246,7 @@ Watermark-based incremental merge:
 
 ---
 
-##  Data Quality & Governance {#quality}
+##  Data Quality & Governance
 
 ### Data Quality Rules
 
@@ -385,7 +265,7 @@ Watermark-based incremental merge:
 
 ### Governance Features
 
-* **Unity Catalog**: All tables governed by UC
+* **OneLake Security**: Provides centralized access control
 * **Delta Lake**: ACID transactions, time travel enabled
 * **Audit Trail**: Complete lineage from source file to gold table
 * **Quarantine Process**: Bad records isolated for investigation
@@ -397,7 +277,7 @@ Watermark-based incremental merge:
 ##  Project Structure
 
 ```
-skillease_retail/
+msfabric_retail_proj/
 ├── README.md                          # This file
 ├── skillease_retail.ipynb             # Main notebook with all pipeline code
 │

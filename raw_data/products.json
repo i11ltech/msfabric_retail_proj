@@ -1,0 +1,4252 @@
+[
+ {
+  "product_id": 1,
+  "sku": "SKU-EL00001",
+  "product_name": "Trailway Everyday Fitness Band",
+  "category": "Electronics",
+  "subcategory": "Wearables",
+  "brand": "Trailway",
+  "unit_cost": 549.88,
+  "list_price": 855.84,
+  "launch_date": "2022-10-14",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 0.92,
+   "rating": 3.0
+  }
+ },
+ {
+  "product_id": 2,
+  "sku": "SKU-HO00002",
+  "product_name": "Solstice Essential Office Chair",
+  "category": "Home & Kitchen",
+  "subcategory": "Furniture",
+  "brand": "Lumenex",
+  "unit_cost": 212.75,
+  "list_price": 328.81,
+  "launch_date": "2021-08-05",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 4.23,
+   "rating": 4.9
+  }
+ },
+ {
+  "product_id": 3,
+  "sku": "SKU-HO00003",
+  "product_name": "Harborline Premium Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Small Appliances",
+  "brand": "Bluepeak",
+  "unit_cost": 187.94,
+  "list_price": 346.86,
+  "launch_date": "2021-05-22",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 6.01,
+   "rating": 3.2
+  }
+ },
+ {
+  "product_id": 4,
+  "sku": "SKU-GR00004",
+  "product_name": "Quartzo Max Olive Oil",
+  "category": "Grocery",
+  "subcategory": "Pantry",
+  "brand": "Solstice",
+  "unit_cost": 4.89,
+  "list_price": 6.69,
+  "launch_date": "2022-04-30",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 10.62,
+   "rating": 4.9
+  }
+ },
+ {
+  "product_id": 5,
+  "sku": "SKU-AP00005",
+  "product_name": "Harborline Ultra Men's T-Shirt",
+  "category": "Apparel",
+  "subcategory": "Men's Tops",
+  "brand": "Lumenex",
+  "unit_cost": 17.16,
+  "list_price": 34.07,
+  "launch_date": "2021-01-08",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 1.83,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 6,
+  "sku": "SKU-TO00006",
+  "product_name": "Kestrel Compact Water Blaster",
+  "category": "Toys & Games",
+  "subcategory": "Outdoor Play",
+  "brand": "Quartzo",
+  "unit_cost": 66.95,
+  "list_price": 144.1,
+  "launch_date": "2022-03-26",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 5.83,
+   "rating": 3.7
+  }
+ },
+ {
+  "product_id": 7,
+  "sku": "SKU-AP00007",
+  "product_name": "Novara Everyday Men's T-Shirt",
+  "category": "Apparel",
+  "subcategory": "Men's Tops",
+  "brand": "Kestrel",
+  "unit_cost": 59.2,
+  "list_price": 127.43,
+  "launch_date": "2020-07-28",
+  "is_active": false,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 6.49,
+   "rating": 4.9
+  }
+ },
+ {
+  "product_id": 8,
+  "sku": "SKU-TO00008",
+  "product_name": "Quartzo Classic Strategy Board Game",
+  "category": "Toys & Games",
+  "subcategory": "Board Games",
+  "brand": "Solstice",
+  "unit_cost": 9.57,
+  "list_price": 16.9,
+  "launch_date": "2021-12-12",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 1.56,
+   "rating": 4.7
+  }
+ },
+ {
+  "product_id": 9,
+  "sku": "SKU-GR00009",
+  "product_name": "Novara Everyday Frozen Pizza",
+  "category": "Grocery",
+  "subcategory": "Frozen",
+  "brand": "Solstice",
+  "unit_cost": 7.77,
+  "list_price": 10.43,
+  "launch_date": "2022-09-07",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 6.24,
+   "rating": 3.3
+  }
+ },
+ {
+  "product_id": 10,
+  "sku": "SKU-TO00010",
+  "product_name": "Kestrel Max Water Blaster",
+  "category": "Toys & Games",
+  "subcategory": "Outdoor Play",
+  "brand": "Solstice",
+  "unit_cost": 14.53,
+  "list_price": 29.56,
+  "launch_date": "2020-07-05",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 6.27,
+   "rating": 4.8
+  }
+ },
+ {
+  "product_id": 11,
+  "sku": "SKU-HO00011",
+  "product_name": "Trailway Eco Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Small Appliances",
+  "brand": "Harborline",
+  "unit_cost": 165.39,
+  "list_price": 338.28,
+  "launch_date": "2021-05-05",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 9.66,
+   "rating": 3.2
+  }
+ },
+ {
+  "product_id": 12,
+  "sku": "SKU-GR00012",
+  "product_name": "Solstice Compact Organic Granola",
+  "category": "Grocery",
+  "subcategory": "Organic",
+  "brand": "Solstice",
+  "unit_cost": 11.23,
+  "list_price": 20.16,
+  "launch_date": "2021-01-31",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 5.42,
+   "rating": 4.9
+  }
+ },
+ {
+  "product_id": 13,
+  "sku": "SKU-HO00013",
+  "product_name": "Lumenex Eco Comforter Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Bedding",
+  "brand": "Trailway",
+  "unit_cost": 35.19,
+  "list_price": 55.3,
+  "launch_date": "2021-02-22",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 10.1,
+   "rating": 3.9
+  }
+ },
+ {
+  "product_id": 14,
+  "sku": "SKU-BE00014",
+  "product_name": "Novara Deluxe Multivitamin",
+  "category": "Beauty & Health",
+  "subcategory": "Vitamins",
+  "brand": "Harborline",
+  "unit_cost": 40.78,
+  "list_price": 81.28,
+  "launch_date": "2022-09-06",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 9.49,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 15,
+  "sku": "SKU-BE00015",
+  "product_name": "Novara Classic Eau de Toilette",
+  "category": "Beauty & Health",
+  "subcategory": "Fragrance",
+  "brand": "Bluepeak",
+  "unit_cost": 25.31,
+  "list_price": 68.78,
+  "launch_date": "2020-09-17",
+  "is_active": false,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 10.87,
+   "rating": 4.6
+  }
+ },
+ {
+  "product_id": 16,
+  "sku": "SKU-AP00016",
+  "product_name": "Trailway Classic Training Leggings",
+  "category": "Apparel",
+  "subcategory": "Activewear",
+  "brand": "Bluepeak",
+  "unit_cost": 50.98,
+  "list_price": 131.74,
+  "launch_date": "2020-02-13",
+  "is_active": false,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 7.83,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 17,
+  "sku": "SKU-AP00017",
+  "product_name": "Harborline Ultra Running Shoes",
+  "category": "Apparel",
+  "subcategory": "Footwear",
+  "brand": "Solstice",
+  "unit_cost": 59.3,
+  "list_price": 115.98,
+  "launch_date": "2021-03-11",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 9.19,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 18,
+  "sku": "SKU-TO00018",
+  "product_name": "Trailway Compact 1000pc Puzzle",
+  "category": "Toys & Games",
+  "subcategory": "Puzzles",
+  "brand": "Quartzo",
+  "unit_cost": 59.22,
+  "list_price": 97.64,
+  "launch_date": "2022-10-24",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 6.33,
+   "rating": 2.8
+  }
+ },
+ {
+  "product_id": 19,
+  "sku": "SKU-GR00019",
+  "product_name": "Bluepeak Classic Sparkling Water 12pk",
+  "category": "Grocery",
+  "subcategory": "Beverages",
+  "brand": "Bluepeak",
+  "unit_cost": 9.52,
+  "list_price": 16.07,
+  "launch_date": "2022-08-27",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 6.72,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 20,
+  "sku": "SKU-TO00020",
+  "product_name": "Kestrel Eco 1000pc Puzzle",
+  "category": "Toys & Games",
+  "subcategory": "Puzzles",
+  "brand": "Harborline",
+  "unit_cost": 55.98,
+  "list_price": 94.32,
+  "launch_date": "2021-07-21",
+  "is_active": false,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 6.14,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 21,
+  "sku": "SKU-EL00021",
+  "product_name": "Harborline Premium Smart Hub",
+  "category": "Electronics",
+  "subcategory": "Smart Home",
+  "brand": "Lumenex",
+  "unit_cost": 347.0,
+  "list_price": 551.96,
+  "launch_date": "2022-11-06",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 6.14,
+   "rating": 3.3
+  }
+ },
+ {
+  "product_id": 22,
+  "sku": "SKU-TO00022",
+  "product_name": "Harborline Compact Water Blaster",
+  "category": "Toys & Games",
+  "subcategory": "Outdoor Play",
+  "brand": "Bluepeak",
+  "unit_cost": 64.98,
+  "list_price": 150.38,
+  "launch_date": "2022-05-03",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 3.86,
+   "rating": 4.3
+  }
+ },
+ {
+  "product_id": 23,
+  "sku": "SKU-GR00023",
+  "product_name": "Novara Classic Trail Mix",
+  "category": "Grocery",
+  "subcategory": "Snacks",
+  "brand": "Trailway",
+  "unit_cost": 3.98,
+  "list_price": 5.78,
+  "launch_date": "2020-10-19",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 11.61,
+   "rating": 3.3
+  }
+ },
+ {
+  "product_id": 24,
+  "sku": "SKU-EL00024",
+  "product_name": "Harborline Classic Smart Hub",
+  "category": "Electronics",
+  "subcategory": "Smart Home",
+  "brand": "Quartzo",
+  "unit_cost": 805.64,
+  "list_price": 1052.95,
+  "launch_date": "2022-11-21",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 2.43,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 25,
+  "sku": "SKU-BE00025",
+  "product_name": "Lumenex Ultra Multivitamin",
+  "category": "Beauty & Health",
+  "subcategory": "Vitamins",
+  "brand": "Quartzo",
+  "unit_cost": 4.9,
+  "list_price": 12.3,
+  "launch_date": "2021-11-09",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 6.2,
+   "rating": 2.9
+  }
+ },
+ {
+  "product_id": 26,
+  "sku": "SKU-AP00026",
+  "product_name": "Bluepeak Premium Men's T-Shirt",
+  "category": "Apparel",
+  "subcategory": "Men's Tops",
+  "brand": "Bluepeak",
+  "unit_cost": 12.37,
+  "list_price": 24.96,
+  "launch_date": "2022-05-14",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 9.85,
+   "rating": 3.4
+  }
+ },
+ {
+  "product_id": 27,
+  "sku": "SKU-AP00027",
+  "product_name": "Trailway Pro Training Leggings",
+  "category": "Apparel",
+  "subcategory": "Activewear",
+  "brand": "Solstice",
+  "unit_cost": 55.8,
+  "list_price": 125.91,
+  "launch_date": "2020-04-27",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 5.16,
+   "rating": 3.0
+  }
+ },
+ {
+  "product_id": 28,
+  "sku": "SKU-EL00028",
+  "product_name": "Harborline Pro Action Camera",
+  "category": "Electronics",
+  "subcategory": "Cameras",
+  "brand": "Solstice",
+  "unit_cost": 152.62,
+  "list_price": 204.69,
+  "launch_date": "2020-09-06",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 11.93,
+   "rating": 3.7
+  }
+ },
+ {
+  "product_id": 29,
+  "sku": "SKU-HO00029",
+  "product_name": "Harborline Pro Table Lamp",
+  "category": "Home & Kitchen",
+  "subcategory": "Decor",
+  "brand": "Bluepeak",
+  "unit_cost": 49.22,
+  "list_price": 91.98,
+  "launch_date": "2021-06-20",
+  "is_active": false,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 11.19,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 30,
+  "sku": "SKU-TO00030",
+  "product_name": "Bluepeak Premium Building Block Set",
+  "category": "Toys & Games",
+  "subcategory": "Building Sets",
+  "brand": "Trailway",
+  "unit_cost": 23.85,
+  "list_price": 47.7,
+  "launch_date": "2020-02-07",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 0.28,
+   "rating": 4.4
+  }
+ },
+ {
+  "product_id": 31,
+  "sku": "SKU-TO00031",
+  "product_name": "Lumenex Pro Building Block Set",
+  "category": "Toys & Games",
+  "subcategory": "Building Sets",
+  "brand": "Quartzo",
+  "unit_cost": 38.43,
+  "list_price": 69.04,
+  "launch_date": "2022-10-10",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 11.65,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 32,
+  "sku": "SKU-AP00032",
+  "product_name": "Bluepeak Deluxe Women's Blouse",
+  "category": "Apparel",
+  "subcategory": "Women's Tops",
+  "brand": "Trailway",
+  "unit_cost": 25.82,
+  "list_price": 63.67,
+  "launch_date": "2020-04-21",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 0.94,
+   "rating": 4.4
+  }
+ },
+ {
+  "product_id": 33,
+  "sku": "SKU-HO00033",
+  "product_name": "Quartzo Max Office Chair",
+  "category": "Home & Kitchen",
+  "subcategory": "Furniture",
+  "brand": "Solstice",
+  "unit_cost": 59.01,
+  "list_price": 92.0,
+  "launch_date": "2021-05-11",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 5.57,
+   "rating": 3.1
+  }
+ },
+ {
+  "product_id": 34,
+  "sku": "SKU-GR00034",
+  "product_name": "Trailway Eco Trail Mix",
+  "category": "Grocery",
+  "subcategory": "Snacks",
+  "brand": "Kestrel",
+  "unit_cost": 4.69,
+  "list_price": 8.35,
+  "launch_date": "2021-09-25",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 0.11,
+   "rating": 3.6
+  }
+ },
+ {
+  "product_id": 35,
+  "sku": "SKU-GR00035",
+  "product_name": "Kestrel Pro Organic Granola",
+  "category": "Grocery",
+  "subcategory": "Organic",
+  "brand": "Solstice",
+  "unit_cost": 8.04,
+  "list_price": 11.26,
+  "launch_date": "2020-07-02",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 0.6,
+   "rating": 2.8
+  }
+ },
+ {
+  "product_id": 36,
+  "sku": "SKU-HO00036",
+  "product_name": "Bluepeak Essential Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Small Appliances",
+  "brand": "Quartzo",
+  "unit_cost": 36.33,
+  "list_price": 78.85,
+  "launch_date": "2021-10-29",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 1.88,
+   "rating": 4.4
+  }
+ },
+ {
+  "product_id": 37,
+  "sku": "SKU-BE00037",
+  "product_name": "Quartzo Max Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Bluepeak",
+  "unit_cost": 6.01,
+  "list_price": 16.94,
+  "launch_date": "2022-12-08",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 10.04,
+   "rating": 4.6
+  }
+ },
+ {
+  "product_id": 38,
+  "sku": "SKU-BE00038",
+  "product_name": "Trailway Pro Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Quartzo",
+  "unit_cost": 7.91,
+  "list_price": 15.39,
+  "launch_date": "2022-07-13",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 0.32,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 39,
+  "sku": "SKU-AP00039",
+  "product_name": "Novara Max Running Shoes",
+  "category": "Apparel",
+  "subcategory": "Footwear",
+  "brand": "Novara",
+  "unit_cost": 21.72,
+  "list_price": 47.04,
+  "launch_date": "2022-12-13",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 5.74,
+   "rating": 4.6
+  }
+ },
+ {
+  "product_id": 40,
+  "sku": "SKU-HO00040",
+  "product_name": "Lumenex Compact Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Small Appliances",
+  "brand": "Quartzo",
+  "unit_cost": 222.05,
+  "list_price": 364.97,
+  "launch_date": "2020-06-06",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 3.52,
+   "rating": 2.9
+  }
+ },
+ {
+  "product_id": 41,
+  "sku": "SKU-BE00041",
+  "product_name": "Solstice Premium Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Bluepeak",
+  "unit_cost": 7.56,
+  "list_price": 15.59,
+  "launch_date": "2020-01-26",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 3.3,
+   "rating": 4.3
+  }
+ },
+ {
+  "product_id": 42,
+  "sku": "SKU-BE00042",
+  "product_name": "Solstice Compact Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Lumenex",
+  "unit_cost": 35.08,
+  "list_price": 77.88,
+  "launch_date": "2022-08-13",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 2.47,
+   "rating": 5.0
+  }
+ },
+ {
+  "product_id": 43,
+  "sku": "SKU-GR00043",
+  "product_name": "Lumenex Premium Trail Mix",
+  "category": "Grocery",
+  "subcategory": "Snacks",
+  "brand": "Quartzo",
+  "unit_cost": 5.05,
+  "list_price": 6.76,
+  "launch_date": "2021-03-05",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 0.99,
+   "rating": 3.0
+  }
+ },
+ {
+  "product_id": 44,
+  "sku": "SKU-BE00044",
+  "product_name": "Solstice Pro Multivitamin",
+  "category": "Beauty & Health",
+  "subcategory": "Vitamins",
+  "brand": "Trailway",
+  "unit_cost": 47.83,
+  "list_price": 97.85,
+  "launch_date": "2021-04-18",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 4.79,
+   "rating": 3.1
+  }
+ },
+ {
+  "product_id": 45,
+  "sku": "SKU-GR00045",
+  "product_name": "Quartzo Everyday Frozen Pizza",
+  "category": "Grocery",
+  "subcategory": "Frozen",
+  "brand": "Quartzo",
+  "unit_cost": 6.68,
+  "list_price": 11.11,
+  "launch_date": "2021-10-09",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 0.12,
+   "rating": 4.5
+  }
+ },
+ {
+  "product_id": 46,
+  "sku": "SKU-GR00046",
+  "product_name": "Kestrel Premium Trail Mix",
+  "category": "Grocery",
+  "subcategory": "Snacks",
+  "brand": "Solstice",
+  "unit_cost": 14.16,
+  "list_price": 19.79,
+  "launch_date": "2022-02-01",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 11.99,
+   "rating": 4.1
+  }
+ },
+ {
+  "product_id": 47,
+  "sku": "SKU-HO00047",
+  "product_name": "Solstice Pro Office Chair",
+  "category": "Home & Kitchen",
+  "subcategory": "Furniture",
+  "brand": "Kestrel",
+  "unit_cost": 229.63,
+  "list_price": 481.76,
+  "launch_date": "2021-08-07",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 3.07,
+   "rating": 3.4
+  }
+ },
+ {
+  "product_id": 48,
+  "sku": "SKU-TO00048",
+  "product_name": "Quartzo Ultra Water Blaster",
+  "category": "Toys & Games",
+  "subcategory": "Outdoor Play",
+  "brand": "Quartzo",
+  "unit_cost": 17.34,
+  "list_price": 32.92,
+  "launch_date": "2023-02-08",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 1.06,
+   "rating": 4.9
+  }
+ },
+ {
+  "product_id": 49,
+  "sku": "SKU-GR00049",
+  "product_name": "Solstice Compact Frozen Pizza",
+  "category": "Grocery",
+  "subcategory": "Frozen",
+  "brand": "Kestrel",
+  "unit_cost": 9.61,
+  "list_price": 13.16,
+  "launch_date": "2023-01-31",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 5.04,
+   "rating": 3.4
+  }
+ },
+ {
+  "product_id": 50,
+  "sku": "SKU-HO00050",
+  "product_name": "Lumenex Max Comforter Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Bedding",
+  "brand": "Quartzo",
+  "unit_cost": 128.99,
+  "list_price": 215.03,
+  "launch_date": "2020-09-02",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 0.99,
+   "rating": 3.9
+  }
+ },
+ {
+  "product_id": 51,
+  "sku": "SKU-GR00051",
+  "product_name": "Lumenex Deluxe Olive Oil",
+  "category": "Grocery",
+  "subcategory": "Pantry",
+  "brand": "Bluepeak",
+  "unit_cost": 4.08,
+  "list_price": 7.15,
+  "launch_date": "2023-01-26",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 2.18,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 52,
+  "sku": "SKU-HO00052",
+  "product_name": "Harborline Ultra Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Small Appliances",
+  "brand": "Quartzo",
+  "unit_cost": 118.07,
+  "list_price": 244.0,
+  "launch_date": "2022-02-23",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 2.6,
+   "rating": 3.4
+  }
+ },
+ {
+  "product_id": 53,
+  "sku": "SKU-EL00053",
+  "product_name": "Bluepeak Max Smart Hub",
+  "category": "Electronics",
+  "subcategory": "Smart Home",
+  "brand": "Harborline",
+  "unit_cost": 307.56,
+  "list_price": 488.62,
+  "launch_date": "2020-07-08",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 4.68,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 54,
+  "sku": "SKU-GR00054",
+  "product_name": "Kestrel Classic Organic Granola",
+  "category": "Grocery",
+  "subcategory": "Organic",
+  "brand": "Kestrel",
+  "unit_cost": 12.88,
+  "list_price": 22.37,
+  "launch_date": "2022-05-20",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 5.73,
+   "rating": 4.1
+  }
+ },
+ {
+  "product_id": 55,
+  "sku": "SKU-EL00055",
+  "product_name": "Lumenex Compact Laptop 14\"",
+  "category": "Electronics",
+  "subcategory": "Laptops",
+  "brand": "Harborline",
+  "unit_cost": 401.05,
+  "list_price": 631.41,
+  "launch_date": "2020-08-11",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 6.32,
+   "rating": 4.3
+  }
+ },
+ {
+  "product_id": 56,
+  "sku": "SKU-BE00056",
+  "product_name": "Kestrel Classic Eau de Toilette",
+  "category": "Beauty & Health",
+  "subcategory": "Fragrance",
+  "brand": "Harborline",
+  "unit_cost": 7.91,
+  "list_price": 21.79,
+  "launch_date": "2023-03-12",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 8.61,
+   "rating": 4.9
+  }
+ },
+ {
+  "product_id": 57,
+  "sku": "SKU-BE00057",
+  "product_name": "Novara Pro Multivitamin",
+  "category": "Beauty & Health",
+  "subcategory": "Vitamins",
+  "brand": "Novara",
+  "unit_cost": 28.3,
+  "list_price": 67.39,
+  "launch_date": "2021-09-07",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 2.38,
+   "rating": 3.4
+  }
+ },
+ {
+  "product_id": 58,
+  "sku": "SKU-TO00058",
+  "product_name": "Lumenex Premium Strategy Board Game",
+  "category": "Toys & Games",
+  "subcategory": "Board Games",
+  "brand": "Trailway",
+  "unit_cost": 5.68,
+  "list_price": 10.46,
+  "launch_date": "2021-05-11",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 6.61,
+   "rating": 2.9
+  }
+ },
+ {
+  "product_id": 59,
+  "sku": "SKU-GR00059",
+  "product_name": "Quartzo Pro Organic Granola",
+  "category": "Grocery",
+  "subcategory": "Organic",
+  "brand": "Solstice",
+  "unit_cost": 1.77,
+  "list_price": 2.47,
+  "launch_date": "2021-04-11",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 2.8,
+   "rating": 2.9
+  }
+ },
+ {
+  "product_id": 60,
+  "sku": "SKU-HO00060",
+  "product_name": "Kestrel Premium Office Chair",
+  "category": "Home & Kitchen",
+  "subcategory": "Furniture",
+  "brand": "Novara",
+  "unit_cost": 116.35,
+  "list_price": 206.81,
+  "launch_date": "2021-02-24",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 3.81,
+   "rating": 4.6
+  }
+ },
+ {
+  "product_id": 61,
+  "sku": "SKU-AP00061",
+  "product_name": "Solstice Pro Running Shoes",
+  "category": "Apparel",
+  "subcategory": "Footwear",
+  "brand": "Lumenex",
+  "unit_cost": 19.52,
+  "list_price": 47.01,
+  "launch_date": "2021-01-18",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 5.06,
+   "rating": 4.3
+  }
+ },
+ {
+  "product_id": 62,
+  "sku": "SKU-TO00062",
+  "product_name": "Kestrel Essential Building Block Set",
+  "category": "Toys & Games",
+  "subcategory": "Building Sets",
+  "brand": "Bluepeak",
+  "unit_cost": 64.93,
+  "list_price": 106.71,
+  "launch_date": "2022-04-30",
+  "is_active": false,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 2.29,
+   "rating": 3.8
+  }
+ },
+ {
+  "product_id": 63,
+  "sku": "SKU-BE00063",
+  "product_name": "Bluepeak Everyday Multivitamin",
+  "category": "Beauty & Health",
+  "subcategory": "Vitamins",
+  "brand": "Harborline",
+  "unit_cost": 37.71,
+  "list_price": 113.03,
+  "launch_date": "2021-01-14",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 8.98,
+   "rating": 2.9
+  }
+ },
+ {
+  "product_id": 64,
+  "sku": "SKU-BE00064",
+  "product_name": "Lumenex Classic Eau de Toilette",
+  "category": "Beauty & Health",
+  "subcategory": "Fragrance",
+  "brand": "Novara",
+  "unit_cost": 42.6,
+  "list_price": 127.1,
+  "launch_date": "2020-01-06",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 4.28,
+   "rating": 4.9
+  }
+ },
+ {
+  "product_id": 65,
+  "sku": "SKU-EL00065",
+  "product_name": "Trailway Premium Fitness Band",
+  "category": "Electronics",
+  "subcategory": "Wearables",
+  "brand": "Quartzo",
+  "unit_cost": 870.7,
+  "list_price": 1151.58,
+  "launch_date": "2020-06-28",
+  "is_active": false,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 2.43,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 66,
+  "sku": "SKU-GR00066",
+  "product_name": "Lumenex Ultra Sparkling Water 12pk",
+  "category": "Grocery",
+  "subcategory": "Beverages",
+  "brand": "Quartzo",
+  "unit_cost": 5.53,
+  "list_price": 9.23,
+  "launch_date": "2021-05-22",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 4.92,
+   "rating": 3.6
+  }
+ },
+ {
+  "product_id": 67,
+  "sku": "SKU-GR00067",
+  "product_name": "Harborline Pro Trail Mix",
+  "category": "Grocery",
+  "subcategory": "Snacks",
+  "brand": "Trailway",
+  "unit_cost": 12.25,
+  "list_price": 16.3,
+  "launch_date": "2022-01-13",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 0.62,
+   "rating": 4.4
+  }
+ },
+ {
+  "product_id": 68,
+  "sku": "SKU-BE00068",
+  "product_name": "Novara Ultra Multivitamin",
+  "category": "Beauty & Health",
+  "subcategory": "Vitamins",
+  "brand": "Harborline",
+  "unit_cost": 46.51,
+  "list_price": 103.58,
+  "launch_date": "2020-08-07",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 11.45,
+   "rating": 3.7
+  }
+ },
+ {
+  "product_id": 69,
+  "sku": "SKU-HO00069",
+  "product_name": "Lumenex Classic Office Chair",
+  "category": "Home & Kitchen",
+  "subcategory": "Furniture",
+  "brand": "Kestrel",
+  "unit_cost": 246.66,
+  "list_price": 392.9,
+  "launch_date": "2021-09-13",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 1.9,
+   "rating": 3.3
+  }
+ },
+ {
+  "product_id": 70,
+  "sku": "SKU-HO00070",
+  "product_name": "Novara Max Office Chair",
+  "category": "Home & Kitchen",
+  "subcategory": "Furniture",
+  "brand": "Harborline",
+  "unit_cost": 116.22,
+  "list_price": 237.97,
+  "launch_date": "2022-03-13",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 4.95,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 71,
+  "sku": "SKU-GR00071",
+  "product_name": "Quartzo Pro Olive Oil",
+  "category": "Grocery",
+  "subcategory": "Pantry",
+  "brand": "Novara",
+  "unit_cost": 8.62,
+  "list_price": 11.9,
+  "launch_date": "2021-06-26",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 1.25,
+   "rating": 3.9
+  }
+ },
+ {
+  "product_id": 72,
+  "sku": "SKU-BE00072",
+  "product_name": "Lumenex Essential Eau de Toilette",
+  "category": "Beauty & Health",
+  "subcategory": "Fragrance",
+  "brand": "Harborline",
+  "unit_cost": 11.97,
+  "list_price": 24.49,
+  "launch_date": "2023-01-07",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 9.14,
+   "rating": 4.5
+  }
+ },
+ {
+  "product_id": 73,
+  "sku": "SKU-HO00073",
+  "product_name": "Solstice Premium Comforter Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Bedding",
+  "brand": "Harborline",
+  "unit_cost": 92.47,
+  "list_price": 156.03,
+  "launch_date": "2022-06-18",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 2.9,
+   "rating": 3.4
+  }
+ },
+ {
+  "product_id": 74,
+  "sku": "SKU-TO00074",
+  "product_name": "Harborline Max Building Block Set",
+  "category": "Toys & Games",
+  "subcategory": "Building Sets",
+  "brand": "Harborline",
+  "unit_cost": 26.21,
+  "list_price": 50.24,
+  "launch_date": "2020-07-24",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 1.32,
+   "rating": 3.8
+  }
+ },
+ {
+  "product_id": 75,
+  "sku": "SKU-AP00075",
+  "product_name": "Solstice Eco Running Shoes",
+  "category": "Apparel",
+  "subcategory": "Footwear",
+  "brand": "Novara",
+  "unit_cost": 55.55,
+  "list_price": 101.78,
+  "launch_date": "2020-04-13",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 7.04,
+   "rating": 4.8
+  }
+ },
+ {
+  "product_id": 76,
+  "sku": "SKU-HO00076",
+  "product_name": "Solstice Ultra Table Lamp",
+  "category": "Home & Kitchen",
+  "subcategory": "Decor",
+  "brand": "Novara",
+  "unit_cost": 261.44,
+  "list_price": 474.35,
+  "launch_date": "2021-12-17",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 4.15,
+   "rating": 2.9
+  }
+ },
+ {
+  "product_id": 77,
+  "sku": "SKU-HO00077",
+  "product_name": "Harborline Ultra Non-Stick Pan Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Cookware",
+  "brand": "Trailway",
+  "unit_cost": 184.63,
+  "list_price": 361.16,
+  "launch_date": "2022-04-17",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 7.49,
+   "rating": 3.0
+  }
+ },
+ {
+  "product_id": 78,
+  "sku": "SKU-EL00078",
+  "product_name": "Novara Deluxe Smart Hub",
+  "category": "Electronics",
+  "subcategory": "Smart Home",
+  "brand": "Bluepeak",
+  "unit_cost": 529.4,
+  "list_price": 673.47,
+  "launch_date": "2022-12-29",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 4.83,
+   "rating": 3.4
+  }
+ },
+ {
+  "product_id": 79,
+  "sku": "SKU-HO00079",
+  "product_name": "Trailway Deluxe Comforter Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Bedding",
+  "brand": "Quartzo",
+  "unit_cost": 132.34,
+  "list_price": 203.27,
+  "launch_date": "2020-02-07",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 4.43,
+   "rating": 3.2
+  }
+ },
+ {
+  "product_id": 80,
+  "sku": "SKU-BE00080",
+  "product_name": "Bluepeak Deluxe Eau de Toilette",
+  "category": "Beauty & Health",
+  "subcategory": "Fragrance",
+  "brand": "Novara",
+  "unit_cost": 13.37,
+  "list_price": 25.49,
+  "launch_date": "2020-07-04",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 5.58,
+   "rating": 3.2
+  }
+ },
+ {
+  "product_id": 81,
+  "sku": "SKU-EL00081",
+  "product_name": "Quartzo Pro Laptop 14\"",
+  "category": "Electronics",
+  "subcategory": "Laptops",
+  "brand": "Trailway",
+  "unit_cost": 532.27,
+  "list_price": 784.69,
+  "launch_date": "2022-10-30",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 3.47,
+   "rating": 3.9
+  }
+ },
+ {
+  "product_id": 82,
+  "sku": "SKU-EL00082",
+  "product_name": "Harborline Premium Laptop 14\"",
+  "category": "Electronics",
+  "subcategory": "Laptops",
+  "brand": "Bluepeak",
+  "unit_cost": 394.66,
+  "list_price": 597.41,
+  "launch_date": "2020-03-30",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 3.84,
+   "rating": 4.1
+  }
+ },
+ {
+  "product_id": 83,
+  "sku": "SKU-BE00083",
+  "product_name": "Bluepeak Eco Eau de Toilette",
+  "category": "Beauty & Health",
+  "subcategory": "Fragrance",
+  "brand": "Quartzo",
+  "unit_cost": 7.97,
+  "list_price": 21.39,
+  "launch_date": "2021-02-05",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 6.83,
+   "rating": 2.9
+  }
+ },
+ {
+  "product_id": 84,
+  "sku": "SKU-TO00084",
+  "product_name": "Harborline Eco Building Block Set",
+  "category": "Toys & Games",
+  "subcategory": "Building Sets",
+  "brand": "Kestrel",
+  "unit_cost": 29.93,
+  "list_price": 50.83,
+  "launch_date": "2023-02-25",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 0.55,
+   "rating": 4.6
+  }
+ },
+ {
+  "product_id": 85,
+  "sku": "SKU-EL00085",
+  "product_name": "Solstice Deluxe Smart Hub",
+  "category": "Electronics",
+  "subcategory": "Smart Home",
+  "brand": "Solstice",
+  "unit_cost": 571.61,
+  "list_price": 824.56,
+  "launch_date": "2023-04-08",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 7.94,
+   "rating": 3.8
+  }
+ },
+ {
+  "product_id": 86,
+  "sku": "SKU-GR00086",
+  "product_name": "Lumenex Compact Sparkling Water 12pk",
+  "category": "Grocery",
+  "subcategory": "Beverages",
+  "brand": "Harborline",
+  "unit_cost": 1.33,
+  "list_price": 2.14,
+  "launch_date": "2022-07-04",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 9.85,
+   "rating": 4.6
+  }
+ },
+ {
+  "product_id": 87,
+  "sku": "SKU-GR00087",
+  "product_name": "Quartzo Everyday Frozen Pizza",
+  "category": "Grocery",
+  "subcategory": "Frozen",
+  "brand": "Novara",
+  "unit_cost": 2.5,
+  "list_price": 3.41,
+  "launch_date": "2022-06-24",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 0.59,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 88,
+  "sku": "SKU-EL00088",
+  "product_name": "Novara Ultra Action Camera",
+  "category": "Electronics",
+  "subcategory": "Cameras",
+  "brand": "Quartzo",
+  "unit_cost": 337.26,
+  "list_price": 506.61,
+  "launch_date": "2020-10-05",
+  "is_active": false,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 11.95,
+   "rating": 4.4
+  }
+ },
+ {
+  "product_id": 89,
+  "sku": "SKU-EL00089",
+  "product_name": "Solstice Classic Tablet",
+  "category": "Electronics",
+  "subcategory": "Tablets",
+  "brand": "Harborline",
+  "unit_cost": 187.93,
+  "list_price": 293.17,
+  "launch_date": "2020-05-14",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 9.1,
+   "rating": 3.1
+  }
+ },
+ {
+  "product_id": 90,
+  "sku": "SKU-TO00090",
+  "product_name": "Solstice Max Water Blaster",
+  "category": "Toys & Games",
+  "subcategory": "Outdoor Play",
+  "brand": "Lumenex",
+  "unit_cost": 63.83,
+  "list_price": 125.43,
+  "launch_date": "2021-03-02",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 6.12,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 91,
+  "sku": "SKU-EL00091",
+  "product_name": "Solstice Everyday Tablet",
+  "category": "Electronics",
+  "subcategory": "Tablets",
+  "brand": "Quartzo",
+  "unit_cost": 229.32,
+  "list_price": 299.59,
+  "launch_date": "2020-12-11",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 1.47,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 92,
+  "sku": "SKU-BE00092",
+  "product_name": "Novara Premium Multivitamin",
+  "category": "Beauty & Health",
+  "subcategory": "Vitamins",
+  "brand": "Quartzo",
+  "unit_cost": 48.44,
+  "list_price": 116.18,
+  "launch_date": "2022-01-30",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 6.97,
+   "rating": 3.6
+  }
+ },
+ {
+  "product_id": 93,
+  "sku": "SKU-EL00093",
+  "product_name": "Kestrel Premium Smart Hub",
+  "category": "Electronics",
+  "subcategory": "Smart Home",
+  "brand": "Solstice",
+  "unit_cost": 268.64,
+  "list_price": 393.66,
+  "launch_date": "2021-09-27",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 7.07,
+   "rating": 4.3
+  }
+ },
+ {
+  "product_id": 94,
+  "sku": "SKU-HO00094",
+  "product_name": "Solstice Essential Non-Stick Pan Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Cookware",
+  "brand": "Quartzo",
+  "unit_cost": 227.17,
+  "list_price": 376.0,
+  "launch_date": "2022-05-05",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 1.67,
+   "rating": 3.3
+  }
+ },
+ {
+  "product_id": 95,
+  "sku": "SKU-BE00095",
+  "product_name": "Trailway Premium Face Serum",
+  "category": "Beauty & Health",
+  "subcategory": "Skincare",
+  "brand": "Novara",
+  "unit_cost": 5.03,
+  "list_price": 9.57,
+  "launch_date": "2022-12-07",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 5.02,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 96,
+  "sku": "SKU-AP00096",
+  "product_name": "Bluepeak Classic Women's Blouse",
+  "category": "Apparel",
+  "subcategory": "Women's Tops",
+  "brand": "Kestrel",
+  "unit_cost": 27.04,
+  "list_price": 66.59,
+  "launch_date": "2021-05-13",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 1.24,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 97,
+  "sku": "SKU-BE00097",
+  "product_name": "Kestrel Ultra Multivitamin",
+  "category": "Beauty & Health",
+  "subcategory": "Vitamins",
+  "brand": "Trailway",
+  "unit_cost": 22.49,
+  "list_price": 49.27,
+  "launch_date": "2023-03-30",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 8.83,
+   "rating": 3.3
+  }
+ },
+ {
+  "product_id": 98,
+  "sku": "SKU-EL00098",
+  "product_name": "Bluepeak Eco Laptop 14\"",
+  "category": "Electronics",
+  "subcategory": "Laptops",
+  "brand": "Bluepeak",
+  "unit_cost": 130.45,
+  "list_price": 164.21,
+  "launch_date": "2020-04-29",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 0.25,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 99,
+  "sku": "SKU-AP00099",
+  "product_name": "Quartzo Essential Women's Blouse",
+  "category": "Apparel",
+  "subcategory": "Women's Tops",
+  "brand": "Bluepeak",
+  "unit_cost": 29.49,
+  "list_price": 65.31,
+  "launch_date": "2022-11-07",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 7.55,
+   "rating": 5.0
+  }
+ },
+ {
+  "product_id": 100,
+  "sku": "SKU-BE00100",
+  "product_name": "Quartzo Compact Eau de Toilette",
+  "category": "Beauty & Health",
+  "subcategory": "Fragrance",
+  "brand": "Novara",
+  "unit_cost": 36.91,
+  "list_price": 70.39,
+  "launch_date": "2022-07-15",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 3.21,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 101,
+  "sku": "SKU-EL00101",
+  "product_name": "Solstice Ultra Wireless Headphones",
+  "category": "Electronics",
+  "subcategory": "Headphones",
+  "brand": "Solstice",
+  "unit_cost": 810.84,
+  "list_price": 1276.11,
+  "launch_date": "2023-02-08",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 9.48,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 102,
+  "sku": "SKU-HO00102",
+  "product_name": "Harborline Pro Comforter Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Bedding",
+  "brand": "Kestrel",
+  "unit_cost": 196.9,
+  "list_price": 428.38,
+  "launch_date": "2020-12-13",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 10.12,
+   "rating": 3.2
+  }
+ },
+ {
+  "product_id": 103,
+  "sku": "SKU-AP00103",
+  "product_name": "Harborline Deluxe Rain Jacket",
+  "category": "Apparel",
+  "subcategory": "Outerwear",
+  "brand": "Lumenex",
+  "unit_cost": 17.98,
+  "list_price": 37.96,
+  "launch_date": "2022-08-24",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 0.18,
+   "rating": 2.9
+  }
+ },
+ {
+  "product_id": 104,
+  "sku": "SKU-BE00104",
+  "product_name": "Harborline Deluxe Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Novara",
+  "unit_cost": 30.24,
+  "list_price": 67.69,
+  "launch_date": "2023-03-03",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 0.49,
+   "rating": 3.0
+  }
+ },
+ {
+  "product_id": 105,
+  "sku": "SKU-TO00105",
+  "product_name": "Kestrel Ultra Building Block Set",
+  "category": "Toys & Games",
+  "subcategory": "Building Sets",
+  "brand": "Kestrel",
+  "unit_cost": 27.42,
+  "list_price": 46.98,
+  "launch_date": "2020-10-10",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 0.61,
+   "rating": 2.9
+  }
+ },
+ {
+  "product_id": 106,
+  "sku": "SKU-EL00106",
+  "product_name": "Harborline Max Laptop 14\"",
+  "category": "Electronics",
+  "subcategory": "Laptops",
+  "brand": "Novara",
+  "unit_cost": 782.33,
+  "list_price": 1186.5,
+  "launch_date": "2022-02-25",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 2.52,
+   "rating": 2.9
+  }
+ },
+ {
+  "product_id": 107,
+  "sku": "SKU-BE00107",
+  "product_name": "Solstice Compact Face Serum",
+  "category": "Beauty & Health",
+  "subcategory": "Skincare",
+  "brand": "Novara",
+  "unit_cost": 41.95,
+  "list_price": 108.85,
+  "launch_date": "2020-09-28",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 7.79,
+   "rating": 3.4
+  }
+ },
+ {
+  "product_id": 108,
+  "sku": "SKU-HO00108",
+  "product_name": "Solstice Ultra Office Chair",
+  "category": "Home & Kitchen",
+  "subcategory": "Furniture",
+  "brand": "Trailway",
+  "unit_cost": 87.21,
+  "list_price": 152.24,
+  "launch_date": "2021-10-19",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 6.09,
+   "rating": 4.7
+  }
+ },
+ {
+  "product_id": 109,
+  "sku": "SKU-TO00109",
+  "product_name": "Novara Everyday Strategy Board Game",
+  "category": "Toys & Games",
+  "subcategory": "Board Games",
+  "brand": "Lumenex",
+  "unit_cost": 56.29,
+  "list_price": 91.47,
+  "launch_date": "2020-04-08",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 8.6,
+   "rating": 4.6
+  }
+ },
+ {
+  "product_id": 110,
+  "sku": "SKU-TO00110",
+  "product_name": "Harborline Premium Water Blaster",
+  "category": "Toys & Games",
+  "subcategory": "Outdoor Play",
+  "brand": "Kestrel",
+  "unit_cost": 16.07,
+  "list_price": 25.73,
+  "launch_date": "2020-01-09",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 5.95,
+   "rating": 4.6
+  }
+ },
+ {
+  "product_id": 111,
+  "sku": "SKU-AP00111",
+  "product_name": "Solstice Essential Running Shoes",
+  "category": "Apparel",
+  "subcategory": "Footwear",
+  "brand": "Bluepeak",
+  "unit_cost": 38.81,
+  "list_price": 99.58,
+  "launch_date": "2021-08-04",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 2.86,
+   "rating": 3.2
+  }
+ },
+ {
+  "product_id": 112,
+  "sku": "SKU-BE00112",
+  "product_name": "Novara Everyday Face Serum",
+  "category": "Beauty & Health",
+  "subcategory": "Skincare",
+  "brand": "Trailway",
+  "unit_cost": 26.55,
+  "list_price": 79.39,
+  "launch_date": "2020-07-13",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 10.71,
+   "rating": 4.4
+  }
+ },
+ {
+  "product_id": 113,
+  "sku": "SKU-GR00113",
+  "product_name": "Quartzo Max Trail Mix",
+  "category": "Grocery",
+  "subcategory": "Snacks",
+  "brand": "Bluepeak",
+  "unit_cost": 6.21,
+  "list_price": 9.01,
+  "launch_date": "2022-02-15",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 2.88,
+   "rating": 3.8
+  }
+ },
+ {
+  "product_id": 114,
+  "sku": "SKU-TO00114",
+  "product_name": "Bluepeak Compact Strategy Board Game",
+  "category": "Toys & Games",
+  "subcategory": "Board Games",
+  "brand": "Trailway",
+  "unit_cost": 27.65,
+  "list_price": 51.47,
+  "launch_date": "2020-12-13",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 9.3,
+   "rating": 4.1
+  }
+ },
+ {
+  "product_id": 115,
+  "sku": "SKU-AP00115",
+  "product_name": "Harborline Max Rain Jacket",
+  "category": "Apparel",
+  "subcategory": "Outerwear",
+  "brand": "Harborline",
+  "unit_cost": 32.02,
+  "list_price": 80.31,
+  "launch_date": "2021-07-01",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 9.94,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 116,
+  "sku": "SKU-BE00116",
+  "product_name": "Trailway Classic Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Harborline",
+  "unit_cost": 48.84,
+  "list_price": 131.65,
+  "launch_date": "2021-11-02",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 11.7,
+   "rating": 4.4
+  }
+ },
+ {
+  "product_id": 117,
+  "sku": "SKU-EL00117",
+  "product_name": "Quartzo Classic Tablet",
+  "category": "Electronics",
+  "subcategory": "Tablets",
+  "brand": "Bluepeak",
+  "unit_cost": 869.16,
+  "list_price": 1117.37,
+  "launch_date": "2021-09-10",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 3.36,
+   "rating": 3.0
+  }
+ },
+ {
+  "product_id": 118,
+  "sku": "SKU-EL00118",
+  "product_name": "Kestrel Ultra Wireless Headphones",
+  "category": "Electronics",
+  "subcategory": "Headphones",
+  "brand": "Quartzo",
+  "unit_cost": 249.28,
+  "list_price": 345.48,
+  "launch_date": "2022-06-13",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 11.77,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 119,
+  "sku": "SKU-EL00119",
+  "product_name": "Kestrel Eco Tablet",
+  "category": "Electronics",
+  "subcategory": "Tablets",
+  "brand": "Quartzo",
+  "unit_cost": 290.92,
+  "list_price": 438.82,
+  "launch_date": "2023-03-21",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 5.11,
+   "rating": 3.3
+  }
+ },
+ {
+  "product_id": 120,
+  "sku": "SKU-BE00120",
+  "product_name": "Lumenex Deluxe Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Trailway",
+  "unit_cost": 35.26,
+  "list_price": 91.88,
+  "launch_date": "2021-06-16",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 10.75,
+   "rating": 3.3
+  }
+ },
+ {
+  "product_id": 121,
+  "sku": "SKU-GR00121",
+  "product_name": "Lumenex Ultra Sparkling Water 12pk",
+  "category": "Grocery",
+  "subcategory": "Beverages",
+  "brand": "Quartzo",
+  "unit_cost": 4.5,
+  "list_price": 6.8,
+  "launch_date": "2022-11-27",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 2.28,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 122,
+  "sku": "SKU-EL00122",
+  "product_name": "Novara Ultra Smart Hub",
+  "category": "Electronics",
+  "subcategory": "Smart Home",
+  "brand": "Solstice",
+  "unit_cost": 762.13,
+  "list_price": 1194.92,
+  "launch_date": "2023-01-17",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 9.4,
+   "rating": 4.9
+  }
+ },
+ {
+  "product_id": 123,
+  "sku": "SKU-TO00123",
+  "product_name": "Harborline Compact Water Blaster",
+  "category": "Toys & Games",
+  "subcategory": "Outdoor Play",
+  "brand": "Kestrel",
+  "unit_cost": 11.57,
+  "list_price": 23.83,
+  "launch_date": "2022-01-27",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 8.93,
+   "rating": 3.8
+  }
+ },
+ {
+  "product_id": 124,
+  "sku": "SKU-BE00124",
+  "product_name": "Novara Essential Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Trailway",
+  "unit_cost": 22.05,
+  "list_price": 60.39,
+  "launch_date": "2020-04-25",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 4.86,
+   "rating": 2.8
+  }
+ },
+ {
+  "product_id": 125,
+  "sku": "SKU-GR00125",
+  "product_name": "Solstice Pro Frozen Pizza",
+  "category": "Grocery",
+  "subcategory": "Frozen",
+  "brand": "Harborline",
+  "unit_cost": 9.8,
+  "list_price": 16.05,
+  "launch_date": "2021-09-13",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 11.66,
+   "rating": 5.0
+  }
+ },
+ {
+  "product_id": 126,
+  "sku": "SKU-GR00126",
+  "product_name": "Novara Eco Frozen Pizza",
+  "category": "Grocery",
+  "subcategory": "Frozen",
+  "brand": "Lumenex",
+  "unit_cost": 3.97,
+  "list_price": 5.42,
+  "launch_date": "2023-02-25",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 11.57,
+   "rating": 3.6
+  }
+ },
+ {
+  "product_id": 127,
+  "sku": "SKU-BE00127",
+  "product_name": "Bluepeak Compact Eau de Toilette",
+  "category": "Beauty & Health",
+  "subcategory": "Fragrance",
+  "brand": "Trailway",
+  "unit_cost": 25.53,
+  "list_price": 56.77,
+  "launch_date": "2021-04-16",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 8.28,
+   "rating": 5.0
+  }
+ },
+ {
+  "product_id": 128,
+  "sku": "SKU-BE00128",
+  "product_name": "Solstice Everyday Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Harborline",
+  "unit_cost": 26.15,
+  "list_price": 72.85,
+  "launch_date": "2021-09-10",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 5.2,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 129,
+  "sku": "SKU-BE00129",
+  "product_name": "Quartzo Ultra Multivitamin",
+  "category": "Beauty & Health",
+  "subcategory": "Vitamins",
+  "brand": "Novara",
+  "unit_cost": 11.03,
+  "list_price": 24.64,
+  "launch_date": "2023-03-02",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 11.32,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 130,
+  "sku": "SKU-HO00130",
+  "product_name": "Novara Premium Table Lamp",
+  "category": "Home & Kitchen",
+  "subcategory": "Decor",
+  "brand": "Solstice",
+  "unit_cost": 16.32,
+  "list_price": 24.61,
+  "launch_date": "2020-07-26",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 2.88,
+   "rating": 4.5
+  }
+ },
+ {
+  "product_id": 131,
+  "sku": "SKU-HO00131",
+  "product_name": "Bluepeak Essential Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Small Appliances",
+  "brand": "Novara",
+  "unit_cost": 72.06,
+  "list_price": 128.39,
+  "launch_date": "2023-01-28",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 3.63,
+   "rating": 3.9
+  }
+ },
+ {
+  "product_id": 132,
+  "sku": "SKU-AP00132",
+  "product_name": "Novara Max Training Leggings",
+  "category": "Apparel",
+  "subcategory": "Activewear",
+  "brand": "Novara",
+  "unit_cost": 12.09,
+  "list_price": 29.88,
+  "launch_date": "2021-06-25",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 1.76,
+   "rating": 3.9
+  }
+ },
+ {
+  "product_id": 133,
+  "sku": "SKU-EL00133",
+  "product_name": "Lumenex Eco Smart Hub",
+  "category": "Electronics",
+  "subcategory": "Smart Home",
+  "brand": "Lumenex",
+  "unit_cost": 463.02,
+  "list_price": 602.18,
+  "launch_date": "2020-12-03",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 8.84,
+   "rating": 3.2
+  }
+ },
+ {
+  "product_id": 134,
+  "sku": "SKU-HO00134",
+  "product_name": "Solstice Compact Office Chair",
+  "category": "Home & Kitchen",
+  "subcategory": "Furniture",
+  "brand": "Trailway",
+  "unit_cost": 212.42,
+  "list_price": 392.62,
+  "launch_date": "2022-05-22",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 1.0,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 135,
+  "sku": "SKU-BE00135",
+  "product_name": "Trailway Pro Face Serum",
+  "category": "Beauty & Health",
+  "subcategory": "Skincare",
+  "brand": "Lumenex",
+  "unit_cost": 4.95,
+  "list_price": 9.65,
+  "launch_date": "2022-09-19",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 0.5,
+   "rating": 4.4
+  }
+ },
+ {
+  "product_id": 136,
+  "sku": "SKU-BE00136",
+  "product_name": "Trailway Everyday Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Lumenex",
+  "unit_cost": 19.58,
+  "list_price": 55.76,
+  "launch_date": "2022-12-12",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 3.48,
+   "rating": 3.6
+  }
+ },
+ {
+  "product_id": 137,
+  "sku": "SKU-HO00137",
+  "product_name": "Trailway Compact Table Lamp",
+  "category": "Home & Kitchen",
+  "subcategory": "Decor",
+  "brand": "Quartzo",
+  "unit_cost": 27.18,
+  "list_price": 46.27,
+  "launch_date": "2021-11-14",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 10.49,
+   "rating": 3.6
+  }
+ },
+ {
+  "product_id": 138,
+  "sku": "SKU-AP00138",
+  "product_name": "Trailway Premium Running Shoes",
+  "category": "Apparel",
+  "subcategory": "Footwear",
+  "brand": "Bluepeak",
+  "unit_cost": 49.18,
+  "list_price": 101.54,
+  "launch_date": "2020-06-28",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 4.85,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 139,
+  "sku": "SKU-GR00139",
+  "product_name": "Novara Ultra Olive Oil",
+  "category": "Grocery",
+  "subcategory": "Pantry",
+  "brand": "Kestrel",
+  "unit_cost": 9.04,
+  "list_price": 13.55,
+  "launch_date": "2021-01-23",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 7.34,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 140,
+  "sku": "SKU-TO00140",
+  "product_name": "Novara Eco 1000pc Puzzle",
+  "category": "Toys & Games",
+  "subcategory": "Puzzles",
+  "brand": "Kestrel",
+  "unit_cost": 45.09,
+  "list_price": 94.75,
+  "launch_date": "2022-07-26",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 1.31,
+   "rating": 3.2
+  }
+ },
+ {
+  "product_id": 141,
+  "sku": "SKU-EL00141",
+  "product_name": "Kestrel Everyday Smart Hub",
+  "category": "Electronics",
+  "subcategory": "Smart Home",
+  "brand": "Bluepeak",
+  "unit_cost": 715.12,
+  "list_price": 1122.69,
+  "launch_date": "2021-09-25",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 10.36,
+   "rating": 3.2
+  }
+ },
+ {
+  "product_id": 142,
+  "sku": "SKU-EL00142",
+  "product_name": "Kestrel Compact Wireless Headphones",
+  "category": "Electronics",
+  "subcategory": "Headphones",
+  "brand": "Kestrel",
+  "unit_cost": 96.72,
+  "list_price": 140.07,
+  "launch_date": "2020-08-31",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 6.95,
+   "rating": 4.8
+  }
+ },
+ {
+  "product_id": 143,
+  "sku": "SKU-GR00143",
+  "product_name": "Bluepeak Compact Trail Mix",
+  "category": "Grocery",
+  "subcategory": "Snacks",
+  "brand": "Quartzo",
+  "unit_cost": 1.2,
+  "list_price": 1.79,
+  "launch_date": "2023-01-28",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 5.72,
+   "rating": 4.8
+  }
+ },
+ {
+  "product_id": 144,
+  "sku": "SKU-BE00144",
+  "product_name": "Novara Pro Face Serum",
+  "category": "Beauty & Health",
+  "subcategory": "Skincare",
+  "brand": "Harborline",
+  "unit_cost": 23.64,
+  "list_price": 45.16,
+  "launch_date": "2020-09-05",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 3.38,
+   "rating": 4.1
+  }
+ },
+ {
+  "product_id": 145,
+  "sku": "SKU-GR00145",
+  "product_name": "Bluepeak Pro Sparkling Water 12pk",
+  "category": "Grocery",
+  "subcategory": "Beverages",
+  "brand": "Solstice",
+  "unit_cost": 13.92,
+  "list_price": 20.64,
+  "launch_date": "2023-02-15",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 8.07,
+   "rating": 4.8
+  }
+ },
+ {
+  "product_id": 146,
+  "sku": "SKU-EL00146",
+  "product_name": "Novara Deluxe Action Camera",
+  "category": "Electronics",
+  "subcategory": "Cameras",
+  "brand": "Solstice",
+  "unit_cost": 106.21,
+  "list_price": 135.01,
+  "launch_date": "2021-10-01",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 11.5,
+   "rating": 4.6
+  }
+ },
+ {
+  "product_id": 147,
+  "sku": "SKU-TO00147",
+  "product_name": "Lumenex Compact Strategy Board Game",
+  "category": "Toys & Games",
+  "subcategory": "Board Games",
+  "brand": "Bluepeak",
+  "unit_cost": 25.56,
+  "list_price": 60.3,
+  "launch_date": "2020-10-23",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 4.42,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 148,
+  "sku": "SKU-BE00148",
+  "product_name": "Lumenex Premium Eau de Toilette",
+  "category": "Beauty & Health",
+  "subcategory": "Fragrance",
+  "brand": "Trailway",
+  "unit_cost": 25.94,
+  "list_price": 71.49,
+  "launch_date": "2021-08-21",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 11.69,
+   "rating": 4.3
+  }
+ },
+ {
+  "product_id": 149,
+  "sku": "SKU-TO00149",
+  "product_name": "Kestrel Classic Water Blaster",
+  "category": "Toys & Games",
+  "subcategory": "Outdoor Play",
+  "brand": "Solstice",
+  "unit_cost": 61.52,
+  "list_price": 134.15,
+  "launch_date": "2023-04-12",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 4.58,
+   "rating": 4.3
+  }
+ },
+ {
+  "product_id": 150,
+  "sku": "SKU-TO00150",
+  "product_name": "Kestrel Everyday Building Block Set",
+  "category": "Toys & Games",
+  "subcategory": "Building Sets",
+  "brand": "Solstice",
+  "unit_cost": 57.49,
+  "list_price": 105.01,
+  "launch_date": "2021-07-02",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 11.06,
+   "rating": 4.5
+  }
+ },
+ {
+  "product_id": 151,
+  "sku": "SKU-EL00151",
+  "product_name": "Bluepeak Premium Wireless Headphones",
+  "category": "Electronics",
+  "subcategory": "Headphones",
+  "brand": "Lumenex",
+  "unit_cost": 763.25,
+  "list_price": 1170.91,
+  "launch_date": "2021-12-11",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 6.69,
+   "rating": 4.6
+  }
+ },
+ {
+  "product_id": 152,
+  "sku": "SKU-AP00152",
+  "product_name": "Quartzo Compact Women's Blouse",
+  "category": "Apparel",
+  "subcategory": "Women's Tops",
+  "brand": "Harborline",
+  "unit_cost": 24.09,
+  "list_price": 44.47,
+  "launch_date": "2021-06-05",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 9.52,
+   "rating": 3.8
+  }
+ },
+ {
+  "product_id": 153,
+  "sku": "SKU-EL00153",
+  "product_name": "Harborline Deluxe Fitness Band",
+  "category": "Electronics",
+  "subcategory": "Wearables",
+  "brand": "Solstice",
+  "unit_cost": 741.39,
+  "list_price": 1127.1,
+  "launch_date": "2022-12-04",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 7.11,
+   "rating": 3.2
+  }
+ },
+ {
+  "product_id": 154,
+  "sku": "SKU-AP00154",
+  "product_name": "Trailway Essential Men's T-Shirt",
+  "category": "Apparel",
+  "subcategory": "Men's Tops",
+  "brand": "Trailway",
+  "unit_cost": 17.4,
+  "list_price": 41.08,
+  "launch_date": "2022-04-04",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 1.87,
+   "rating": 2.9
+  }
+ },
+ {
+  "product_id": 155,
+  "sku": "SKU-GR00155",
+  "product_name": "Lumenex Pro Organic Granola",
+  "category": "Grocery",
+  "subcategory": "Organic",
+  "brand": "Bluepeak",
+  "unit_cost": 13.13,
+  "list_price": 19.51,
+  "launch_date": "2021-10-08",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 3.44,
+   "rating": 4.1
+  }
+ },
+ {
+  "product_id": 156,
+  "sku": "SKU-EL00156",
+  "product_name": "Lumenex Essential Laptop 14\"",
+  "category": "Electronics",
+  "subcategory": "Laptops",
+  "brand": "Harborline",
+  "unit_cost": 247.81,
+  "list_price": 385.29,
+  "launch_date": "2021-06-19",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 5.17,
+   "rating": 4.9
+  }
+ },
+ {
+  "product_id": 157,
+  "sku": "SKU-TO00157",
+  "product_name": "Harborline Classic Building Block Set",
+  "category": "Toys & Games",
+  "subcategory": "Building Sets",
+  "brand": "Quartzo",
+  "unit_cost": 21.51,
+  "list_price": 35.07,
+  "launch_date": "2020-06-20",
+  "is_active": false,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 6.73,
+   "rating": 4.7
+  }
+ },
+ {
+  "product_id": 158,
+  "sku": "SKU-GR00158",
+  "product_name": "Novara Essential Frozen Pizza",
+  "category": "Grocery",
+  "subcategory": "Frozen",
+  "brand": "Quartzo",
+  "unit_cost": 14.26,
+  "list_price": 25.03,
+  "launch_date": "2020-09-02",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 3.16,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 159,
+  "sku": "SKU-BE00159",
+  "product_name": "Quartzo Classic Face Serum",
+  "category": "Beauty & Health",
+  "subcategory": "Skincare",
+  "brand": "Lumenex",
+  "unit_cost": 48.0,
+  "list_price": 126.56,
+  "launch_date": "2020-11-23",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 11.9,
+   "rating": 3.3
+  }
+ },
+ {
+  "product_id": 160,
+  "sku": "SKU-EL00160",
+  "product_name": "Kestrel Ultra Wireless Headphones",
+  "category": "Electronics",
+  "subcategory": "Headphones",
+  "brand": "Solstice",
+  "unit_cost": 851.76,
+  "list_price": 1082.37,
+  "launch_date": "2022-11-17",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 9.16,
+   "rating": 3.9
+  }
+ },
+ {
+  "product_id": 161,
+  "sku": "SKU-EL00161",
+  "product_name": "Harborline Premium Tablet",
+  "category": "Electronics",
+  "subcategory": "Tablets",
+  "brand": "Lumenex",
+  "unit_cost": 340.5,
+  "list_price": 426.31,
+  "launch_date": "2020-08-03",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 3.16,
+   "rating": 3.1
+  }
+ },
+ {
+  "product_id": 162,
+  "sku": "SKU-GR00162",
+  "product_name": "Bluepeak Ultra Frozen Pizza",
+  "category": "Grocery",
+  "subcategory": "Frozen",
+  "brand": "Lumenex",
+  "unit_cost": 3.36,
+  "list_price": 4.77,
+  "launch_date": "2021-02-03",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 11.14,
+   "rating": 3.3
+  }
+ },
+ {
+  "product_id": 163,
+  "sku": "SKU-TO00163",
+  "product_name": "Lumenex Pro Water Blaster",
+  "category": "Toys & Games",
+  "subcategory": "Outdoor Play",
+  "brand": "Quartzo",
+  "unit_cost": 62.77,
+  "list_price": 107.45,
+  "launch_date": "2020-02-14",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 11.67,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 164,
+  "sku": "SKU-AP00164",
+  "product_name": "Trailway Eco Running Shoes",
+  "category": "Apparel",
+  "subcategory": "Footwear",
+  "brand": "Kestrel",
+  "unit_cost": 14.01,
+  "list_price": 29.32,
+  "launch_date": "2021-01-04",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 10.68,
+   "rating": 3.8
+  }
+ },
+ {
+  "product_id": 165,
+  "sku": "SKU-AP00165",
+  "product_name": "Kestrel Premium Rain Jacket",
+  "category": "Apparel",
+  "subcategory": "Outerwear",
+  "brand": "Solstice",
+  "unit_cost": 29.75,
+  "list_price": 59.42,
+  "launch_date": "2021-11-16",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 5.94,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 166,
+  "sku": "SKU-GR00166",
+  "product_name": "Harborline Max Trail Mix",
+  "category": "Grocery",
+  "subcategory": "Snacks",
+  "brand": "Lumenex",
+  "unit_cost": 3.15,
+  "list_price": 4.9,
+  "launch_date": "2021-08-09",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 2.5,
+   "rating": 3.6
+  }
+ },
+ {
+  "product_id": 167,
+  "sku": "SKU-HO00167",
+  "product_name": "Solstice Deluxe Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Small Appliances",
+  "brand": "Bluepeak",
+  "unit_cost": 278.42,
+  "list_price": 436.64,
+  "launch_date": "2020-04-27",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 1.82,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 168,
+  "sku": "SKU-GR00168",
+  "product_name": "Kestrel Max Olive Oil",
+  "category": "Grocery",
+  "subcategory": "Pantry",
+  "brand": "Solstice",
+  "unit_cost": 5.77,
+  "list_price": 7.91,
+  "launch_date": "2021-01-15",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 10.95,
+   "rating": 3.3
+  }
+ },
+ {
+  "product_id": 169,
+  "sku": "SKU-TO00169",
+  "product_name": "Harborline Classic Building Block Set",
+  "category": "Toys & Games",
+  "subcategory": "Building Sets",
+  "brand": "Harborline",
+  "unit_cost": 13.97,
+  "list_price": 24.37,
+  "launch_date": "2020-06-11",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 8.8,
+   "rating": 4.5
+  }
+ },
+ {
+  "product_id": 170,
+  "sku": "SKU-AP00170",
+  "product_name": "Harborline Essential Women's Blouse",
+  "category": "Apparel",
+  "subcategory": "Women's Tops",
+  "brand": "Solstice",
+  "unit_cost": 15.13,
+  "list_price": 35.34,
+  "launch_date": "2021-02-18",
+  "is_active": false,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 8.82,
+   "rating": 3.7
+  }
+ },
+ {
+  "product_id": 171,
+  "sku": "SKU-BE00171",
+  "product_name": "Solstice Compact Face Serum",
+  "category": "Beauty & Health",
+  "subcategory": "Skincare",
+  "brand": "Novara",
+  "unit_cost": 27.85,
+  "list_price": 63.56,
+  "launch_date": "2020-02-01",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 5.77,
+   "rating": 4.7
+  }
+ },
+ {
+  "product_id": 172,
+  "sku": "SKU-HO00172",
+  "product_name": "Trailway Ultra Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Small Appliances",
+  "brand": "Bluepeak",
+  "unit_cost": 65.58,
+  "list_price": 136.55,
+  "launch_date": "2022-01-30",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 0.16,
+   "rating": 3.9
+  }
+ },
+ {
+  "product_id": 173,
+  "sku": "SKU-GR00173",
+  "product_name": "Harborline Everyday Olive Oil",
+  "category": "Grocery",
+  "subcategory": "Pantry",
+  "brand": "Quartzo",
+  "unit_cost": 2.0,
+  "list_price": 2.96,
+  "launch_date": "2023-03-26",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 3.57,
+   "rating": 3.0
+  }
+ },
+ {
+  "product_id": 174,
+  "sku": "SKU-BE00174",
+  "product_name": "Bluepeak Ultra Eau de Toilette",
+  "category": "Beauty & Health",
+  "subcategory": "Fragrance",
+  "brand": "Harborline",
+  "unit_cost": 24.54,
+  "list_price": 47.32,
+  "launch_date": "2020-06-30",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 2.1,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 175,
+  "sku": "SKU-TO00175",
+  "product_name": "Harborline Premium Strategy Board Game",
+  "category": "Toys & Games",
+  "subcategory": "Board Games",
+  "brand": "Kestrel",
+  "unit_cost": 6.26,
+  "list_price": 14.65,
+  "launch_date": "2023-03-26",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 8.46,
+   "rating": 3.0
+  }
+ },
+ {
+  "product_id": 176,
+  "sku": "SKU-EL00176",
+  "product_name": "Lumenex Compact Action Camera",
+  "category": "Electronics",
+  "subcategory": "Cameras",
+  "brand": "Solstice",
+  "unit_cost": 226.76,
+  "list_price": 305.12,
+  "launch_date": "2020-08-13",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 10.62,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 177,
+  "sku": "SKU-AP00177",
+  "product_name": "Quartzo Classic Women's Blouse",
+  "category": "Apparel",
+  "subcategory": "Women's Tops",
+  "brand": "Kestrel",
+  "unit_cost": 15.66,
+  "list_price": 35.36,
+  "launch_date": "2022-03-07",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 10.09,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 178,
+  "sku": "SKU-GR00178",
+  "product_name": "Harborline Everyday Trail Mix",
+  "category": "Grocery",
+  "subcategory": "Snacks",
+  "brand": "Quartzo",
+  "unit_cost": 11.88,
+  "list_price": 17.45,
+  "launch_date": "2023-03-01",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 9.8,
+   "rating": 4.7
+  }
+ },
+ {
+  "product_id": 179,
+  "sku": "SKU-EL00179",
+  "product_name": "Trailway Eco Wireless Headphones",
+  "category": "Electronics",
+  "subcategory": "Headphones",
+  "brand": "Quartzo",
+  "unit_cost": 504.25,
+  "list_price": 799.36,
+  "launch_date": "2020-01-24",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 2.33,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 180,
+  "sku": "SKU-AP00180",
+  "product_name": "Quartzo Deluxe Training Leggings",
+  "category": "Apparel",
+  "subcategory": "Activewear",
+  "brand": "Lumenex",
+  "unit_cost": 42.8,
+  "list_price": 84.76,
+  "launch_date": "2020-04-05",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 0.51,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 181,
+  "sku": "SKU-HO00181",
+  "product_name": "Kestrel Essential Table Lamp",
+  "category": "Home & Kitchen",
+  "subcategory": "Decor",
+  "brand": "Novara",
+  "unit_cost": 90.75,
+  "list_price": 170.57,
+  "launch_date": "2021-05-28",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 5.26,
+   "rating": 4.9
+  }
+ },
+ {
+  "product_id": 182,
+  "sku": "SKU-HO00182",
+  "product_name": "Novara Ultra Non-Stick Pan Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Cookware",
+  "brand": "Solstice",
+  "unit_cost": 99.96,
+  "list_price": 195.25,
+  "launch_date": "2020-06-22",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 11.19,
+   "rating": 3.8
+  }
+ },
+ {
+  "product_id": 183,
+  "sku": "SKU-TO00183",
+  "product_name": "Solstice Premium Building Block Set",
+  "category": "Toys & Games",
+  "subcategory": "Building Sets",
+  "brand": "Harborline",
+  "unit_cost": 62.54,
+  "list_price": 145.87,
+  "launch_date": "2020-06-28",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 10.09,
+   "rating": 4.1
+  }
+ },
+ {
+  "product_id": 184,
+  "sku": "SKU-TO00184",
+  "product_name": "Trailway Compact Building Block Set",
+  "category": "Toys & Games",
+  "subcategory": "Building Sets",
+  "brand": "Solstice",
+  "unit_cost": 47.27,
+  "list_price": 83.24,
+  "launch_date": "2022-09-05",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 0.47,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 185,
+  "sku": "SKU-AP00185",
+  "product_name": "Quartzo Ultra Training Leggings",
+  "category": "Apparel",
+  "subcategory": "Activewear",
+  "brand": "Trailway",
+  "unit_cost": 36.39,
+  "list_price": 93.73,
+  "launch_date": "2020-11-28",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 3.96,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 186,
+  "sku": "SKU-HO00186",
+  "product_name": "Kestrel Ultra Comforter Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Bedding",
+  "brand": "Bluepeak",
+  "unit_cost": 264.97,
+  "list_price": 437.54,
+  "launch_date": "2023-02-02",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 4.24,
+   "rating": 4.2
+  }
+ },
+ {
+  "product_id": 187,
+  "sku": "SKU-TO00187",
+  "product_name": "Novara Max 1000pc Puzzle",
+  "category": "Toys & Games",
+  "subcategory": "Puzzles",
+  "brand": "Harborline",
+  "unit_cost": 59.23,
+  "list_price": 111.55,
+  "launch_date": "2020-11-12",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 4.29,
+   "rating": 4.3
+  }
+ },
+ {
+  "product_id": 188,
+  "sku": "SKU-TO00188",
+  "product_name": "Lumenex Premium Water Blaster",
+  "category": "Toys & Games",
+  "subcategory": "Outdoor Play",
+  "brand": "Bluepeak",
+  "unit_cost": 58.38,
+  "list_price": 117.59,
+  "launch_date": "2022-04-25",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 4.98,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 189,
+  "sku": "SKU-EL00189",
+  "product_name": "Bluepeak Deluxe Smart Hub",
+  "category": "Electronics",
+  "subcategory": "Smart Home",
+  "brand": "Solstice",
+  "unit_cost": 405.94,
+  "list_price": 648.5,
+  "launch_date": "2020-08-15",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 8.34,
+   "rating": 3.4
+  }
+ },
+ {
+  "product_id": 190,
+  "sku": "SKU-HO00190",
+  "product_name": "Quartzo Everyday Comforter Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Bedding",
+  "brand": "Kestrel",
+  "unit_cost": 113.65,
+  "list_price": 212.33,
+  "launch_date": "2022-10-20",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 2.29,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 191,
+  "sku": "SKU-AP00191",
+  "product_name": "Novara Everyday Running Shoes",
+  "category": "Apparel",
+  "subcategory": "Footwear",
+  "brand": "Trailway",
+  "unit_cost": 37.92,
+  "list_price": 85.9,
+  "launch_date": "2021-05-11",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 11.67,
+   "rating": 4.8
+  }
+ },
+ {
+  "product_id": 192,
+  "sku": "SKU-EL00192",
+  "product_name": "Lumenex Premium Laptop 14\"",
+  "category": "Electronics",
+  "subcategory": "Laptops",
+  "brand": "Solstice",
+  "unit_cost": 118.9,
+  "list_price": 172.13,
+  "launch_date": "2023-01-07",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 6.26,
+   "rating": 3.9
+  }
+ },
+ {
+  "product_id": 193,
+  "sku": "SKU-BE00193",
+  "product_name": "Trailway Compact Eau de Toilette",
+  "category": "Beauty & Health",
+  "subcategory": "Fragrance",
+  "brand": "Kestrel",
+  "unit_cost": 21.92,
+  "list_price": 50.27,
+  "launch_date": "2020-05-19",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 4.97,
+   "rating": 3.9
+  }
+ },
+ {
+  "product_id": 194,
+  "sku": "SKU-BE00194",
+  "product_name": "Lumenex Deluxe Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Lumenex",
+  "unit_cost": 44.47,
+  "list_price": 131.67,
+  "launch_date": "2021-12-04",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 9.81,
+   "rating": 3.2
+  }
+ },
+ {
+  "product_id": 195,
+  "sku": "SKU-HO00195",
+  "product_name": "Bluepeak Pro Comforter Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Bedding",
+  "brand": "Solstice",
+  "unit_cost": 293.79,
+  "list_price": 610.56,
+  "launch_date": "2021-12-04",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 10.67,
+   "rating": 3.7
+  }
+ },
+ {
+  "product_id": 196,
+  "sku": "SKU-AP00196",
+  "product_name": "Harborline Deluxe Training Leggings",
+  "category": "Apparel",
+  "subcategory": "Activewear",
+  "brand": "Bluepeak",
+  "unit_cost": 23.08,
+  "list_price": 50.99,
+  "launch_date": "2020-05-03",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 1.37,
+   "rating": 4.1
+  }
+ },
+ {
+  "product_id": 197,
+  "sku": "SKU-BE00197",
+  "product_name": "Kestrel Premium Face Serum",
+  "category": "Beauty & Health",
+  "subcategory": "Skincare",
+  "brand": "Kestrel",
+  "unit_cost": 35.82,
+  "list_price": 68.48,
+  "launch_date": "2021-09-15",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 7.08,
+   "rating": 4.3
+  }
+ },
+ {
+  "product_id": 198,
+  "sku": "SKU-AP00198",
+  "product_name": "Solstice Max Women's Blouse",
+  "category": "Apparel",
+  "subcategory": "Women's Tops",
+  "brand": "Bluepeak",
+  "unit_cost": 33.89,
+  "list_price": 76.0,
+  "launch_date": "2023-03-22",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 1.55,
+   "rating": 3.1
+  }
+ },
+ {
+  "product_id": 199,
+  "sku": "SKU-TO00199",
+  "product_name": "Lumenex Compact Strategy Board Game",
+  "category": "Toys & Games",
+  "subcategory": "Board Games",
+  "brand": "Quartzo",
+  "unit_cost": 6.89,
+  "list_price": 11.44,
+  "launch_date": "2020-05-07",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 9.27,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 200,
+  "sku": "SKU-BE00200",
+  "product_name": "Solstice Pro Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Novara",
+  "unit_cost": 20.28,
+  "list_price": 42.31,
+  "launch_date": "2021-12-15",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 4.69,
+   "rating": 2.9
+  }
+ },
+ {
+  "product_id": 201,
+  "sku": "SKU-GR00201",
+  "product_name": "Kestrel Essential Olive Oil",
+  "category": "Grocery",
+  "subcategory": "Pantry",
+  "brand": "Harborline",
+  "unit_cost": 11.7,
+  "list_price": 15.47,
+  "launch_date": "2021-05-25",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 11.18,
+   "rating": 4.7
+  }
+ },
+ {
+  "product_id": 202,
+  "sku": "SKU-HO00202",
+  "product_name": "Solstice Deluxe Non-Stick Pan Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Cookware",
+  "brand": "Solstice",
+  "unit_cost": 270.87,
+  "list_price": 561.01,
+  "launch_date": "2022-10-11",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 2.99,
+   "rating": 3.7
+  }
+ },
+ {
+  "product_id": 203,
+  "sku": "SKU-BE00203",
+  "product_name": "Lumenex Ultra Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Harborline",
+  "unit_cost": 23.02,
+  "list_price": 53.83,
+  "launch_date": "2020-06-28",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 4.61,
+   "rating": 2.8
+  }
+ },
+ {
+  "product_id": 204,
+  "sku": "SKU-HO00204",
+  "product_name": "Quartzo Everyday Office Chair",
+  "category": "Home & Kitchen",
+  "subcategory": "Furniture",
+  "brand": "Quartzo",
+  "unit_cost": 173.72,
+  "list_price": 274.55,
+  "launch_date": "2020-05-14",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 9.93,
+   "rating": 3.6
+  }
+ },
+ {
+  "product_id": 205,
+  "sku": "SKU-AP00205",
+  "product_name": "Harborline Deluxe Running Shoes",
+  "category": "Apparel",
+  "subcategory": "Footwear",
+  "brand": "Kestrel",
+  "unit_cost": 17.94,
+  "list_price": 36.36,
+  "launch_date": "2021-07-25",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 9.68,
+   "rating": 3.3
+  }
+ },
+ {
+  "product_id": 206,
+  "sku": "SKU-AP00206",
+  "product_name": "Bluepeak Max Men's T-Shirt",
+  "category": "Apparel",
+  "subcategory": "Men's Tops",
+  "brand": "Lumenex",
+  "unit_cost": 18.21,
+  "list_price": 40.72,
+  "launch_date": "2022-08-14",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 2.96,
+   "rating": 3.6
+  }
+ },
+ {
+  "product_id": 207,
+  "sku": "SKU-AP00207",
+  "product_name": "Harborline Premium Running Shoes",
+  "category": "Apparel",
+  "subcategory": "Footwear",
+  "brand": "Lumenex",
+  "unit_cost": 27.6,
+  "list_price": 70.84,
+  "launch_date": "2022-10-30",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 5.49,
+   "rating": 3.1
+  }
+ },
+ {
+  "product_id": 208,
+  "sku": "SKU-BE00208",
+  "product_name": "Trailway Max Multivitamin",
+  "category": "Beauty & Health",
+  "subcategory": "Vitamins",
+  "brand": "Harborline",
+  "unit_cost": 31.41,
+  "list_price": 74.89,
+  "launch_date": "2022-04-07",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 1.59,
+   "rating": 4.5
+  }
+ },
+ {
+  "product_id": 209,
+  "sku": "SKU-BE00209",
+  "product_name": "Quartzo Ultra Face Serum",
+  "category": "Beauty & Health",
+  "subcategory": "Skincare",
+  "brand": "Bluepeak",
+  "unit_cost": 28.96,
+  "list_price": 63.64,
+  "launch_date": "2021-09-28",
+  "is_active": false,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 1.12,
+   "rating": 3.2
+  }
+ },
+ {
+  "product_id": 210,
+  "sku": "SKU-AP00210",
+  "product_name": "Novara Max Rain Jacket",
+  "category": "Apparel",
+  "subcategory": "Outerwear",
+  "brand": "Trailway",
+  "unit_cost": 17.79,
+  "list_price": 44.71,
+  "launch_date": "2022-10-21",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 0.88,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 211,
+  "sku": "SKU-AP00211",
+  "product_name": "Solstice Everyday Rain Jacket",
+  "category": "Apparel",
+  "subcategory": "Outerwear",
+  "brand": "Quartzo",
+  "unit_cost": 14.56,
+  "list_price": 34.56,
+  "launch_date": "2022-08-09",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 10.35,
+   "rating": 3.1
+  }
+ },
+ {
+  "product_id": 212,
+  "sku": "SKU-HO00212",
+  "product_name": "Trailway Deluxe Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Small Appliances",
+  "brand": "Kestrel",
+  "unit_cost": 20.52,
+  "list_price": 40.54,
+  "launch_date": "2022-08-05",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 4.87,
+   "rating": 4.8
+  }
+ },
+ {
+  "product_id": 213,
+  "sku": "SKU-EL00213",
+  "product_name": "Harborline Ultra Tablet",
+  "category": "Electronics",
+  "subcategory": "Tablets",
+  "brand": "Quartzo",
+  "unit_cost": 319.01,
+  "list_price": 429.01,
+  "launch_date": "2020-03-22",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 2.46,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 214,
+  "sku": "SKU-GR00214",
+  "product_name": "Bluepeak Essential Trail Mix",
+  "category": "Grocery",
+  "subcategory": "Snacks",
+  "brand": "Harborline",
+  "unit_cost": 8.73,
+  "list_price": 14.1,
+  "launch_date": "2023-03-13",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 3.13,
+   "rating": 3.8
+  }
+ },
+ {
+  "product_id": 215,
+  "sku": "SKU-BE00215",
+  "product_name": "Solstice Ultra Multivitamin",
+  "category": "Beauty & Health",
+  "subcategory": "Vitamins",
+  "brand": "Kestrel",
+  "unit_cost": 47.04,
+  "list_price": 95.16,
+  "launch_date": "2021-05-15",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 9.52,
+   "rating": 3.3
+  }
+ },
+ {
+  "product_id": 216,
+  "sku": "SKU-HO00216",
+  "product_name": "Harborline Premium Non-Stick Pan Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Cookware",
+  "brand": "Novara",
+  "unit_cost": 132.16,
+  "list_price": 267.06,
+  "launch_date": "2021-12-15",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 5.37,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 217,
+  "sku": "SKU-TO00217",
+  "product_name": "Harborline Deluxe 1000pc Puzzle",
+  "category": "Toys & Games",
+  "subcategory": "Puzzles",
+  "brand": "Bluepeak",
+  "unit_cost": 38.06,
+  "list_price": 81.5,
+  "launch_date": "2022-09-29",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 11.43,
+   "rating": 4.6
+  }
+ },
+ {
+  "product_id": 218,
+  "sku": "SKU-TO00218",
+  "product_name": "Harborline Max Water Blaster",
+  "category": "Toys & Games",
+  "subcategory": "Outdoor Play",
+  "brand": "Solstice",
+  "unit_cost": 16.34,
+  "list_price": 28.28,
+  "launch_date": "2021-05-26",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 4.36,
+   "rating": 3.7
+  }
+ },
+ {
+  "product_id": 219,
+  "sku": "SKU-AP00219",
+  "product_name": "Lumenex Compact Rain Jacket",
+  "category": "Apparel",
+  "subcategory": "Outerwear",
+  "brand": "Harborline",
+  "unit_cost": 15.13,
+  "list_price": 35.54,
+  "launch_date": "2021-05-10",
+  "is_active": false,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 5.4,
+   "rating": 4.9
+  }
+ },
+ {
+  "product_id": 220,
+  "sku": "SKU-HO00220",
+  "product_name": "Harborline Everyday Comforter Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Bedding",
+  "brand": "Novara",
+  "unit_cost": 50.42,
+  "list_price": 100.61,
+  "launch_date": "2023-01-27",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 8.16,
+   "rating": 3.1
+  }
+ },
+ {
+  "product_id": 221,
+  "sku": "SKU-GR00221",
+  "product_name": "Solstice Ultra Frozen Pizza",
+  "category": "Grocery",
+  "subcategory": "Frozen",
+  "brand": "Trailway",
+  "unit_cost": 12.64,
+  "list_price": 17.16,
+  "launch_date": "2022-09-23",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 10.76,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 222,
+  "sku": "SKU-EL00222",
+  "product_name": "Bluepeak Everyday Action Camera",
+  "category": "Electronics",
+  "subcategory": "Cameras",
+  "brand": "Lumenex",
+  "unit_cost": 333.31,
+  "list_price": 528.97,
+  "launch_date": "2022-08-17",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 2.1,
+   "rating": 3.0
+  }
+ },
+ {
+  "product_id": 223,
+  "sku": "SKU-EL00223",
+  "product_name": "Novara Everyday Smart Hub",
+  "category": "Electronics",
+  "subcategory": "Smart Home",
+  "brand": "Solstice",
+  "unit_cost": 893.54,
+  "list_price": 1351.62,
+  "launch_date": "2020-08-10",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 5.91,
+   "rating": 4.5
+  }
+ },
+ {
+  "product_id": 224,
+  "sku": "SKU-HO00224",
+  "product_name": "Solstice Essential Non-Stick Pan Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Cookware",
+  "brand": "Solstice",
+  "unit_cost": 115.48,
+  "list_price": 180.57,
+  "launch_date": "2021-05-18",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 0.43,
+   "rating": 4.5
+  }
+ },
+ {
+  "product_id": 225,
+  "sku": "SKU-AP00225",
+  "product_name": "Bluepeak Pro Rain Jacket",
+  "category": "Apparel",
+  "subcategory": "Outerwear",
+  "brand": "Solstice",
+  "unit_cost": 27.13,
+  "list_price": 69.71,
+  "launch_date": "2021-10-31",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 9.92,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 226,
+  "sku": "SKU-HO00226",
+  "product_name": "Solstice Eco Air Fryer",
+  "category": "Home & Kitchen",
+  "subcategory": "Small Appliances",
+  "brand": "Kestrel",
+  "unit_cost": 170.73,
+  "list_price": 300.23,
+  "launch_date": "2020-03-25",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 7.58,
+   "rating": 4.6
+  }
+ },
+ {
+  "product_id": 227,
+  "sku": "SKU-BE00227",
+  "product_name": "Lumenex Deluxe Eau de Toilette",
+  "category": "Beauty & Health",
+  "subcategory": "Fragrance",
+  "brand": "Lumenex",
+  "unit_cost": 45.64,
+  "list_price": 134.16,
+  "launch_date": "2020-11-18",
+  "is_active": true,
+  "attributes": {
+   "color": "Green",
+   "weight_kg": 7.02,
+   "rating": 3.0
+  }
+ },
+ {
+  "product_id": 228,
+  "sku": "SKU-BE00228",
+  "product_name": "Quartzo Pro Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Kestrel",
+  "unit_cost": 11.53,
+  "list_price": 27.53,
+  "launch_date": "2022-06-19",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 8.7,
+   "rating": 2.8
+  }
+ },
+ {
+  "product_id": 229,
+  "sku": "SKU-TO00229",
+  "product_name": "Kestrel Max 1000pc Puzzle",
+  "category": "Toys & Games",
+  "subcategory": "Puzzles",
+  "brand": "Quartzo",
+  "unit_cost": 14.31,
+  "list_price": 23.72,
+  "launch_date": "2021-11-24",
+  "is_active": true,
+  "attributes": {
+   "color": "Black",
+   "weight_kg": 8.03,
+   "rating": 4.6
+  }
+ },
+ {
+  "product_id": 230,
+  "sku": "SKU-BE00230",
+  "product_name": "Trailway Essential Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Harborline",
+  "unit_cost": 21.43,
+  "list_price": 40.82,
+  "launch_date": "2022-08-18",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 6.25,
+   "rating": 3.7
+  }
+ },
+ {
+  "product_id": 231,
+  "sku": "SKU-TO00231",
+  "product_name": "Novara Ultra Building Block Set",
+  "category": "Toys & Games",
+  "subcategory": "Building Sets",
+  "brand": "Trailway",
+  "unit_cost": 68.33,
+  "list_price": 161.9,
+  "launch_date": "2021-08-31",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 11.44,
+   "rating": 3.9
+  }
+ },
+ {
+  "product_id": 232,
+  "sku": "SKU-BE00232",
+  "product_name": "Kestrel Eco Shampoo",
+  "category": "Beauty & Health",
+  "subcategory": "Haircare",
+  "brand": "Harborline",
+  "unit_cost": 17.77,
+  "list_price": 40.48,
+  "launch_date": "2022-07-05",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 7.96,
+   "rating": 3.6
+  }
+ },
+ {
+  "product_id": 233,
+  "sku": "SKU-TO00233",
+  "product_name": "Lumenex Deluxe 1000pc Puzzle",
+  "category": "Toys & Games",
+  "subcategory": "Puzzles",
+  "brand": "Solstice",
+  "unit_cost": 28.4,
+  "list_price": 50.9,
+  "launch_date": "2020-08-21",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 6.62,
+   "rating": 3.0
+  }
+ },
+ {
+  "product_id": 234,
+  "sku": "SKU-HO00234",
+  "product_name": "Lumenex Eco Non-Stick Pan Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Cookware",
+  "brand": "Lumenex",
+  "unit_cost": 66.01,
+  "list_price": 129.98,
+  "launch_date": "2021-04-08",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 1.44,
+   "rating": 3.9
+  }
+ },
+ {
+  "product_id": 235,
+  "sku": "SKU-TO00235",
+  "product_name": "Lumenex Classic Strategy Board Game",
+  "category": "Toys & Games",
+  "subcategory": "Board Games",
+  "brand": "Novara",
+  "unit_cost": 60.35,
+  "list_price": 129.37,
+  "launch_date": "2022-11-21",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 8.26,
+   "rating": 4.0
+  }
+ },
+ {
+  "product_id": 236,
+  "sku": "SKU-AP00236",
+  "product_name": "Trailway Essential Training Leggings",
+  "category": "Apparel",
+  "subcategory": "Activewear",
+  "brand": "Kestrel",
+  "unit_cost": 32.71,
+  "list_price": 61.31,
+  "launch_date": "2022-04-08",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 0.6,
+   "rating": 4.3
+  }
+ },
+ {
+  "product_id": 237,
+  "sku": "SKU-AP00237",
+  "product_name": "Quartzo Pro Running Shoes",
+  "category": "Apparel",
+  "subcategory": "Footwear",
+  "brand": "Harborline",
+  "unit_cost": 23.6,
+  "list_price": 55.84,
+  "launch_date": "2023-02-26",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 10.46,
+   "rating": 3.2
+  }
+ },
+ {
+  "product_id": 238,
+  "sku": "SKU-BE00238",
+  "product_name": "Kestrel Premium Multivitamin",
+  "category": "Beauty & Health",
+  "subcategory": "Vitamins",
+  "brand": "Novara",
+  "unit_cost": 40.99,
+  "list_price": 111.07,
+  "launch_date": "2021-05-05",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 6.34,
+   "rating": 3.6
+  }
+ },
+ {
+  "product_id": 239,
+  "sku": "SKU-GR00239",
+  "product_name": "Trailway Max Trail Mix",
+  "category": "Grocery",
+  "subcategory": "Snacks",
+  "brand": "Trailway",
+  "unit_cost": 12.43,
+  "list_price": 18.36,
+  "launch_date": "2020-08-19",
+  "is_active": false,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 2.99,
+   "rating": 3.6
+  }
+ },
+ {
+  "product_id": 240,
+  "sku": "SKU-BE00240",
+  "product_name": "Lumenex Pro Eau de Toilette",
+  "category": "Beauty & Health",
+  "subcategory": "Fragrance",
+  "brand": "Kestrel",
+  "unit_cost": 4.98,
+  "list_price": 14.88,
+  "launch_date": "2022-09-26",
+  "is_active": true,
+  "attributes": {
+   "color": null,
+   "weight_kg": 3.18,
+   "rating": 3.1
+  }
+ },
+ {
+  "product_id": 241,
+  "sku": "SKU-HO00241",
+  "product_name": "Solstice Max Office Chair",
+  "category": "Home & Kitchen",
+  "subcategory": "Furniture",
+  "brand": "Solstice",
+  "unit_cost": 252.83,
+  "list_price": 483.37,
+  "launch_date": "2022-06-28",
+  "is_active": false,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 11.93,
+   "rating": 3.9
+  }
+ },
+ {
+  "product_id": 242,
+  "sku": "SKU-GR00242",
+  "product_name": "Bluepeak Essential Trail Mix",
+  "category": "Grocery",
+  "subcategory": "Snacks",
+  "brand": "Quartzo",
+  "unit_cost": 12.21,
+  "list_price": 16.09,
+  "launch_date": "2022-09-01",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 10.16,
+   "rating": 3.7
+  }
+ },
+ {
+  "product_id": 243,
+  "sku": "SKU-TO00243",
+  "product_name": "Solstice Classic Strategy Board Game",
+  "category": "Toys & Games",
+  "subcategory": "Board Games",
+  "brand": "Kestrel",
+  "unit_cost": 28.46,
+  "list_price": 57.56,
+  "launch_date": "2021-03-08",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 8.75,
+   "rating": 3.5
+  }
+ },
+ {
+  "product_id": 244,
+  "sku": "SKU-GR00244",
+  "product_name": "Trailway Essential Frozen Pizza",
+  "category": "Grocery",
+  "subcategory": "Frozen",
+  "brand": "Lumenex",
+  "unit_cost": 14.12,
+  "list_price": 20.58,
+  "launch_date": "2021-11-14",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 5.57,
+   "rating": 5.0
+  }
+ },
+ {
+  "product_id": 245,
+  "sku": "SKU-EL00245",
+  "product_name": "Solstice Deluxe Action Camera",
+  "category": "Electronics",
+  "subcategory": "Cameras",
+  "brand": "Solstice",
+  "unit_cost": 199.58,
+  "list_price": 296.34,
+  "launch_date": "2020-05-10",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 4.35,
+   "rating": 4.1
+  }
+ },
+ {
+  "product_id": 246,
+  "sku": "SKU-TO00246",
+  "product_name": "Novara Eco Building Block Set",
+  "category": "Toys & Games",
+  "subcategory": "Building Sets",
+  "brand": "Quartzo",
+  "unit_cost": 69.49,
+  "list_price": 113.08,
+  "launch_date": "2023-03-16",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 9.52,
+   "rating": 4.5
+  }
+ },
+ {
+  "product_id": 247,
+  "sku": "SKU-AP00247",
+  "product_name": "Trailway Everyday Women's Blouse",
+  "category": "Apparel",
+  "subcategory": "Women's Tops",
+  "brand": "Harborline",
+  "unit_cost": 43.43,
+  "list_price": 88.74,
+  "launch_date": "2021-12-18",
+  "is_active": true,
+  "attributes": {
+   "color": "Gray",
+   "weight_kg": 4.93,
+   "rating": 2.9
+  }
+ },
+ {
+  "product_id": 248,
+  "sku": "SKU-HO00248",
+  "product_name": "Trailway Eco Comforter Set",
+  "category": "Home & Kitchen",
+  "subcategory": "Bedding",
+  "brand": "Harborline",
+  "unit_cost": 266.49,
+  "list_price": 545.72,
+  "launch_date": "2021-12-16",
+  "is_active": true,
+  "attributes": {
+   "color": "White",
+   "weight_kg": 0.19,
+   "rating": 4.7
+  }
+ },
+ {
+  "product_id": 249,
+  "sku": "SKU-GR00249",
+  "product_name": "Solstice Classic Frozen Pizza",
+  "category": "Grocery",
+  "subcategory": "Frozen",
+  "brand": "Novara",
+  "unit_cost": 7.24,
+  "list_price": 11.47,
+  "launch_date": "2020-10-21",
+  "is_active": true,
+  "attributes": {
+   "color": "Blue",
+   "weight_kg": 3.1,
+   "rating": 4.1
+  }
+ },
+ {
+  "product_id": 250,
+  "sku": "SKU-BE00250",
+  "product_name": "Novara Essential Multivitamin",
+  "category": "Beauty & Health",
+  "subcategory": "Vitamins",
+  "brand": "Bluepeak",
+  "unit_cost": 7.38,
+  "list_price": 15.57,
+  "launch_date": "2021-09-15",
+  "is_active": true,
+  "attributes": {
+   "color": "Red",
+   "weight_kg": 4.35,
+   "rating": 4.5
+  }
+ }
+]

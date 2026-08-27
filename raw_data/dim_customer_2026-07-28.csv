@@ -1,0 +1,1201 @@
+customer_id,customer_code,first_name,last_name,email,segment,preferred_channel,home_region,join_date,age_band,is_churned
+1,MC000001,Fatima,Perez,fatima.perez1@example.com,Loyalty Member,Mobile App,West,2018-10-05,35-44,True
+2,MC000002,Sofia,Smith,sofia.smith2@example.com,Corporate,Mobile App,West,2019-11-06,18-24,False
+3,MC000003,Carlos,Singh,carlos.singh3@example.com,Loyalty Member,Mobile App,East,2020-03-31,25-34,False
+4,MC000004,Mei,Johnson,mei.johnson4@example.com,Loyalty Member,In-Store,West,2019-06-13,25-34,False
+5,MC000005,Lucas,Thomas,lucas.thomas5@example.com,Corporate,Online,West,2021-10-29,35-44,False
+6,MC000006,Noah,Smith,noah.smith6@example.com,Consumer,In-Store,West,2025-03-05,45-54,False
+7,MC000007,Mei,Smith,mei.smith7@example.com,Loyalty Member,In-Store,East,2025-04-12,45-54,False
+8,MC000008,Ava,Nguyen,ava.nguyen8@example.com,Consumer,Mobile App,Central,2018-07-06,55-64,False
+9,MC000009,Yuki,Smith,yuki.smith9@example.com,Consumer,Mobile App,West,2018-04-16,55-64,False
+10,MC000010,Mei,Chen,mei.chen10@example.com,Consumer,In-Store,West,2019-10-04,35-44,False
+11,MC000011,Diego,Williams,diego.williams11@example.com,Consumer,In-Store,Central,2022-01-05,25-34,False
+12,MC000012,Emma,Thomas,emma.thomas12@example.com,Consumer,Mobile App,East,2021-09-17,65+,False
+13,MC000013,Diego,Moore,diego.moore13@example.com,Corporate,In-Store,East,2021-06-20,35-44,False
+14,MC000014,Omar,Rodriguez,omar.rodriguez14@example.com,Consumer,In-Store,East,2019-06-25,65+,False
+15,MC000015,Zara,White,zara.white15@example.com,Consumer,Online,Central,2022-01-24,25-34,True
+16,MC000016,Emma,Jones,emma.jones16@example.com,Consumer,Online,East,2019-05-16,25-34,False
+17,MC000017,Emma,Patel,emma.patel17@example.com,Consumer,Online,East,2026-04-10,25-34,False
+18,MC000018,Ananya,White,ananya.white18@example.com,Consumer,In-Store,Central,2025-12-16,35-44,False
+19,MC000019,Ananya,Kim,ananya.kim19@example.com,Consumer,Mobile App,West,2023-02-28,25-34,False
+20,MC000020,James,Williams,james.williams20@example.com,Loyalty Member,Mobile App,West,2025-03-28,35-44,False
+21,MC000021,Fatima,Kim,fatima.kim21@example.com,Corporate,Online,West,2025-05-15,35-44,False
+22,MC000022,Arjun,Nguyen,arjun.nguyen22@example.com,Consumer,Mobile App,West,2020-09-17,45-54,False
+23,MC000023,Noah,Rodriguez,noah.rodriguez23@example.com,Loyalty Member,Online,East,2021-05-07,25-34,False
+24,MC000024,Isabella,White,isabella.white24@example.com,Consumer,Mobile App,Central,2020-12-30,25-34,False
+25,MC000025,Priya,Davis,priya.davis25@example.com,Consumer,In-Store,West,2019-10-24,18-24,True
+26,MC000026,Michael,Perez,michael.perez26@example.com,Consumer,In-Store,West,2022-01-16,55-64,True
+27,MC000027,Isabella,Martinez,isabella.martinez27@example.com,Consumer,In-Store,West,2025-09-07,18-24,False
+28,MC000028,Elizabeth,Jones,elizabeth.jones28@example.com,Corporate,Mobile App,West,2023-08-21,25-34,False
+29,MC000029,Carlos,Williams,carlos.williams29@example.com,Consumer,In-Store,Central,2022-08-24,18-24,False
+30,MC000030,Michael,Moore,michael.moore30@example.com,Consumer,In-Store,West,2025-09-25,35-44,False
+31,MC000031,Arjun,Brown,arjun.brown31@example.com,Consumer,In-Store,Central,2026-03-03,25-34,True
+32,MC000032,Patricia,Lopez,patricia.lopez32@example.com,Loyalty Member,In-Store,West,2019-07-11,25-34,False
+33,MC000033,Sofia,Jones,sofia.jones33@example.com,Corporate,In-Store,East,2025-02-06,45-54,False
+34,MC000034,Isabella,Williams,isabella.williams34@example.com,Consumer,Online,East,2021-12-02,25-34,False
+35,MC000035,Jennifer,Smith,jennifer.smith35@example.com,Consumer,In-Store,West,2020-12-19,35-44,False
+36,MC000036,Fatima,Anderson,fatima.anderson36@example.com,Consumer,In-Store,Central,2022-01-25,18-24,False
+37,MC000037,Sofia,Martinez,sofia.martinez37@example.com,Consumer,In-Store,East,2024-02-26,35-44,False
+38,MC000038,Wei,Anderson,wei.anderson38@example.com,Loyalty Member,Online,Central,2022-09-13,55-64,True
+39,MC000039,Zara,Jones,zara.jones39@example.com,Consumer,Online,East,2025-02-13,35-44,False
+40,MC000040,Mei,Kim,mei.kim40@example.com,Consumer,In-Store,West,2020-09-13,18-24,True
+41,MC000041,Mary,Kim,mary.kim41@example.com,Loyalty Member,Mobile App,East,2025-10-14,65+,False
+42,MC000042,Wei,Singh,wei.singh42@example.com,Consumer,In-Store,East,2024-06-24,65+,False
+43,MC000043,Liam,Anderson,liam.anderson43@example.com,Consumer,In-Store,Central,2022-04-06,25-34,False
+44,MC000044,Omar,Rodriguez,omar.rodriguez44@example.com,Corporate,Mobile App,West,2024-11-15,35-44,True
+45,MC000045,Diego,Rodriguez,diego.rodriguez45@example.com,Loyalty Member,Mobile App,East,2020-12-10,65+,False
+46,MC000046,John,Williams,john.williams46@example.com,Consumer,Online,East,2023-12-06,25-34,False
+47,MC000047,Linda,Jackson,linda.jackson47@example.com,Consumer,In-Store,West,2019-12-07,18-24,False
+48,MC000048,Ananya,Nguyen,ananya.nguyen48@example.com,Loyalty Member,Online,East,2019-05-19,35-44,False
+49,MC000049,Ananya,Patel,ananya.patel49@example.com,Loyalty Member,Mobile App,Central,2025-06-08,25-34,False
+50,MC000050,Elizabeth,Singh,elizabeth.singh50@example.com,Consumer,In-Store,East,2025-10-17,65+,False
+51,MC000051,Jennifer,White,jennifer.white51@example.com,Consumer,In-Store,East,2023-10-21,25-34,False
+52,MC000052,Omar,Jackson,omar.jackson52@example.com,Loyalty Member,Mobile App,East,2020-08-31,45-54,False
+53,MC000053,David,Smith,david.smith53@example.com,Consumer,In-Store,East,2024-03-28,35-44,False
+54,MC000054,Jennifer,Martinez,jennifer.martinez54@example.com,Loyalty Member,Mobile App,Central,2026-01-20,35-44,False
+55,MC000055,Ethan,Singh,ethan.singh55@example.com,Loyalty Member,In-Store,West,2019-01-10,35-44,False
+56,MC000056,Zara,Martinez,zara.martinez56@example.com,Consumer,In-Store,East,2024-12-05,65+,False
+57,MC000057,Mary,Lee,mary.lee57@example.com,Consumer,In-Store,Central,2026-06-12,35-44,False
+58,MC000058,Carlos,Thomas,carlos.thomas58@example.com,Loyalty Member,Online,East,2019-06-15,45-54,False
+59,MC000059,Michael,Chen,michael.chen59@example.com,Consumer,In-Store,Central,2018-10-17,55-64,False
+60,MC000060,Priya,Moore,priya.moore60@example.com,Consumer,In-Store,East,2026-06-28,65+,True
+61,MC000061,Arjun,Nguyen,arjun.nguyen61@example.com,Loyalty Member,Online,West,2022-08-27,65+,False
+62,MC000062,John,Wilson,john.wilson62@example.com,Consumer,Online,East,2026-06-11,35-44,False
+63,MC000063,Mary,Jackson,mary.jackson63@example.com,Loyalty Member,Mobile App,Central,2021-04-19,65+,False
+64,MC000064,Linda,Williams,linda.williams64@example.com,Consumer,In-Store,Central,2024-05-27,25-34,False
+65,MC000065,Michael,Thomas,michael.thomas65@example.com,Consumer,Online,East,2023-02-04,45-54,False
+66,MC000066,Mary,Anderson,mary.anderson66@example.com,Corporate,In-Store,East,2025-10-01,25-34,True
+67,MC000067,Ethan,Johnson,ethan.johnson67@example.com,Consumer,Mobile App,Central,2025-01-10,35-44,False
+68,MC000068,James,Garcia,james.garcia68@example.com,Consumer,Mobile App,West,2024-01-17,45-54,False
+69,MC000069,Olivia,Martinez,olivia.martinez69@example.com,Loyalty Member,In-Store,East,2024-03-26,18-24,False
+70,MC000070,Linda,Kim,linda.kim70@example.com,Loyalty Member,Mobile App,Central,2022-11-22,35-44,False
+71,MC000071,Michael,Anderson,michael.anderson71@example.com,Consumer,In-Store,East,2025-04-25,65+,False
+72,MC000072,John,Patel,john.patel72@example.com,Consumer,In-Store,East,2021-10-31,18-24,False
+73,MC000073,James,Anderson,james.anderson73@example.com,Loyalty Member,Mobile App,West,2018-10-05,35-44,False
+74,MC000074,Yuki,Martinez,yuki.martinez74@example.com,Corporate,Online,East,2020-04-01,65+,False
+75,MC000075,Mei,Singh,mei.singh75@example.com,Consumer,In-Store,West,2020-04-15,55-64,True
+76,MC000076,Patricia,Johnson,patricia.johnson76@example.com,Consumer,In-Store,West,2019-07-16,18-24,True
+77,MC000077,Sofia,Perez,sofia.perez77@example.com,Loyalty Member,Online,East,2019-11-04,35-44,False
+78,MC000078,Sofia,Garcia,sofia.garcia78@example.com,Corporate,Online,East,2019-08-21,25-34,False
+79,MC000079,Michael,Williams,michael.williams79@example.com,Loyalty Member,Online,East,2018-07-26,35-44,False
+80,MC000080,Yuki,Jackson,yuki.jackson80@example.com,Consumer,In-Store,East,2022-10-06,25-34,False
+81,MC000081,Ethan,Singh,ethan.singh81@example.com,Consumer,Mobile App,East,2021-04-17,25-34,False
+82,MC000082,David,Chen,david.chen82@example.com,Consumer,Online,East,2024-02-26,35-44,False
+83,MC000083,Mary,Chen,mary.chen83@example.com,Consumer,Mobile App,West,2022-04-06,25-34,False
+84,MC000084,John,Perez,john.perez84@example.com,Loyalty Member,Mobile App,East,2020-01-24,55-64,False
+85,MC000085,Ethan,Patel,ethan.patel85@example.com,Corporate,Online,East,2019-05-16,25-34,False
+86,MC000086,Ananya,Smith,ananya.smith86@example.com,Loyalty Member,In-Store,West,2026-06-01,65+,False
+87,MC000087,Elizabeth,Taylor,elizabeth.taylor87@example.com,Loyalty Member,In-Store,West,2024-07-19,25-34,False
+88,MC000088,Diego,White,diego.white88@example.com,Loyalty Member,Mobile App,West,2020-07-19,25-34,True
+89,MC000089,Ananya,Miller,ananya.miller89@example.com,Corporate,Mobile App,West,2019-09-16,25-34,False
+90,MC000090,Yuki,Lopez,yuki.lopez90@example.com,Consumer,Mobile App,West,2020-10-10,25-34,False
+91,MC000091,Elizabeth,Williams,elizabeth.williams91@example.com,Loyalty Member,In-Store,West,2026-02-12,25-34,False
+92,MC000092,Emma,Kim,emma.kim92@example.com,Consumer,In-Store,West,2023-03-05,25-34,False
+93,MC000093,Arjun,Jones,arjun.jones93@example.com,Loyalty Member,Mobile App,West,2022-08-29,45-54,False
+94,MC000094,Mei,Garcia,mei.garcia94@example.com,Consumer,In-Store,Central,2022-01-12,18-24,False
+95,MC000095,Ava,Lopez,ava.lopez95@example.com,Consumer,Mobile App,West,2021-05-27,25-34,True
+96,MC000096,Patricia,Jones,patricia.jones96@example.com,Consumer,In-Store,Central,2023-07-26,65+,False
+97,MC000097,Liam,Anderson,liam.anderson97@example.com,Loyalty Member,Mobile App,Central,2018-06-22,35-44,False
+98,MC000098,Sofia,Miller,sofia.miller98@example.com,Consumer,Online,West,2019-06-05,18-24,False
+99,MC000099,Mary,Lopez,mary.lopez99@example.com,Loyalty Member,Online,East,2025-11-12,35-44,False
+100,MC000100,Jennifer,Jones,jennifer.jones100@example.com,Consumer,In-Store,Central,2020-12-18,25-34,False
+101,MC000101,Lucas,Brown,lucas.brown101@example.com,Corporate,Online,West,2018-12-12,35-44,False
+102,MC000102,Zara,Wilson,zara.wilson102@example.com,Consumer,Online,West,2025-12-21,45-54,True
+103,MC000103,Mary,Miller,mary.miller103@example.com,Corporate,Online,Central,2024-12-07,45-54,False
+104,MC000104,Diego,Singh,diego.singh104@example.com,Consumer,In-Store,Central,2024-08-21,55-64,False
+105,MC000105,Mary,Williams,mary.williams105@example.com,Consumer,Online,West,2020-09-29,45-54,False
+106,MC000106,Michael,Miller,michael.miller106@example.com,Corporate,Mobile App,East,2020-06-18,25-34,True
+107,MC000107,Zara,Lopez,zara.lopez107@example.com,Loyalty Member,Mobile App,West,2018-06-04,25-34,False
+108,MC000108,Noah,Johnson,noah.johnson108@example.com,Loyalty Member,In-Store,East,2022-02-06,45-54,False
+109,MC000109,Zara,Lopez,zara.lopez109@example.com,Corporate,In-Store,West,2025-07-18,35-44,False
+110,MC000110,Isabella,Martinez,isabella.martinez110@example.com,Corporate,In-Store,East,2018-08-05,25-34,False
+111,MC000111,Ethan,Moore,ethan.moore111@example.com,Consumer,In-Store,West,2023-10-03,35-44,False
+112,MC000112,Ava,Davis,ava.davis112@example.com,Consumer,In-Store,East,2020-09-10,35-44,True
+113,MC000113,Liam,Jackson,liam.jackson113@example.com,Consumer,In-Store,East,2025-12-19,55-64,False
+114,MC000114,Olivia,White,olivia.white114@example.com,Loyalty Member,In-Store,West,2021-11-04,35-44,False
+115,MC000115,Ethan,Chen,ethan.chen115@example.com,Loyalty Member,In-Store,Central,2025-06-09,18-24,False
+116,MC000116,Emma,Smith,emma.smith116@example.com,Loyalty Member,In-Store,Central,2019-03-30,35-44,False
+117,MC000117,Wei,Anderson,wei.anderson117@example.com,Consumer,Mobile App,Central,2020-05-25,65+,False
+118,MC000118,Elizabeth,Chen,elizabeth.chen118@example.com,Consumer,Online,East,2018-12-27,65+,False
+119,MC000119,Sofia,Davis,sofia.davis119@example.com,Consumer,In-Store,Central,2019-05-10,25-34,False
+120,MC000120,Wei,Jones,wei.jones120@example.com,Consumer,Online,Central,2022-01-24,55-64,False
+121,MC000121,Wei,Wilson,wei.wilson121@example.com,Consumer,Online,Central,2024-10-20,18-24,False
+122,MC000122,Jennifer,Brown,jennifer.brown122@example.com,Loyalty Member,Mobile App,East,2020-10-04,45-54,False
+123,MC000123,Sofia,Perez,sofia.perez123@example.com,Loyalty Member,In-Store,West,2026-06-12,35-44,False
+124,MC000124,Robert,Wilson,robert.wilson124@example.com,Consumer,In-Store,Central,2024-12-30,35-44,False
+125,MC000125,Olivia,Lee,olivia.lee125@example.com,Corporate,In-Store,East,2025-02-01,18-24,True
+126,MC000126,Priya,Lopez,priya.lopez126@example.com,Corporate,In-Store,West,2022-01-29,25-34,False
+127,MC000127,Yuki,Martinez,yuki.martinez127@example.com,Loyalty Member,Online,East,2026-06-04,65+,False
+128,MC000128,Wei,Lopez,wei.lopez128@example.com,Consumer,Mobile App,West,2019-07-16,35-44,False
+129,MC000129,Liam,Wilson,liam.wilson129@example.com,Loyalty Member,Online,East,2018-07-11,35-44,False
+130,MC000130,Linda,Martinez,linda.martinez130@example.com,Consumer,In-Store,East,2024-02-08,55-64,False
+131,MC000131,Zara,Jackson,zara.jackson131@example.com,Loyalty Member,In-Store,East,2025-03-04,45-54,False
+132,MC000132,David,Chen,david.chen132@example.com,Loyalty Member,In-Store,West,2019-10-26,45-54,True
+133,MC000133,Michael,Wilson,michael.wilson133@example.com,Consumer,Mobile App,East,2018-09-10,25-34,False
+134,MC000134,Isabella,Johnson,isabella.johnson134@example.com,Consumer,In-Store,Central,2024-08-02,25-34,False
+135,MC000135,Lucas,Lopez,lucas.lopez135@example.com,Loyalty Member,Mobile App,Central,2020-03-19,55-64,False
+136,MC000136,David,Patel,david.patel136@example.com,Consumer,In-Store,Central,2022-06-02,35-44,False
+137,MC000137,Isabella,Taylor,isabella.taylor137@example.com,Loyalty Member,In-Store,East,2023-01-19,25-34,False
+138,MC000138,Wei,Johnson,wei.johnson138@example.com,Consumer,In-Store,East,2019-09-15,55-64,False
+139,MC000139,David,Kim,david.kim139@example.com,Corporate,In-Store,East,2022-01-25,35-44,True
+140,MC000140,Patricia,Rodriguez,patricia.rodriguez140@example.com,Consumer,In-Store,East,2023-01-16,35-44,False
+141,MC000141,Ananya,Rodriguez,ananya.rodriguez141@example.com,Consumer,In-Store,East,2020-09-23,55-64,False
+142,MC000142,Arjun,Brown,arjun.brown142@example.com,Consumer,Online,East,2021-06-11,25-34,False
+143,MC000143,Carlos,Perez,carlos.perez143@example.com,Loyalty Member,In-Store,Central,2021-10-31,45-54,False
+144,MC000144,Jennifer,Lee,jennifer.lee144@example.com,Loyalty Member,In-Store,East,2019-08-11,35-44,False
+145,MC000145,Wei,Jackson,wei.jackson145@example.com,Loyalty Member,In-Store,East,2018-09-28,18-24,True
+146,MC000146,Olivia,Davis,olivia.davis146@example.com,Loyalty Member,In-Store,West,2024-06-24,35-44,False
+147,MC000147,Olivia,Jones,olivia.jones147@example.com,Consumer,Online,East,2019-09-12,25-34,True
+148,MC000148,Lucas,Johnson,lucas.johnson148@example.com,Corporate,In-Store,Central,2026-05-02,25-34,False
+149,MC000149,Lucas,Lee,lucas.lee149@example.com,Loyalty Member,Mobile App,East,2022-04-24,25-34,False
+150,MC000150,Emma,Wilson,emma.wilson150@example.com,Loyalty Member,Online,West,2021-01-23,35-44,False
+151,MC000151,Olivia,Thomas,olivia.thomas151@example.com,Consumer,In-Store,East,2018-11-19,25-34,False
+152,MC000152,Wei,Miller,wei.miller152@example.com,Loyalty Member,Online,Central,2018-01-15,35-44,False
+153,MC000153,Yuki,Thomas,yuki.thomas153@example.com,Loyalty Member,In-Store,West,2024-03-22,65+,False
+154,MC000154,Linda,Martinez,linda.martinez154@example.com,Consumer,Mobile App,East,2025-01-22,35-44,False
+155,MC000155,Zara,Miller,zara.miller155@example.com,Loyalty Member,In-Store,West,2021-02-27,25-34,False
+156,MC000156,Omar,Rodriguez,omar.rodriguez156@example.com,Consumer,In-Store,East,2022-10-03,35-44,False
+157,MC000157,Liam,Brown,liam.brown157@example.com,Loyalty Member,In-Store,West,2022-06-27,18-24,False
+158,MC000158,Sofia,Chen,sofia.chen158@example.com,Consumer,In-Store,East,2025-05-18,65+,False
+159,MC000159,Fatima,Singh,fatima.singh159@example.com,Corporate,In-Store,West,2025-08-28,45-54,False
+160,MC000160,Patricia,Kim,patricia.kim160@example.com,Consumer,Online,West,2019-11-10,18-24,False
+161,MC000161,Michael,Lee,michael.lee161@example.com,Consumer,Mobile App,West,2026-05-02,35-44,False
+162,MC000162,James,Perez,james.perez162@example.com,Loyalty Member,In-Store,West,2026-02-07,45-54,False
+163,MC000163,James,Moore,james.moore163@example.com,Corporate,Mobile App,East,2026-02-05,45-54,False
+164,MC000164,Liam,Moore,liam.moore164@example.com,Consumer,Mobile App,West,2021-07-17,18-24,False
+165,MC000165,Arjun,Patel,arjun.patel165@example.com,Consumer,In-Store,West,2022-09-21,45-54,False
+166,MC000166,John,Patel,john.patel166@example.com,Loyalty Member,In-Store,Central,2023-04-15,45-54,False
+167,MC000167,Ethan,Jones,ethan.jones167@example.com,Loyalty Member,Mobile App,East,2019-03-22,55-64,False
+168,MC000168,David,Jackson,david.jackson168@example.com,Consumer,Mobile App,East,2018-03-28,55-64,False
+169,MC000169,Mei,Kim,mei.kim169@example.com,Loyalty Member,Online,West,2019-10-22,18-24,False
+170,MC000170,Mei,Thomas,mei.thomas170@example.com,Loyalty Member,In-Store,West,2023-12-17,25-34,False
+171,MC000171,Mary,Miller,mary.miller171@example.com,Loyalty Member,In-Store,Central,2024-06-04,45-54,False
+172,MC000172,Lucas,Singh,lucas.singh172@example.com,Corporate,Online,West,2023-06-08,35-44,False
+173,MC000173,Ananya,Kim,ananya.kim173@example.com,Consumer,Online,West,2019-03-03,65+,False
+174,MC000174,Liam,Moore,liam.moore174@example.com,Corporate,In-Store,West,2025-09-08,18-24,True
+175,MC000175,Jennifer,Kim,jennifer.kim175@example.com,Corporate,Online,East,2025-04-24,65+,False
+176,MC000176,Priya,Taylor,priya.taylor176@example.com,Consumer,In-Store,East,2019-08-04,55-64,False
+177,MC000177,Linda,Davis,linda.davis177@example.com,Loyalty Member,Online,East,2018-01-21,18-24,False
+178,MC000178,Isabella,Miller,isabella.miller178@example.com,Consumer,In-Store,West,2018-01-04,55-64,False
+179,MC000179,Isabella,Davis,isabella.davis179@example.com,Consumer,In-Store,Central,2025-07-15,18-24,False
+180,MC000180,James,Lopez,james.lopez180@example.com,Corporate,In-Store,West,2019-03-02,25-34,False
+181,MC000181,Jennifer,Taylor,jennifer.taylor181@example.com,Consumer,In-Store,East,2023-09-29,55-64,True
+182,MC000182,James,Williams,james.williams182@example.com,Loyalty Member,In-Store,East,2018-05-02,25-34,False
+183,MC000183,Olivia,Anderson,olivia.anderson183@example.com,Consumer,In-Store,Central,2024-11-24,18-24,False
+184,MC000184,Michael,Smith,michael.smith184@example.com,Loyalty Member,In-Store,West,2020-02-07,25-34,False
+185,MC000185,Mei,Miller,mei.miller185@example.com,Loyalty Member,In-Store,East,2025-07-14,25-34,False
+186,MC000186,Ananya,Jackson,ananya.jackson186@example.com,Consumer,Online,West,2019-01-21,25-34,False
+187,MC000187,Elizabeth,Martinez,elizabeth.martinez187@example.com,Consumer,In-Store,East,2021-04-26,45-54,False
+188,MC000188,James,Williams,james.williams188@example.com,Consumer,In-Store,East,2018-11-04,35-44,False
+189,MC000189,Yuki,Nguyen,yuki.nguyen189@example.com,Loyalty Member,Online,East,2024-11-07,25-34,True
+190,MC000190,Ethan,Johnson,ethan.johnson190@example.com,Corporate,In-Store,East,2026-01-14,25-34,False
+191,MC000191,Fatima,Johnson,fatima.johnson191@example.com,Loyalty Member,Mobile App,Central,2020-01-07,35-44,False
+192,MC000192,David,Martinez,david.martinez192@example.com,Consumer,Mobile App,Central,2021-11-28,25-34,False
+193,MC000193,Jennifer,Moore,jennifer.moore193@example.com,Loyalty Member,Mobile App,Central,2025-05-10,35-44,False
+194,MC000194,Sofia,Smith,sofia.smith194@example.com,Consumer,Mobile App,Central,2021-10-27,18-24,False
+195,MC000195,Diego,Davis,diego.davis195@example.com,Consumer,Online,West,2021-11-04,18-24,False
+196,MC000196,Wei,Nguyen,wei.nguyen196@example.com,Consumer,Mobile App,West,2025-01-12,25-34,True
+197,MC000197,Jennifer,Miller,jennifer.miller197@example.com,Consumer,Online,Central,2023-12-15,25-34,False
+198,MC000198,Michael,Martinez,michael.martinez198@example.com,Consumer,Mobile App,Central,2026-06-20,25-34,True
+199,MC000199,Jennifer,Taylor,jennifer.taylor199@example.com,Loyalty Member,Online,East,2022-11-30,35-44,False
+200,MC000200,Linda,Chen,linda.chen200@example.com,Consumer,In-Store,East,2020-11-19,35-44,False
+201,MC000201,Emma,Moore,emma.moore201@example.com,Corporate,Online,East,2025-03-19,25-34,False
+202,MC000202,Arjun,Kim,arjun.kim202@example.com,Consumer,In-Store,East,2021-05-29,25-34,False
+203,MC000203,Robert,Patel,robert.patel203@example.com,Consumer,In-Store,East,2018-11-02,65+,False
+204,MC000204,Omar,Lee,omar.lee204@example.com,Loyalty Member,Online,West,2021-01-25,35-44,False
+205,MC000205,Fatima,Lee,fatima.lee205@example.com,Consumer,In-Store,East,2025-09-25,25-34,True
+206,MC000206,Yuki,Chen,yuki.chen206@example.com,Consumer,In-Store,Central,2021-08-14,35-44,False
+207,MC000207,Michael,Patel,michael.patel207@example.com,Consumer,Mobile App,East,2025-07-10,18-24,False
+208,MC000208,Robert,Williams,robert.williams208@example.com,Corporate,Mobile App,East,2019-10-10,35-44,False
+209,MC000209,John,Lopez,john.lopez209@example.com,Consumer,In-Store,Central,2019-02-02,25-34,False
+210,MC000210,Linda,Johnson,linda.johnson210@example.com,Consumer,In-Store,Central,2018-09-23,25-34,True
+211,MC000211,Ananya,Patel,ananya.patel211@example.com,Corporate,Online,West,2024-01-30,45-54,False
+212,MC000212,David,Patel,david.patel212@example.com,Consumer,In-Store,West,2022-02-09,25-34,False
+213,MC000213,Carlos,White,carlos.white213@example.com,Consumer,Online,West,2018-05-04,55-64,True
+214,MC000214,Linda,Moore,linda.moore214@example.com,Consumer,In-Store,West,2023-04-17,25-34,False
+215,MC000215,Ethan,Patel,ethan.patel215@example.com,Consumer,In-Store,Central,2020-08-19,65+,False
+216,MC000216,Patricia,Singh,patricia.singh216@example.com,Corporate,In-Store,West,2024-03-24,55-64,False
+217,MC000217,Priya,Garcia,priya.garcia217@example.com,Loyalty Member,In-Store,West,2020-08-03,25-34,False
+218,MC000218,David,Patel,david.patel218@example.com,Loyalty Member,Online,Central,2022-12-24,18-24,False
+219,MC000219,Linda,Lopez,linda.lopez219@example.com,Consumer,In-Store,West,2026-05-07,18-24,True
+220,MC000220,Omar,Johnson,omar.johnson220@example.com,Loyalty Member,Online,East,2020-09-08,45-54,False
+221,MC000221,Robert,Lopez,robert.lopez221@example.com,Loyalty Member,In-Store,East,2020-12-22,25-34,False
+222,MC000222,Yuki,Moore,yuki.moore222@example.com,Consumer,Online,Central,2021-07-25,45-54,False
+223,MC000223,Arjun,Lopez,arjun.lopez223@example.com,Consumer,Online,East,2023-05-27,18-24,False
+224,MC000224,Zara,Wilson,zara.wilson224@example.com,Corporate,In-Store,East,2018-04-11,18-24,False
+225,MC000225,Linda,White,linda.white225@example.com,Corporate,Online,East,2023-08-06,45-54,False
+226,MC000226,Zara,Chen,zara.chen226@example.com,Consumer,Mobile App,East,2026-04-21,25-34,False
+227,MC000227,James,Taylor,james.taylor227@example.com,Corporate,In-Store,Central,2023-02-21,35-44,True
+228,MC000228,Elizabeth,Singh,elizabeth.singh228@example.com,Consumer,Mobile App,East,2019-07-30,45-54,False
+229,MC000229,Robert,Kim,robert.kim229@example.com,Corporate,Online,West,2018-04-13,45-54,True
+230,MC000230,Linda,Williams,linda.williams230@example.com,Consumer,In-Store,East,2023-05-09,35-44,False
+231,MC000231,Michael,Miller,michael.miller231@example.com,Consumer,Mobile App,Central,2023-04-11,35-44,False
+232,MC000232,Diego,Chen,diego.chen232@example.com,Loyalty Member,Online,Central,2018-05-11,55-64,False
+233,MC000233,James,Thomas,james.thomas233@example.com,Consumer,Online,West,2022-03-12,25-34,False
+234,MC000234,David,Taylor,david.taylor234@example.com,Loyalty Member,In-Store,West,2023-02-04,35-44,False
+235,MC000235,Patricia,Rodriguez,patricia.rodriguez235@example.com,Consumer,Online,East,2022-09-01,25-34,False
+236,MC000236,Lucas,White,lucas.white236@example.com,Consumer,Online,Central,2018-08-22,25-34,False
+237,MC000237,Ethan,Singh,ethan.singh237@example.com,Consumer,Online,West,2022-08-02,35-44,True
+238,MC000238,Arjun,Nguyen,arjun.nguyen238@example.com,Consumer,In-Store,West,2019-01-24,18-24,True
+239,MC000239,Robert,Martinez,robert.martinez239@example.com,Consumer,Online,Central,2026-06-14,25-34,False
+240,MC000240,Ava,Martinez,ava.martinez240@example.com,Corporate,In-Store,Central,2025-06-09,35-44,False
+241,MC000241,Omar,Thomas,omar.thomas241@example.com,Consumer,Online,Central,2025-08-16,25-34,False
+242,MC000242,David,Thomas,david.thomas242@example.com,Consumer,Mobile App,East,2022-04-14,35-44,False
+243,MC000243,Omar,Rodriguez,omar.rodriguez243@example.com,Consumer,In-Store,East,2025-08-06,65+,False
+244,MC000244,Wei,Smith,wei.smith244@example.com,Loyalty Member,Mobile App,East,2022-12-28,25-34,False
+245,MC000245,Wei,Davis,wei.davis245@example.com,Consumer,Online,East,2022-10-30,55-64,False
+246,MC000246,John,Perez,john.perez246@example.com,Consumer,Mobile App,Central,2020-08-10,65+,False
+247,MC000247,John,Davis,john.davis247@example.com,Consumer,Mobile App,West,2025-03-05,18-24,False
+248,MC000248,Lucas,Kim,lucas.kim248@example.com,Loyalty Member,In-Store,Central,2024-11-28,65+,True
+249,MC000249,Liam,Anderson,liam.anderson249@example.com,Consumer,In-Store,Central,2021-12-27,25-34,False
+250,MC000250,Arjun,Smith,arjun.smith250@example.com,Corporate,Online,Central,2025-08-02,45-54,False
+251,MC000251,Noah,White,noah.white251@example.com,Loyalty Member,Online,East,2021-04-11,35-44,False
+252,MC000252,Diego,Miller,diego.miller252@example.com,Consumer,Mobile App,West,2022-02-21,25-34,False
+253,MC000253,Ava,Jackson,ava.jackson253@example.com,Consumer,Online,West,2024-08-08,55-64,False
+254,MC000254,David,Smith,david.smith254@example.com,Consumer,Online,West,2018-10-14,35-44,False
+255,MC000255,Linda,Garcia,linda.garcia255@example.com,Corporate,Online,West,2020-12-21,18-24,False
+256,MC000256,Isabella,Williams,isabella.williams256@example.com,Consumer,In-Store,Central,2020-03-23,25-34,False
+257,MC000257,Wei,Martinez,wei.martinez257@example.com,Corporate,In-Store,Central,2022-09-06,45-54,False
+258,MC000258,Robert,Rodriguez,robert.rodriguez258@example.com,Consumer,In-Store,West,2019-10-28,18-24,False
+259,MC000259,David,Jones,david.jones259@example.com,Consumer,Mobile App,East,2026-03-05,65+,False
+260,MC000260,Emma,Anderson,emma.anderson260@example.com,Consumer,In-Store,Central,2018-07-29,35-44,False
+261,MC000261,Linda,Martinez,linda.martinez261@example.com,Loyalty Member,In-Store,West,2018-10-23,25-34,False
+262,MC000262,Arjun,Singh,arjun.singh262@example.com,Consumer,In-Store,East,2023-04-03,65+,False
+263,MC000263,John,Smith,john.smith263@example.com,Loyalty Member,Online,West,2020-02-29,65+,False
+264,MC000264,David,Wilson,david.wilson264@example.com,Loyalty Member,Mobile App,East,2022-10-01,18-24,False
+265,MC000265,Mei,Smith,mei.smith265@example.com,Loyalty Member,Mobile App,West,2020-06-24,65+,False
+266,MC000266,Lucas,Garcia,lucas.garcia266@example.com,Consumer,Mobile App,West,2020-04-18,25-34,False
+267,MC000267,Yuki,White,yuki.white267@example.com,Corporate,Mobile App,Central,2021-10-20,45-54,False
+268,MC000268,Elizabeth,Johnson,elizabeth.johnson268@example.com,Consumer,In-Store,Central,2024-10-31,18-24,False
+269,MC000269,Linda,Jones,linda.jones269@example.com,Corporate,Online,Central,2019-12-19,18-24,False
+270,MC000270,Patricia,Wilson,patricia.wilson270@example.com,Loyalty Member,Mobile App,East,2026-01-21,65+,False
+271,MC000271,Diego,Williams,diego.williams271@example.com,Corporate,In-Store,East,2019-03-12,55-64,False
+272,MC000272,Robert,Rodriguez,robert.rodriguez272@example.com,Loyalty Member,Online,Central,2025-07-01,45-54,True
+273,MC000273,Arjun,Nguyen,arjun.nguyen273@example.com,Consumer,In-Store,East,2025-11-28,45-54,False
+274,MC000274,Patricia,White,patricia.white274@example.com,Consumer,Mobile App,West,2023-02-10,18-24,True
+275,MC000275,Isabella,Anderson,isabella.anderson275@example.com,Consumer,In-Store,East,2019-06-13,18-24,False
+276,MC000276,Robert,White,robert.white276@example.com,Consumer,In-Store,East,2025-05-29,25-34,False
+277,MC000277,Arjun,Brown,arjun.brown277@example.com,Corporate,In-Store,West,2026-01-11,35-44,True
+278,MC000278,Olivia,Jones,olivia.jones278@example.com,Consumer,In-Store,Central,2023-12-11,25-34,False
+279,MC000279,Emma,Nguyen,emma.nguyen279@example.com,Consumer,Online,Central,2019-11-24,55-64,False
+280,MC000280,Ananya,Brown,ananya.brown280@example.com,Loyalty Member,In-Store,West,2020-09-21,35-44,True
+281,MC000281,Lucas,Perez,lucas.perez281@example.com,Loyalty Member,Online,West,2022-05-03,35-44,False
+282,MC000282,Carlos,Lee,carlos.lee282@example.com,Corporate,Online,East,2020-04-06,35-44,True
+283,MC000283,Priya,Brown,priya.brown283@example.com,Consumer,Online,West,2023-10-03,35-44,False
+284,MC000284,Ethan,Lee,ethan.lee284@example.com,Loyalty Member,Mobile App,Central,2019-09-01,25-34,False
+285,MC000285,Ava,Chen,ava.chen285@example.com,Consumer,In-Store,West,2025-08-28,18-24,True
+286,MC000286,Liam,Patel,liam.patel286@example.com,Consumer,In-Store,West,2018-02-12,45-54,False
+287,MC000287,Wei,Rodriguez,wei.rodriguez287@example.com,Consumer,Mobile App,East,2022-02-07,45-54,False
+288,MC000288,Elizabeth,Brown,elizabeth.brown288@example.com,Consumer,In-Store,East,2020-07-19,35-44,False
+289,MC000289,Noah,Johnson,noah.johnson289@example.com,Consumer,Online,Central,2026-03-02,35-44,False
+290,MC000290,Wei,Kim,wei.kim290@example.com,Consumer,Online,West,2022-11-25,45-54,False
+291,MC000291,Mary,Patel,mary.patel291@example.com,Consumer,Online,East,2019-12-09,18-24,False
+292,MC000292,Ethan,Anderson,ethan.anderson292@example.com,Consumer,In-Store,Central,2023-02-10,35-44,False
+293,MC000293,Ananya,Davis,ananya.davis293@example.com,Consumer,In-Store,Central,2018-09-20,18-24,True
+294,MC000294,James,Davis,james.davis294@example.com,Consumer,In-Store,Central,2022-02-24,18-24,False
+295,MC000295,Yuki,Moore,yuki.moore295@example.com,Consumer,In-Store,Central,2022-07-04,35-44,False
+296,MC000296,Lucas,Thomas,lucas.thomas296@example.com,Consumer,Mobile App,East,2023-04-12,35-44,False
+297,MC000297,Ananya,Thomas,ananya.thomas297@example.com,Loyalty Member,In-Store,Central,2019-03-10,65+,False
+298,MC000298,Lucas,Jackson,lucas.jackson298@example.com,Consumer,Online,Central,2020-07-19,45-54,True
+299,MC000299,Olivia,Lee,olivia.lee299@example.com,Corporate,In-Store,Central,2019-05-27,55-64,False
+300,MC000300,John,Nguyen,john.nguyen300@example.com,Consumer,Mobile App,East,2019-01-14,45-54,False
+301,MC000301,Zara,Perez,zara.perez301@example.com,Consumer,Online,Central,2024-10-09,55-64,False
+302,MC000302,Noah,Lee,noah.lee302@example.com,Loyalty Member,Online,Central,2018-11-12,35-44,True
+303,MC000303,Omar,Perez,omar.perez303@example.com,Loyalty Member,In-Store,East,2020-02-05,25-34,False
+304,MC000304,Carlos,Anderson,carlos.anderson304@example.com,Consumer,In-Store,East,2019-11-04,25-34,True
+305,MC000305,Ananya,Johnson,ananya.johnson305@example.com,Consumer,In-Store,East,2018-08-16,35-44,False
+306,MC000306,Isabella,Jones,isabella.jones306@example.com,Consumer,Online,West,2024-04-12,65+,False
+307,MC000307,Fatima,Jones,fatima.jones307@example.com,Corporate,Mobile App,East,2024-10-02,35-44,False
+308,MC000308,Michael,Wilson,michael.wilson308@example.com,Loyalty Member,In-Store,West,2025-01-18,18-24,False
+309,MC000309,Lucas,Lee,lucas.lee309@example.com,Corporate,Online,East,2019-11-09,35-44,False
+310,MC000310,Ethan,Garcia,ethan.garcia310@example.com,Loyalty Member,Online,West,2020-08-08,25-34,False
+311,MC000311,Arjun,Taylor,arjun.taylor311@example.com,Consumer,Mobile App,Central,2025-12-20,18-24,False
+312,MC000312,James,Singh,james.singh312@example.com,Consumer,In-Store,West,2018-12-20,45-54,False
+313,MC000313,Noah,Miller,noah.miller313@example.com,Consumer,In-Store,East,2024-02-03,35-44,True
+314,MC000314,Linda,Garcia,linda.garcia314@example.com,Consumer,In-Store,Central,2022-08-07,35-44,False
+315,MC000315,Michael,Singh,michael.singh315@example.com,Consumer,Online,East,2018-12-15,45-54,False
+316,MC000316,Elizabeth,Garcia,elizabeth.garcia316@example.com,Loyalty Member,In-Store,East,2022-09-07,65+,False
+317,MC000317,David,Lopez,david.lopez317@example.com,Consumer,In-Store,East,2023-10-25,25-34,False
+318,MC000318,Linda,Williams,linda.williams318@example.com,Corporate,In-Store,West,2021-12-11,55-64,False
+319,MC000319,Mei,Nguyen,mei.nguyen319@example.com,Consumer,In-Store,East,2021-10-06,25-34,False
+320,MC000320,Ethan,Thomas,ethan.thomas320@example.com,Consumer,In-Store,East,2024-02-23,65+,False
+321,MC000321,Noah,Lee,noah.lee321@example.com,Loyalty Member,In-Store,East,2025-08-10,35-44,False
+322,MC000322,Noah,Jackson,noah.jackson322@example.com,Corporate,In-Store,East,2026-05-17,25-34,False
+323,MC000323,Olivia,Kim,olivia.kim323@example.com,Loyalty Member,Online,Central,2021-08-30,25-34,False
+324,MC000324,Carlos,Moore,carlos.moore324@example.com,Consumer,In-Store,West,2020-01-18,18-24,False
+325,MC000325,Zara,Lopez,zara.lopez325@example.com,Loyalty Member,Mobile App,Central,2022-12-11,18-24,False
+326,MC000326,Sofia,Chen,sofia.chen326@example.com,Loyalty Member,In-Store,Central,2025-03-03,35-44,False
+327,MC000327,Emma,Thomas,emma.thomas327@example.com,Consumer,Mobile App,Central,2020-12-03,25-34,False
+328,MC000328,Isabella,Moore,isabella.moore328@example.com,Consumer,Mobile App,Central,2024-01-17,35-44,False
+329,MC000329,Jennifer,Lee,jennifer.lee329@example.com,Consumer,In-Store,West,2022-03-26,35-44,False
+330,MC000330,Zara,Jones,zara.jones330@example.com,Consumer,Online,West,2019-08-25,18-24,False
+331,MC000331,Patricia,Perez,patricia.perez331@example.com,Consumer,Online,East,2026-01-28,25-34,False
+332,MC000332,John,Nguyen,john.nguyen332@example.com,Consumer,In-Store,East,2020-03-01,55-64,False
+333,MC000333,Noah,Lee,noah.lee333@example.com,Consumer,Online,Central,2026-06-14,18-24,False
+334,MC000334,Jennifer,Brown,jennifer.brown334@example.com,Consumer,Mobile App,East,2018-06-09,25-34,False
+335,MC000335,Jennifer,Brown,jennifer.brown335@example.com,Consumer,Mobile App,East,2020-01-12,35-44,False
+336,MC000336,Ava,Nguyen,ava.nguyen336@example.com,Loyalty Member,In-Store,Central,2021-08-25,65+,False
+337,MC000337,James,Jackson,james.jackson337@example.com,Consumer,Online,West,2025-12-01,25-34,False
+338,MC000338,Noah,Perez,noah.perez338@example.com,Consumer,In-Store,East,2025-05-07,18-24,False
+339,MC000339,Sofia,Thomas,sofia.thomas339@example.com,Loyalty Member,In-Store,West,2018-02-26,45-54,False
+340,MC000340,Omar,Jones,omar.jones340@example.com,Loyalty Member,Online,Central,2018-07-17,25-34,False
+341,MC000341,Jennifer,Lee,jennifer.lee341@example.com,Consumer,In-Store,Central,2025-03-31,55-64,False
+342,MC000342,Michael,Thomas,michael.thomas342@example.com,Corporate,In-Store,Central,2022-04-08,65+,True
+343,MC000343,Isabella,Taylor,isabella.taylor343@example.com,Consumer,In-Store,West,2019-10-23,35-44,True
+344,MC000344,Michael,Jackson,michael.jackson344@example.com,Consumer,Mobile App,Central,2024-11-22,35-44,False
+345,MC000345,Wei,Garcia,wei.garcia345@example.com,Loyalty Member,In-Store,Central,2024-06-07,25-34,False
+346,MC000346,Ethan,White,ethan.white346@example.com,Consumer,In-Store,West,2018-07-10,55-64,True
+347,MC000347,Liam,Wilson,liam.wilson347@example.com,Corporate,In-Store,West,2022-10-17,25-34,False
+348,MC000348,David,Brown,david.brown348@example.com,Loyalty Member,In-Store,East,2024-10-18,35-44,False
+349,MC000349,Yuki,Moore,yuki.moore349@example.com,Consumer,In-Store,Central,2022-02-17,35-44,False
+350,MC000350,Noah,Rodriguez,noah.rodriguez350@example.com,Consumer,Online,East,2021-02-12,55-64,False
+351,MC000351,Arjun,Moore,arjun.moore351@example.com,Loyalty Member,Mobile App,Central,2021-02-11,65+,True
+352,MC000352,Mary,Perez,mary.perez352@example.com,Corporate,Mobile App,West,2019-08-17,25-34,False
+353,MC000353,Ava,Kim,ava.kim353@example.com,Consumer,In-Store,Central,2020-10-17,65+,False
+354,MC000354,Robert,Johnson,robert.johnson354@example.com,Loyalty Member,In-Store,East,2020-06-01,25-34,False
+355,MC000355,Wei,Taylor,wei.taylor355@example.com,Consumer,In-Store,East,2020-01-30,25-34,False
+356,MC000356,David,Chen,david.chen356@example.com,Consumer,Online,Central,2019-11-04,35-44,False
+357,MC000357,Isabella,Johnson,isabella.johnson357@example.com,Consumer,Mobile App,West,2020-06-24,55-64,False
+358,MC000358,Ava,Singh,ava.singh358@example.com,Consumer,In-Store,Central,2020-05-19,45-54,False
+359,MC000359,Mei,Kim,mei.kim359@example.com,Corporate,In-Store,Central,2020-08-08,35-44,True
+360,MC000360,Jennifer,Wilson,jennifer.wilson360@example.com,Consumer,Mobile App,Central,2025-09-02,25-34,True
+361,MC000361,Lucas,Lopez,lucas.lopez361@example.com,Loyalty Member,Mobile App,East,2023-04-08,45-54,False
+362,MC000362,Priya,White,priya.white362@example.com,Consumer,Online,Central,2024-08-11,25-34,False
+363,MC000363,Patricia,Jones,patricia.jones363@example.com,Loyalty Member,Mobile App,Central,2023-08-05,55-64,False
+364,MC000364,Jennifer,Chen,jennifer.chen364@example.com,Consumer,Online,Central,2018-04-28,25-34,True
+365,MC000365,Yuki,Moore,yuki.moore365@example.com,Loyalty Member,Mobile App,Central,2022-02-22,35-44,False
+366,MC000366,Ava,Jackson,ava.jackson366@example.com,Consumer,Mobile App,West,2025-07-06,35-44,False
+367,MC000367,Arjun,Davis,arjun.davis367@example.com,Loyalty Member,In-Store,Central,2025-12-15,18-24,False
+368,MC000368,Robert,Miller,robert.miller368@example.com,Loyalty Member,In-Store,West,2023-10-11,25-34,False
+369,MC000369,Isabella,Brown,isabella.brown369@example.com,Corporate,In-Store,Central,2020-03-02,18-24,True
+370,MC000370,Robert,Rodriguez,robert.rodriguez370@example.com,Loyalty Member,In-Store,East,2021-07-06,55-64,False
+371,MC000371,Arjun,Thomas,arjun.thomas371@example.com,Consumer,In-Store,East,2023-12-23,35-44,True
+372,MC000372,Lucas,Davis,lucas.davis372@example.com,Consumer,In-Store,Central,2019-02-21,45-54,False
+373,MC000373,Carlos,Kim,carlos.kim373@example.com,Consumer,In-Store,East,2025-10-27,55-64,False
+374,MC000374,Mei,Rodriguez,mei.rodriguez374@example.com,Consumer,In-Store,Central,2023-10-08,18-24,True
+375,MC000375,Mary,Nguyen,mary.nguyen375@example.com,Loyalty Member,In-Store,West,2024-12-27,45-54,False
+376,MC000376,Sofia,Jones,sofia.jones376@example.com,Consumer,Mobile App,East,2022-01-10,25-34,False
+377,MC000377,John,Jones,john.jones377@example.com,Loyalty Member,In-Store,West,2019-03-29,35-44,False
+378,MC000378,Liam,Brown,liam.brown378@example.com,Loyalty Member,In-Store,Central,2024-04-14,18-24,False
+379,MC000379,Linda,Nguyen,linda.nguyen379@example.com,Consumer,In-Store,West,2019-07-30,45-54,False
+380,MC000380,Robert,Lopez,robert.lopez380@example.com,Loyalty Member,In-Store,Central,2024-08-09,65+,False
+381,MC000381,Linda,Jackson,linda.jackson381@example.com,Loyalty Member,Online,West,2018-07-20,25-34,False
+382,MC000382,David,Williams,david.williams382@example.com,Consumer,Mobile App,East,2021-09-20,25-34,False
+383,MC000383,Elizabeth,Williams,elizabeth.williams383@example.com,Loyalty Member,Online,East,2023-09-29,25-34,False
+384,MC000384,Fatima,Chen,fatima.chen384@example.com,Corporate,In-Store,West,2019-03-11,18-24,False
+385,MC000385,Ava,Perez,ava.perez385@example.com,Corporate,Online,East,2025-04-08,18-24,False
+386,MC000386,Mary,Chen,mary.chen386@example.com,Consumer,Online,East,2018-07-15,55-64,False
+387,MC000387,Olivia,Miller,olivia.miller387@example.com,Consumer,In-Store,West,2022-11-10,35-44,True
+388,MC000388,James,Lee,james.lee388@example.com,Corporate,In-Store,West,2020-07-01,35-44,False
+389,MC000389,Sofia,Jackson,sofia.jackson389@example.com,Consumer,Mobile App,West,2021-03-24,35-44,False
+390,MC000390,Wei,Davis,wei.davis390@example.com,Loyalty Member,In-Store,East,2018-06-05,55-64,False
+391,MC000391,Robert,Williams,robert.williams391@example.com,Loyalty Member,Online,Central,2018-08-21,25-34,False
+392,MC000392,Olivia,Lopez,olivia.lopez392@example.com,Consumer,In-Store,East,2020-11-02,65+,False
+393,MC000393,Yuki,Martinez,yuki.martinez393@example.com,Loyalty Member,In-Store,West,2018-09-17,25-34,False
+394,MC000394,Fatima,Jones,fatima.jones394@example.com,Corporate,In-Store,East,2025-05-27,25-34,False
+395,MC000395,Mei,Johnson,mei.johnson395@example.com,Consumer,In-Store,Central,2026-01-08,35-44,False
+396,MC000396,Liam,Perez,liam.perez396@example.com,Consumer,Online,East,2021-01-03,45-54,False
+397,MC000397,Ethan,Rodriguez,ethan.rodriguez397@example.com,Loyalty Member,In-Store,West,2019-10-25,18-24,False
+398,MC000398,Sofia,Perez,sofia.perez398@example.com,Consumer,Online,East,2022-10-31,35-44,False
+399,MC000399,Patricia,Kim,patricia.kim399@example.com,Corporate,Online,West,2019-01-12,25-34,False
+400,MC000400,Ananya,Williams,ananya.williams400@example.com,Loyalty Member,Mobile App,East,2021-06-07,65+,True
+401,MC000401,Noah,Thomas,noah.thomas401@example.com,Consumer,Mobile App,East,2023-12-24,35-44,False
+402,MC000402,Wei,Jones,wei.jones402@example.com,Consumer,Online,East,2022-03-11,35-44,False
+403,MC000403,John,Wilson,john.wilson403@example.com,Loyalty Member,In-Store,East,2018-04-02,25-34,False
+404,MC000404,Elizabeth,Rodriguez,elizabeth.rodriguez404@example.com,Corporate,In-Store,Central,2019-05-03,65+,False
+405,MC000405,Isabella,Wilson,isabella.wilson405@example.com,Loyalty Member,Mobile App,Central,2024-02-01,55-64,False
+406,MC000406,Mary,Rodriguez,mary.rodriguez406@example.com,Consumer,Online,East,2023-05-31,65+,True
+407,MC000407,Arjun,Martinez,arjun.martinez407@example.com,Consumer,In-Store,Central,2023-02-07,35-44,False
+408,MC000408,Zara,Nguyen,zara.nguyen408@example.com,Corporate,Mobile App,East,2025-05-05,45-54,False
+409,MC000409,David,Anderson,david.anderson409@example.com,Consumer,Mobile App,Central,2018-09-07,18-24,False
+410,MC000410,Emma,Wilson,emma.wilson410@example.com,Consumer,Online,Central,2025-07-08,45-54,False
+411,MC000411,Mei,Perez,mei.perez411@example.com,Consumer,In-Store,West,2026-04-08,45-54,False
+412,MC000412,Lucas,Lopez,lucas.lopez412@example.com,Corporate,Online,Central,2018-06-27,55-64,True
+413,MC000413,Yuki,Martinez,yuki.martinez413@example.com,Consumer,Mobile App,West,2022-09-22,25-34,False
+414,MC000414,Ananya,Rodriguez,ananya.rodriguez414@example.com,Corporate,Online,Central,2018-09-06,18-24,True
+415,MC000415,Lucas,Johnson,lucas.johnson415@example.com,Loyalty Member,Online,West,2022-10-16,45-54,False
+416,MC000416,Patricia,Rodriguez,patricia.rodriguez416@example.com,Loyalty Member,In-Store,East,2022-12-06,35-44,True
+417,MC000417,Carlos,Kim,carlos.kim417@example.com,Loyalty Member,In-Store,East,2020-02-01,45-54,False
+418,MC000418,Wei,Chen,wei.chen418@example.com,Corporate,In-Store,East,2019-06-04,35-44,False
+419,MC000419,Liam,Jackson,liam.jackson419@example.com,Loyalty Member,Online,Central,2024-06-03,25-34,False
+420,MC000420,Ava,Davis,ava.davis420@example.com,Loyalty Member,Mobile App,West,2020-08-13,18-24,False
+421,MC000421,Omar,Moore,omar.moore421@example.com,Consumer,In-Store,West,2024-10-01,35-44,False
+422,MC000422,Elizabeth,Nguyen,elizabeth.nguyen422@example.com,Consumer,Online,West,2022-01-27,45-54,True
+423,MC000423,Linda,Moore,linda.moore423@example.com,Consumer,Mobile App,East,2022-09-27,35-44,False
+424,MC000424,Mary,Wilson,mary.wilson424@example.com,Consumer,Mobile App,Central,2024-03-03,65+,False
+425,MC000425,James,Johnson,james.johnson425@example.com,Loyalty Member,In-Store,West,2025-06-10,25-34,False
+426,MC000426,Ethan,Lopez,ethan.lopez426@example.com,Loyalty Member,Online,West,2024-02-25,35-44,False
+427,MC000427,Mei,Singh,mei.singh427@example.com,Consumer,In-Store,West,2019-01-08,18-24,False
+428,MC000428,Lucas,Williams,lucas.williams428@example.com,Consumer,In-Store,Central,2020-01-23,55-64,False
+429,MC000429,Elizabeth,Lee,elizabeth.lee429@example.com,Loyalty Member,Mobile App,East,2021-11-25,25-34,False
+430,MC000430,Omar,Lopez,omar.lopez430@example.com,Consumer,Mobile App,East,2019-04-12,35-44,False
+431,MC000431,Carlos,Patel,carlos.patel431@example.com,Loyalty Member,Mobile App,Central,2021-10-06,25-34,False
+432,MC000432,Arjun,Patel,arjun.patel432@example.com,Consumer,Mobile App,West,2019-04-14,45-54,False
+433,MC000433,Patricia,Chen,patricia.chen433@example.com,Loyalty Member,In-Store,Central,2019-10-24,35-44,False
+434,MC000434,Jennifer,Jackson,jennifer.jackson434@example.com,Corporate,In-Store,Central,2020-03-20,55-64,False
+435,MC000435,Jennifer,Lee,jennifer.lee435@example.com,Consumer,Mobile App,East,2023-02-16,18-24,False
+436,MC000436,Linda,Chen,linda.chen436@example.com,Loyalty Member,In-Store,Central,2025-08-26,65+,False
+437,MC000437,Sofia,Garcia,sofia.garcia437@example.com,Corporate,Online,East,2018-10-04,25-34,False
+438,MC000438,Noah,Wilson,noah.wilson438@example.com,Corporate,Online,East,2019-07-12,45-54,False
+439,MC000439,Sofia,Jones,sofia.jones439@example.com,Loyalty Member,In-Store,West,2026-01-13,35-44,False
+440,MC000440,Olivia,Miller,olivia.miller440@example.com,Loyalty Member,Online,East,2024-02-16,65+,False
+441,MC000441,Wei,Thomas,wei.thomas441@example.com,Consumer,In-Store,Central,2019-06-02,25-34,False
+442,MC000442,Noah,Brown,noah.brown442@example.com,Loyalty Member,In-Store,East,2018-11-27,25-34,False
+443,MC000443,Ava,Williams,ava.williams443@example.com,Loyalty Member,In-Store,West,2019-12-27,35-44,False
+444,MC000444,Ethan,Lee,ethan.lee444@example.com,Loyalty Member,Online,West,2023-02-03,35-44,False
+445,MC000445,Noah,Chen,noah.chen445@example.com,Consumer,Online,Central,2024-10-07,45-54,False
+446,MC000446,Robert,Smith,robert.smith446@example.com,Corporate,In-Store,West,2024-12-31,25-34,False
+447,MC000447,Olivia,Rodriguez,olivia.rodriguez447@example.com,Corporate,In-Store,West,2021-05-16,65+,False
+448,MC000448,David,Anderson,david.anderson448@example.com,Consumer,Mobile App,West,2018-01-23,35-44,False
+449,MC000449,Isabella,Jackson,isabella.jackson449@example.com,Loyalty Member,Online,Central,2024-03-11,65+,False
+450,MC000450,Zara,Singh,zara.singh450@example.com,Consumer,Mobile App,Central,2020-03-16,35-44,False
+451,MC000451,Elizabeth,Kim,elizabeth.kim451@example.com,Consumer,In-Store,West,2018-07-06,65+,True
+452,MC000452,Ananya,Singh,ananya.singh452@example.com,Consumer,In-Store,West,2023-09-20,45-54,False
+453,MC000453,Jennifer,Patel,jennifer.patel453@example.com,Corporate,In-Store,West,2023-07-26,25-34,False
+454,MC000454,Jennifer,Lopez,jennifer.lopez454@example.com,Consumer,Online,East,2023-09-07,35-44,False
+455,MC000455,Zara,Brown,zara.brown455@example.com,Consumer,Mobile App,East,2020-12-16,25-34,False
+456,MC000456,Carlos,Thomas,carlos.thomas456@example.com,Consumer,Mobile App,Central,2024-06-28,18-24,True
+457,MC000457,Elizabeth,Rodriguez,elizabeth.rodriguez457@example.com,Loyalty Member,Online,East,2019-07-19,25-34,False
+458,MC000458,Ava,Brown,ava.brown458@example.com,Loyalty Member,In-Store,Central,2025-08-09,55-64,False
+459,MC000459,Patricia,Jones,patricia.jones459@example.com,Consumer,Online,Central,2022-08-15,35-44,False
+460,MC000460,Fatima,Kim,fatima.kim460@example.com,Consumer,In-Store,West,2021-02-10,35-44,False
+461,MC000461,Liam,Anderson,liam.anderson461@example.com,Loyalty Member,In-Store,West,2020-03-02,18-24,True
+462,MC000462,Ava,Miller,ava.miller462@example.com,Consumer,In-Store,East,2022-12-25,55-64,False
+463,MC000463,Diego,Martinez,diego.martinez463@example.com,Corporate,Online,East,2025-01-26,25-34,False
+464,MC000464,Ananya,Brown,ananya.brown464@example.com,Consumer,Online,East,2023-05-20,35-44,False
+465,MC000465,Sofia,Perez,sofia.perez465@example.com,Consumer,In-Store,West,2019-02-19,35-44,False
+466,MC000466,David,Rodriguez,david.rodriguez466@example.com,Consumer,In-Store,West,2018-12-20,35-44,False
+467,MC000467,Isabella,Singh,isabella.singh467@example.com,Consumer,Online,East,2020-07-03,55-64,False
+468,MC000468,Linda,Smith,linda.smith468@example.com,Consumer,In-Store,Central,2019-04-14,65+,False
+469,MC000469,Linda,Miller,linda.miller469@example.com,Consumer,Mobile App,Central,2021-12-07,55-64,False
+470,MC000470,Sofia,Kim,sofia.kim470@example.com,Consumer,In-Store,West,2020-07-05,65+,False
+471,MC000471,Liam,White,liam.white471@example.com,Loyalty Member,Mobile App,West,2023-12-15,55-64,True
+472,MC000472,Ethan,Nguyen,ethan.nguyen472@example.com,Corporate,In-Store,East,2020-05-14,35-44,False
+473,MC000473,Liam,Davis,liam.davis473@example.com,Loyalty Member,In-Store,West,2024-04-02,45-54,True
+474,MC000474,Fatima,Smith,fatima.smith474@example.com,Consumer,In-Store,East,2018-02-24,25-34,False
+475,MC000475,Priya,Jones,priya.jones475@example.com,Loyalty Member,Online,West,2021-05-14,55-64,False
+476,MC000476,Olivia,Martinez,olivia.martinez476@example.com,Loyalty Member,In-Store,East,2018-03-31,45-54,False
+477,MC000477,Linda,Chen,linda.chen477@example.com,Consumer,In-Store,East,2018-10-06,25-34,False
+478,MC000478,Zara,Martinez,zara.martinez478@example.com,Loyalty Member,Online,West,2021-06-06,25-34,False
+479,MC000479,Robert,Martinez,robert.martinez479@example.com,Corporate,Mobile App,East,2018-04-14,25-34,False
+480,MC000480,Noah,Wilson,noah.wilson480@example.com,Loyalty Member,In-Store,West,2026-04-19,65+,False
+481,MC000481,Yuki,Kim,yuki.kim481@example.com,Loyalty Member,Online,Central,2019-03-14,35-44,False
+482,MC000482,Noah,Lee,noah.lee482@example.com,Loyalty Member,Mobile App,West,2022-04-01,18-24,False
+483,MC000483,David,Miller,david.miller483@example.com,Loyalty Member,In-Store,East,2019-09-21,35-44,False
+484,MC000484,Emma,Wilson,emma.wilson484@example.com,Loyalty Member,Online,Central,2019-12-03,35-44,False
+485,MC000485,James,Nguyen,james.nguyen485@example.com,Consumer,In-Store,East,2018-12-01,35-44,True
+486,MC000486,Yuki,Lee,yuki.lee486@example.com,Consumer,In-Store,Central,2018-09-16,35-44,False
+487,MC000487,Ethan,Smith,ethan.smith487@example.com,Consumer,Online,Central,2022-03-18,25-34,False
+488,MC000488,John,Wilson,john.wilson488@example.com,Corporate,In-Store,West,2020-06-30,35-44,False
+489,MC000489,Robert,Jones,robert.jones489@example.com,Loyalty Member,In-Store,Central,2021-04-01,35-44,False
+490,MC000490,Mary,Thomas,mary.thomas490@example.com,Consumer,In-Store,Central,2026-04-29,18-24,True
+491,MC000491,Patricia,Nguyen,patricia.nguyen491@example.com,Loyalty Member,Online,East,2018-09-20,35-44,False
+492,MC000492,Elizabeth,Garcia,elizabeth.garcia492@example.com,Loyalty Member,In-Store,Central,2024-06-10,65+,False
+493,MC000493,Elizabeth,Anderson,elizabeth.anderson493@example.com,Corporate,In-Store,West,2021-01-30,65+,False
+494,MC000494,Ananya,Brown,ananya.brown494@example.com,Loyalty Member,Mobile App,East,2021-07-20,35-44,False
+495,MC000495,Fatima,Wilson,fatima.wilson495@example.com,Loyalty Member,Online,Central,2021-01-26,65+,False
+496,MC000496,Ethan,Taylor,ethan.taylor496@example.com,Consumer,Online,East,2020-04-15,18-24,False
+497,MC000497,Ava,Lee,ava.lee497@example.com,Consumer,Mobile App,East,2019-12-20,35-44,False
+498,MC000498,Jennifer,Lee,jennifer.lee498@example.com,Consumer,Mobile App,East,2025-04-19,25-34,False
+499,MC000499,Noah,Moore,noah.moore499@example.com,Corporate,In-Store,West,2023-12-06,35-44,True
+500,MC000500,Carlos,Kim,carlos.kim500@example.com,Loyalty Member,Online,Central,2025-09-07,35-44,False
+501,MC000501,Liam,Kim,liam.kim501@example.com,Loyalty Member,Online,Central,2023-10-13,25-34,True
+502,MC000502,Diego,Chen,diego.chen502@example.com,Loyalty Member,In-Store,West,2024-03-28,35-44,False
+503,MC000503,Robert,Lee,robert.lee503@example.com,Consumer,Mobile App,Central,2024-04-06,65+,False
+504,MC000504,Elizabeth,Taylor,elizabeth.taylor504@example.com,Consumer,Online,West,2022-02-18,25-34,False
+505,MC000505,Liam,Wilson,liam.wilson505@example.com,Loyalty Member,Mobile App,West,2020-05-18,25-34,False
+506,MC000506,Sofia,Davis,sofia.davis506@example.com,Consumer,Mobile App,West,2021-09-09,35-44,False
+507,MC000507,Isabella,Smith,isabella.smith507@example.com,Consumer,In-Store,Central,2022-11-19,18-24,False
+508,MC000508,Noah,Kim,noah.kim508@example.com,Consumer,Online,Central,2018-01-02,35-44,False
+509,MC000509,Liam,Brown,liam.brown509@example.com,Corporate,In-Store,East,2023-03-08,25-34,False
+510,MC000510,Elizabeth,Miller,elizabeth.miller510@example.com,Consumer,In-Store,West,2018-08-28,18-24,False
+511,MC000511,Liam,Lee,liam.lee511@example.com,Loyalty Member,Online,Central,2023-06-11,25-34,True
+512,MC000512,Yuki,Rodriguez,yuki.rodriguez512@example.com,Loyalty Member,Online,West,2021-11-17,25-34,False
+513,MC000513,Liam,White,liam.white513@example.com,Corporate,Mobile App,East,2025-06-11,55-64,True
+514,MC000514,Zara,Martinez,zara.martinez514@example.com,Corporate,Mobile App,West,2024-05-10,45-54,False
+515,MC000515,Mary,Chen,mary.chen515@example.com,Corporate,Mobile App,East,2020-11-07,35-44,True
+516,MC000516,Diego,Wilson,diego.wilson516@example.com,Loyalty Member,In-Store,Central,2022-12-30,45-54,True
+517,MC000517,Arjun,Taylor,arjun.taylor517@example.com,Consumer,Online,East,2019-12-19,25-34,False
+518,MC000518,Michael,Lopez,michael.lopez518@example.com,Consumer,Online,Central,2025-06-26,65+,False
+519,MC000519,Mary,Moore,mary.moore519@example.com,Consumer,Online,Central,2019-12-12,25-34,False
+520,MC000520,James,Smith,james.smith520@example.com,Corporate,In-Store,East,2023-05-24,25-34,False
+521,MC000521,Ava,Jones,ava.jones521@example.com,Loyalty Member,In-Store,West,2018-07-25,45-54,False
+522,MC000522,Priya,Nguyen,priya.nguyen522@example.com,Consumer,In-Store,Central,2022-06-07,18-24,False
+523,MC000523,Fatima,Miller,fatima.miller523@example.com,Consumer,In-Store,West,2020-06-26,25-34,False
+524,MC000524,Ava,Nguyen,ava.nguyen524@example.com,Corporate,In-Store,Central,2023-06-30,25-34,False
+525,MC000525,Liam,Chen,liam.chen525@example.com,Loyalty Member,Mobile App,Central,2018-02-21,25-34,False
+526,MC000526,Omar,Kim,omar.kim526@example.com,Loyalty Member,In-Store,Central,2019-03-01,25-34,False
+527,MC000527,Fatima,Wilson,fatima.wilson527@example.com,Consumer,In-Store,East,2024-09-16,65+,True
+528,MC000528,Ava,White,ava.white528@example.com,Consumer,In-Store,East,2021-05-30,35-44,False
+529,MC000529,James,Lopez,james.lopez529@example.com,Consumer,In-Store,Central,2020-10-10,25-34,False
+530,MC000530,Diego,Taylor,diego.taylor530@example.com,Consumer,Mobile App,Central,2024-11-30,35-44,True
+531,MC000531,Liam,Kim,liam.kim531@example.com,Corporate,In-Store,Central,2024-05-07,65+,True
+532,MC000532,Noah,Perez,noah.perez532@example.com,Consumer,In-Store,Central,2024-07-04,18-24,False
+533,MC000533,Olivia,Smith,olivia.smith533@example.com,Consumer,In-Store,West,2019-08-29,18-24,True
+534,MC000534,Jennifer,Rodriguez,jennifer.rodriguez534@example.com,Corporate,In-Store,West,2020-09-02,45-54,False
+535,MC000535,John,White,john.white535@example.com,Consumer,In-Store,East,2019-02-18,55-64,True
+536,MC000536,John,Singh,john.singh536@example.com,Loyalty Member,Mobile App,Central,2019-12-18,18-24,False
+537,MC000537,Zara,Lopez,zara.lopez537@example.com,Consumer,Online,West,2018-08-03,55-64,False
+538,MC000538,Olivia,Perez,olivia.perez538@example.com,Consumer,Mobile App,West,2018-09-21,25-34,False
+539,MC000539,Isabella,Martinez,isabella.martinez539@example.com,Corporate,In-Store,East,2024-01-29,25-34,True
+540,MC000540,Yuki,Wilson,yuki.wilson540@example.com,Consumer,In-Store,West,2026-06-03,35-44,True
+541,MC000541,John,Martinez,john.martinez541@example.com,Consumer,In-Store,Central,2020-07-27,25-34,True
+542,MC000542,Jennifer,White,jennifer.white542@example.com,Corporate,Mobile App,West,2022-11-30,25-34,False
+543,MC000543,Olivia,Kim,olivia.kim543@example.com,Consumer,In-Store,Central,2025-09-04,35-44,False
+544,MC000544,Jennifer,Jones,jennifer.jones544@example.com,Consumer,Online,West,2024-11-22,18-24,False
+545,MC000545,Patricia,Miller,patricia.miller545@example.com,Consumer,Mobile App,Central,2021-06-08,25-34,False
+546,MC000546,Isabella,White,isabella.white546@example.com,Loyalty Member,Online,Central,2025-08-10,25-34,False
+547,MC000547,Carlos,Garcia,carlos.garcia547@example.com,Consumer,In-Store,West,2019-10-25,25-34,True
+548,MC000548,Carlos,Williams,carlos.williams548@example.com,Consumer,In-Store,East,2019-05-30,18-24,True
+549,MC000549,Fatima,Moore,fatima.moore549@example.com,Consumer,In-Store,Central,2023-01-16,45-54,False
+550,MC000550,Liam,Nguyen,liam.nguyen550@example.com,Consumer,In-Store,East,2026-01-04,45-54,False
+551,MC000551,John,Kim,john.kim551@example.com,Consumer,In-Store,Central,2018-10-02,35-44,False
+552,MC000552,Michael,Nguyen,michael.nguyen552@example.com,Loyalty Member,Mobile App,West,2021-08-25,65+,False
+553,MC000553,Emma,Williams,emma.williams553@example.com,Loyalty Member,In-Store,East,2019-05-02,65+,True
+554,MC000554,David,Lopez,david.lopez554@example.com,Loyalty Member,In-Store,West,2020-11-25,25-34,False
+555,MC000555,Michael,Smith,michael.smith555@example.com,Loyalty Member,Mobile App,Central,2023-05-25,25-34,False
+556,MC000556,Mei,Perez,mei.perez556@example.com,Loyalty Member,Online,Central,2018-12-12,55-64,False
+557,MC000557,Elizabeth,Chen,elizabeth.chen557@example.com,Loyalty Member,Mobile App,East,2023-01-01,65+,False
+558,MC000558,Emma,Jones,emma.jones558@example.com,Consumer,In-Store,Central,2019-12-11,18-24,False
+559,MC000559,Sofia,Lopez,sofia.lopez559@example.com,Consumer,In-Store,West,2022-03-13,65+,True
+560,MC000560,Mei,Miller,mei.miller560@example.com,Corporate,In-Store,West,2025-10-29,35-44,False
+561,MC000561,Michael,Nguyen,michael.nguyen561@example.com,Loyalty Member,In-Store,East,2022-03-03,55-64,False
+562,MC000562,Patricia,Davis,patricia.davis562@example.com,Consumer,In-Store,East,2018-10-09,65+,False
+563,MC000563,Isabella,Nguyen,isabella.nguyen563@example.com,Consumer,In-Store,East,2025-06-01,25-34,False
+564,MC000564,Noah,Thomas,noah.thomas564@example.com,Loyalty Member,In-Store,Central,2023-09-09,35-44,False
+565,MC000565,Priya,Perez,priya.perez565@example.com,Consumer,In-Store,East,2023-01-02,35-44,False
+566,MC000566,Ethan,Garcia,ethan.garcia566@example.com,Consumer,Mobile App,West,2018-08-19,35-44,False
+567,MC000567,Diego,Martinez,diego.martinez567@example.com,Loyalty Member,In-Store,East,2022-12-14,25-34,False
+568,MC000568,Robert,Garcia,robert.garcia568@example.com,Consumer,In-Store,Central,2025-06-27,25-34,True
+569,MC000569,Ethan,Perez,ethan.perez569@example.com,Consumer,In-Store,West,2021-05-21,45-54,False
+570,MC000570,Linda,Brown,linda.brown570@example.com,Consumer,In-Store,Central,2018-06-29,18-24,True
+571,MC000571,Carlos,Moore,carlos.moore571@example.com,Consumer,Mobile App,Central,2026-02-25,35-44,False
+572,MC000572,Yuki,Garcia,yuki.garcia572@example.com,Loyalty Member,Mobile App,West,2019-10-15,55-64,False
+573,MC000573,Robert,Miller,robert.miller573@example.com,Consumer,Mobile App,East,2021-05-28,35-44,False
+574,MC000574,Patricia,Anderson,patricia.anderson574@example.com,Loyalty Member,Online,East,2021-10-01,45-54,False
+575,MC000575,Yuki,Lee,yuki.lee575@example.com,Corporate,Mobile App,Central,2022-11-01,65+,False
+576,MC000576,Arjun,Davis,arjun.davis576@example.com,Consumer,Mobile App,East,2021-05-08,65+,False
+577,MC000577,Ethan,Lee,ethan.lee577@example.com,Consumer,In-Store,East,2022-03-31,18-24,False
+578,MC000578,Arjun,Kim,arjun.kim578@example.com,Corporate,Mobile App,Central,2025-01-26,35-44,False
+579,MC000579,Noah,Anderson,noah.anderson579@example.com,Consumer,In-Store,West,2024-09-15,65+,False
+580,MC000580,Michael,Chen,michael.chen580@example.com,Consumer,Mobile App,Central,2023-04-17,25-34,False
+581,MC000581,Yuki,Perez,yuki.perez581@example.com,Corporate,Online,Central,2024-12-31,65+,False
+582,MC000582,Mei,Miller,mei.miller582@example.com,Loyalty Member,Mobile App,West,2021-06-26,25-34,False
+583,MC000583,Isabella,Perez,isabella.perez583@example.com,Loyalty Member,Online,West,2020-03-02,55-64,False
+584,MC000584,Patricia,Patel,patricia.patel584@example.com,Loyalty Member,Online,West,2026-06-04,35-44,False
+585,MC000585,Omar,Nguyen,omar.nguyen585@example.com,Corporate,In-Store,Central,2021-01-11,45-54,False
+586,MC000586,Mei,Smith,mei.smith586@example.com,Consumer,Online,Central,2020-06-29,35-44,False
+587,MC000587,David,Chen,david.chen587@example.com,Corporate,Mobile App,Central,2018-04-08,18-24,False
+588,MC000588,David,Jones,david.jones588@example.com,Consumer,In-Store,East,2020-05-18,45-54,False
+589,MC000589,Omar,Garcia,omar.garcia589@example.com,Consumer,In-Store,East,2022-10-16,65+,False
+590,MC000590,Ananya,Wilson,ananya.wilson590@example.com,Corporate,In-Store,Central,2023-10-20,55-64,True
+591,MC000591,Zara,Rodriguez,zara.rodriguez591@example.com,Consumer,In-Store,Central,2024-04-19,45-54,True
+592,MC000592,Linda,Rodriguez,linda.rodriguez592@example.com,Corporate,In-Store,West,2024-10-27,35-44,True
+593,MC000593,Mary,Miller,mary.miller593@example.com,Loyalty Member,Online,West,2025-11-09,65+,False
+594,MC000594,Priya,Patel,priya.patel594@example.com,Consumer,Online,East,2025-06-17,35-44,False
+595,MC000595,Priya,Miller,priya.miller595@example.com,Corporate,Mobile App,West,2018-07-04,25-34,False
+596,MC000596,Patricia,Lopez,patricia.lopez596@example.com,Loyalty Member,Online,East,2019-09-02,25-34,False
+597,MC000597,John,Kim,john.kim597@example.com,Consumer,Online,East,2019-06-03,45-54,False
+598,MC000598,Isabella,Lopez,isabella.lopez598@example.com,Loyalty Member,Online,Central,2021-10-16,18-24,True
+599,MC000599,Lucas,Lopez,lucas.lopez599@example.com,Consumer,In-Store,East,2020-03-31,65+,False
+600,MC000600,Mei,Davis,mei.davis600@example.com,Consumer,Mobile App,West,2024-09-26,25-34,False
+601,MC000601,Sofia,Perez,sofia.perez601@example.com,Consumer,Mobile App,East,2025-03-15,25-34,False
+602,MC000602,Diego,Anderson,diego.anderson602@example.com,Consumer,In-Store,Central,2018-06-27,65+,False
+603,MC000603,Wei,Martinez,wei.martinez603@example.com,Consumer,Online,Central,2024-02-11,25-34,False
+604,MC000604,Ava,Patel,ava.patel604@example.com,Loyalty Member,In-Store,West,2025-08-06,25-34,True
+605,MC000605,Robert,Wilson,robert.wilson605@example.com,Corporate,In-Store,East,2025-11-24,25-34,False
+606,MC000606,Isabella,Lopez,isabella.lopez606@example.com,Loyalty Member,Mobile App,Central,2022-12-02,18-24,False
+607,MC000607,Liam,Rodriguez,liam.rodriguez607@example.com,Consumer,Mobile App,West,2023-12-04,65+,True
+608,MC000608,Mei,Miller,mei.miller608@example.com,Consumer,In-Store,East,2020-09-22,35-44,False
+609,MC000609,Fatima,Patel,fatima.patel609@example.com,Loyalty Member,In-Store,East,2018-01-14,18-24,False
+610,MC000610,Patricia,Lopez,patricia.lopez610@example.com,Corporate,In-Store,Central,2024-07-22,25-34,False
+611,MC000611,Priya,Garcia,priya.garcia611@example.com,Loyalty Member,In-Store,West,2019-08-18,55-64,False
+612,MC000612,Robert,Davis,robert.davis612@example.com,Loyalty Member,Mobile App,East,2019-04-18,25-34,True
+613,MC000613,Omar,Anderson,omar.anderson613@example.com,Consumer,Online,West,2023-10-01,18-24,False
+614,MC000614,Linda,Chen,linda.chen614@example.com,Consumer,In-Store,Central,2020-07-24,25-34,False
+615,MC000615,Isabella,Lopez,isabella.lopez615@example.com,Corporate,Online,Central,2023-06-07,35-44,False
+616,MC000616,Noah,Miller,noah.miller616@example.com,Loyalty Member,In-Store,Central,2019-08-10,25-34,False
+617,MC000617,Sofia,Miller,sofia.miller617@example.com,Consumer,Online,Central,2021-09-30,25-34,False
+618,MC000618,Mei,Perez,mei.perez618@example.com,Corporate,Online,East,2021-10-01,18-24,False
+619,MC000619,Liam,Smith,liam.smith619@example.com,Loyalty Member,In-Store,East,2023-07-17,18-24,False
+620,MC000620,Fatima,Moore,fatima.moore620@example.com,Consumer,In-Store,West,2022-09-22,45-54,False
+621,MC000621,John,Nguyen,john.nguyen621@example.com,Consumer,Mobile App,East,2020-12-06,25-34,False
+622,MC000622,Wei,Perez,wei.perez622@example.com,Loyalty Member,In-Store,Central,2019-04-13,25-34,False
+623,MC000623,Ananya,Johnson,ananya.johnson623@example.com,Loyalty Member,In-Store,West,2020-09-06,18-24,True
+624,MC000624,Elizabeth,Singh,elizabeth.singh624@example.com,Consumer,In-Store,West,2025-07-21,35-44,False
+625,MC000625,Ethan,Lee,ethan.lee625@example.com,Loyalty Member,In-Store,West,2023-04-08,35-44,False
+626,MC000626,Zara,Patel,zara.patel626@example.com,Consumer,In-Store,West,2019-04-14,18-24,False
+627,MC000627,Michael,Williams,michael.williams627@example.com,Loyalty Member,In-Store,East,2026-02-15,25-34,False
+628,MC000628,Liam,Smith,liam.smith628@example.com,Loyalty Member,Online,East,2022-09-21,25-34,False
+629,MC000629,Yuki,Chen,yuki.chen629@example.com,Loyalty Member,Mobile App,West,2020-06-09,65+,False
+630,MC000630,Ava,Garcia,ava.garcia630@example.com,Corporate,Mobile App,East,2026-03-02,25-34,False
+631,MC000631,Emma,Smith,emma.smith631@example.com,Consumer,In-Store,East,2019-03-30,25-34,False
+632,MC000632,Wei,Johnson,wei.johnson632@example.com,Consumer,Mobile App,East,2023-01-09,35-44,False
+633,MC000633,Elizabeth,Anderson,elizabeth.anderson633@example.com,Consumer,Mobile App,Central,2024-12-07,35-44,False
+634,MC000634,Mei,Jones,mei.jones634@example.com,Consumer,In-Store,West,2021-04-15,25-34,False
+635,MC000635,Yuki,Jones,yuki.jones635@example.com,Corporate,Mobile App,West,2020-05-25,55-64,False
+636,MC000636,Elizabeth,Kim,elizabeth.kim636@example.com,Loyalty Member,Online,Central,2023-04-30,18-24,False
+637,MC000637,Isabella,Moore,isabella.moore637@example.com,Consumer,Mobile App,East,2020-10-23,35-44,False
+638,MC000638,David,Jones,david.jones638@example.com,Consumer,In-Store,East,2019-06-11,35-44,False
+639,MC000639,Noah,Chen,noah.chen639@example.com,Loyalty Member,Mobile App,West,2025-08-23,55-64,False
+640,MC000640,David,Williams,david.williams640@example.com,Consumer,Mobile App,East,2020-05-16,65+,False
+641,MC000641,Linda,Martinez,linda.martinez641@example.com,Consumer,In-Store,East,2021-02-21,25-34,False
+642,MC000642,James,Garcia,james.garcia642@example.com,Consumer,In-Store,East,2024-05-08,55-64,False
+643,MC000643,Priya,Anderson,priya.anderson643@example.com,Consumer,In-Store,West,2026-06-13,35-44,False
+644,MC000644,Ava,White,ava.white644@example.com,Loyalty Member,Mobile App,East,2019-04-26,35-44,False
+645,MC000645,Mei,Miller,mei.miller645@example.com,Corporate,Mobile App,Central,2024-10-15,35-44,False
+646,MC000646,Robert,Davis,robert.davis646@example.com,Consumer,In-Store,Central,2018-06-27,25-34,False
+647,MC000647,Wei,Rodriguez,wei.rodriguez647@example.com,Corporate,Online,East,2020-10-11,35-44,False
+648,MC000648,Ava,Brown,ava.brown648@example.com,Consumer,In-Store,West,2024-03-14,45-54,False
+649,MC000649,Priya,Jones,priya.jones649@example.com,Corporate,In-Store,East,2024-03-17,65+,False
+650,MC000650,Ananya,Williams,ananya.williams650@example.com,Corporate,Mobile App,West,2018-03-17,18-24,False
+651,MC000651,Zara,Garcia,zara.garcia651@example.com,Consumer,Mobile App,East,2019-06-12,25-34,False
+652,MC000652,Jennifer,Nguyen,jennifer.nguyen652@example.com,Consumer,Mobile App,Central,2025-04-11,25-34,False
+653,MC000653,Jennifer,Singh,jennifer.singh653@example.com,Consumer,Online,Central,2022-07-07,55-64,False
+654,MC000654,Wei,Anderson,wei.anderson654@example.com,Loyalty Member,Mobile App,West,2020-09-10,45-54,False
+655,MC000655,Yuki,Perez,yuki.perez655@example.com,Loyalty Member,In-Store,East,2019-01-23,35-44,False
+656,MC000656,John,Chen,john.chen656@example.com,Loyalty Member,In-Store,East,2021-08-12,25-34,False
+657,MC000657,Arjun,Nguyen,arjun.nguyen657@example.com,Consumer,In-Store,West,2020-11-30,35-44,False
+658,MC000658,Ananya,Patel,ananya.patel658@example.com,Corporate,Online,Central,2021-11-07,65+,False
+659,MC000659,Mary,Chen,mary.chen659@example.com,Consumer,In-Store,East,2021-05-30,45-54,True
+660,MC000660,Ananya,Lee,ananya.lee660@example.com,Loyalty Member,In-Store,East,2025-10-11,45-54,False
+661,MC000661,Sofia,Thomas,sofia.thomas661@example.com,Loyalty Member,Mobile App,West,2022-01-24,25-34,False
+662,MC000662,Elizabeth,Moore,elizabeth.moore662@example.com,Corporate,Online,East,2018-12-13,55-64,False
+663,MC000663,Zara,Wilson,zara.wilson663@example.com,Loyalty Member,Online,Central,2021-03-04,25-34,False
+664,MC000664,Linda,Brown,linda.brown664@example.com,Consumer,In-Store,East,2025-08-17,18-24,True
+665,MC000665,Mary,Davis,mary.davis665@example.com,Corporate,Online,West,2018-02-13,55-64,False
+666,MC000666,Diego,Jones,diego.jones666@example.com,Loyalty Member,In-Store,Central,2019-10-03,35-44,False
+667,MC000667,Ethan,Davis,ethan.davis667@example.com,Consumer,Mobile App,East,2025-08-18,65+,True
+668,MC000668,Mary,Patel,mary.patel668@example.com,Consumer,In-Store,West,2022-11-22,45-54,True
+669,MC000669,James,Lee,james.lee669@example.com,Corporate,In-Store,East,2026-01-04,25-34,False
+670,MC000670,Priya,Lee,priya.lee670@example.com,Consumer,In-Store,East,2022-06-18,65+,False
+671,MC000671,Patricia,Lopez,patricia.lopez671@example.com,Consumer,In-Store,Central,2018-11-09,35-44,False
+672,MC000672,Yuki,Moore,yuki.moore672@example.com,Loyalty Member,In-Store,East,2018-11-17,35-44,False
+673,MC000673,Sofia,Patel,sofia.patel673@example.com,Corporate,Online,Central,2023-06-16,25-34,False
+674,MC000674,Omar,Patel,omar.patel674@example.com,Consumer,In-Store,East,2025-12-27,35-44,True
+675,MC000675,Linda,Davis,linda.davis675@example.com,Consumer,In-Store,Central,2020-06-27,35-44,False
+676,MC000676,James,Wilson,james.wilson676@example.com,Consumer,In-Store,East,2022-09-11,35-44,False
+677,MC000677,Liam,Lee,liam.lee677@example.com,Corporate,Online,Central,2025-01-28,65+,False
+678,MC000678,Elizabeth,Kim,elizabeth.kim678@example.com,Consumer,In-Store,East,2018-06-14,45-54,False
+679,MC000679,Ava,Wilson,ava.wilson679@example.com,Corporate,In-Store,West,2018-04-24,35-44,False
+680,MC000680,Mei,Taylor,mei.taylor680@example.com,Consumer,Mobile App,West,2024-10-02,45-54,True
+681,MC000681,Carlos,Taylor,carlos.taylor681@example.com,Consumer,Mobile App,Central,2026-06-06,45-54,False
+682,MC000682,John,Garcia,john.garcia682@example.com,Loyalty Member,In-Store,Central,2018-04-05,45-54,True
+683,MC000683,Isabella,Wilson,isabella.wilson683@example.com,Consumer,Mobile App,West,2019-03-02,55-64,False
+684,MC000684,Wei,Rodriguez,wei.rodriguez684@example.com,Consumer,In-Store,East,2024-01-01,35-44,False
+685,MC000685,Noah,Patel,noah.patel685@example.com,Loyalty Member,In-Store,East,2018-10-26,35-44,True
+686,MC000686,Diego,Smith,diego.smith686@example.com,Loyalty Member,In-Store,Central,2021-11-19,35-44,False
+687,MC000687,Mary,Thomas,mary.thomas687@example.com,Consumer,In-Store,West,2018-08-29,45-54,False
+688,MC000688,Arjun,Rodriguez,arjun.rodriguez688@example.com,Consumer,Online,West,2021-11-27,65+,False
+689,MC000689,Linda,Garcia,linda.garcia689@example.com,Loyalty Member,Mobile App,East,2026-01-09,45-54,True
+690,MC000690,Mei,Lopez,mei.lopez690@example.com,Consumer,In-Store,East,2025-07-06,35-44,False
+691,MC000691,James,Anderson,james.anderson691@example.com,Loyalty Member,In-Store,West,2024-01-09,65+,False
+692,MC000692,Fatima,Nguyen,fatima.nguyen692@example.com,Consumer,In-Store,West,2024-08-19,18-24,False
+693,MC000693,Ethan,Lee,ethan.lee693@example.com,Consumer,Online,Central,2024-02-10,65+,False
+694,MC000694,Ava,Jackson,ava.jackson694@example.com,Consumer,In-Store,West,2026-01-11,45-54,False
+695,MC000695,Mary,Nguyen,mary.nguyen695@example.com,Consumer,Online,East,2020-12-15,25-34,True
+696,MC000696,Michael,Williams,michael.williams696@example.com,Corporate,Online,West,2025-03-04,35-44,False
+697,MC000697,Yuki,Thomas,yuki.thomas697@example.com,Consumer,In-Store,Central,2019-04-09,65+,True
+698,MC000698,Zara,Kim,zara.kim698@example.com,Corporate,Online,Central,2023-04-14,55-64,False
+699,MC000699,Jennifer,Anderson,jennifer.anderson699@example.com,Corporate,In-Store,Central,2019-02-20,65+,False
+700,MC000700,Mei,Davis,mei.davis700@example.com,Consumer,Online,West,2025-07-06,55-64,False
+701,MC000701,Priya,Kim,priya.kim701@example.com,Consumer,In-Store,Central,2025-09-09,25-34,True
+702,MC000702,Elizabeth,Anderson,elizabeth.anderson702@example.com,Loyalty Member,Online,Central,2019-01-26,45-54,False
+703,MC000703,Noah,Perez,noah.perez703@example.com,Consumer,In-Store,East,2020-08-27,55-64,False
+704,MC000704,Priya,Nguyen,priya.nguyen704@example.com,Corporate,Online,West,2024-01-17,35-44,False
+705,MC000705,Wei,Williams,wei.williams705@example.com,Consumer,In-Store,Central,2018-10-19,25-34,False
+706,MC000706,Noah,Jackson,noah.jackson706@example.com,Consumer,In-Store,West,2023-04-04,18-24,False
+707,MC000707,Michael,Smith,michael.smith707@example.com,Corporate,Online,West,2023-11-25,45-54,False
+708,MC000708,Michael,Patel,michael.patel708@example.com,Loyalty Member,Online,East,2025-04-14,35-44,False
+709,MC000709,Lucas,Smith,lucas.smith709@example.com,Consumer,In-Store,West,2020-10-19,35-44,False
+710,MC000710,Arjun,Brown,arjun.brown710@example.com,Loyalty Member,In-Store,East,2018-04-11,65+,False
+711,MC000711,Ethan,Smith,ethan.smith711@example.com,Corporate,In-Store,West,2025-02-13,18-24,False
+712,MC000712,Ethan,Jackson,ethan.jackson712@example.com,Corporate,In-Store,Central,2026-01-04,35-44,False
+713,MC000713,Ava,Anderson,ava.anderson713@example.com,Consumer,Mobile App,Central,2023-04-02,45-54,False
+714,MC000714,Diego,Williams,diego.williams714@example.com,Consumer,In-Store,West,2022-12-15,65+,False
+715,MC000715,Zara,Williams,zara.williams715@example.com,Consumer,In-Store,Central,2019-05-10,25-34,True
+716,MC000716,Sofia,Moore,sofia.moore716@example.com,Consumer,In-Store,West,2023-10-16,25-34,False
+717,MC000717,Emma,Smith,emma.smith717@example.com,Loyalty Member,In-Store,East,2025-09-20,25-34,True
+718,MC000718,Diego,Moore,diego.moore718@example.com,Consumer,In-Store,West,2025-02-11,35-44,False
+719,MC000719,Wei,Chen,wei.chen719@example.com,Consumer,Mobile App,Central,2022-05-23,25-34,False
+720,MC000720,Ethan,Lopez,ethan.lopez720@example.com,Corporate,Mobile App,East,2020-03-26,18-24,False
+721,MC000721,Wei,Nguyen,wei.nguyen721@example.com,Corporate,In-Store,East,2020-04-23,35-44,False
+722,MC000722,Ava,Chen,ava.chen722@example.com,Loyalty Member,Online,Central,2026-04-08,55-64,False
+723,MC000723,Patricia,Brown,patricia.brown723@example.com,Loyalty Member,In-Store,Central,2021-06-29,18-24,True
+724,MC000724,Robert,Perez,robert.perez724@example.com,Loyalty Member,In-Store,West,2025-10-12,18-24,False
+725,MC000725,Ethan,Taylor,ethan.taylor725@example.com,Consumer,In-Store,Central,2023-12-08,35-44,False
+726,MC000726,John,Moore,john.moore726@example.com,Corporate,In-Store,West,2021-10-22,65+,False
+727,MC000727,Omar,Singh,omar.singh727@example.com,Consumer,Online,East,2018-08-31,35-44,False
+728,MC000728,Isabella,Thomas,isabella.thomas728@example.com,Corporate,Mobile App,East,2025-06-15,18-24,False
+729,MC000729,Sofia,Perez,sofia.perez729@example.com,Consumer,In-Store,West,2019-06-03,25-34,False
+730,MC000730,Jennifer,Lopez,jennifer.lopez730@example.com,Consumer,Mobile App,Central,2019-10-19,55-64,False
+731,MC000731,Priya,Smith,priya.smith731@example.com,Corporate,Online,Central,2020-11-30,25-34,False
+732,MC000732,Ananya,Chen,ananya.chen732@example.com,Consumer,In-Store,East,2021-08-20,35-44,False
+733,MC000733,Priya,Jackson,priya.jackson733@example.com,Corporate,Online,West,2018-01-12,65+,False
+734,MC000734,Michael,Lopez,michael.lopez734@example.com,Consumer,In-Store,East,2019-07-11,25-34,False
+735,MC000735,Jennifer,Taylor,jennifer.taylor735@example.com,Corporate,Online,East,2024-01-26,55-64,False
+736,MC000736,Olivia,Smith,olivia.smith736@example.com,Loyalty Member,Mobile App,West,2020-03-12,25-34,False
+737,MC000737,Ananya,Brown,ananya.brown737@example.com,Loyalty Member,In-Store,Central,2020-03-31,35-44,False
+738,MC000738,Liam,Brown,liam.brown738@example.com,Loyalty Member,Online,Central,2025-07-21,55-64,False
+739,MC000739,Fatima,Wilson,fatima.wilson739@example.com,Consumer,Online,Central,2020-01-25,25-34,False
+740,MC000740,Noah,Jones,noah.jones740@example.com,Corporate,Online,Central,2023-11-20,25-34,False
+741,MC000741,Jennifer,Jones,jennifer.jones741@example.com,Consumer,In-Store,Central,2022-05-20,45-54,False
+742,MC000742,Robert,Davis,robert.davis742@example.com,Loyalty Member,In-Store,West,2018-09-19,25-34,False
+743,MC000743,Emma,White,emma.white743@example.com,Consumer,Mobile App,West,2018-11-26,55-64,False
+744,MC000744,Wei,Patel,wei.patel744@example.com,Loyalty Member,In-Store,East,2026-03-11,25-34,False
+745,MC000745,Sofia,Lee,sofia.lee745@example.com,Consumer,Mobile App,West,2025-02-26,35-44,False
+746,MC000746,Carlos,Singh,carlos.singh746@example.com,Loyalty Member,In-Store,West,2020-08-05,25-34,False
+747,MC000747,Fatima,Nguyen,fatima.nguyen747@example.com,Consumer,Mobile App,Central,2025-12-04,35-44,False
+748,MC000748,Ava,Lopez,ava.lopez748@example.com,Consumer,In-Store,Central,2025-10-22,45-54,False
+749,MC000749,Noah,Lopez,noah.lopez749@example.com,Loyalty Member,Mobile App,Central,2019-11-02,25-34,False
+750,MC000750,Robert,Williams,robert.williams750@example.com,Loyalty Member,In-Store,Central,2019-12-05,65+,False
+751,MC000751,Omar,Chen,omar.chen751@example.com,Loyalty Member,Online,Central,2022-05-11,18-24,False
+752,MC000752,Robert,Patel,robert.patel752@example.com,Consumer,Mobile App,Central,2021-02-26,45-54,False
+753,MC000753,Priya,Taylor,priya.taylor753@example.com,Consumer,Online,West,2018-01-22,45-54,False
+754,MC000754,Wei,Kim,wei.kim754@example.com,Loyalty Member,In-Store,East,2019-06-20,18-24,False
+755,MC000755,Emma,Davis,emma.davis755@example.com,Corporate,In-Store,East,2021-10-01,25-34,False
+756,MC000756,Liam,Thomas,liam.thomas756@example.com,Corporate,Mobile App,Central,2018-09-30,55-64,False
+757,MC000757,Elizabeth,Kim,elizabeth.kim757@example.com,Consumer,Online,Central,2023-08-30,35-44,False
+758,MC000758,David,Garcia,david.garcia758@example.com,Corporate,In-Store,West,2023-06-18,65+,False
+759,MC000759,Robert,Nguyen,robert.nguyen759@example.com,Corporate,Mobile App,West,2023-09-02,25-34,False
+760,MC000760,Patricia,Patel,patricia.patel760@example.com,Consumer,In-Store,West,2023-07-10,65+,False
+761,MC000761,Ava,Jones,ava.jones761@example.com,Consumer,In-Store,West,2023-07-27,35-44,False
+762,MC000762,Ava,Taylor,ava.taylor762@example.com,Consumer,In-Store,Central,2019-09-10,65+,False
+763,MC000763,Carlos,Rodriguez,carlos.rodriguez763@example.com,Corporate,Online,East,2026-02-07,35-44,True
+764,MC000764,Elizabeth,Taylor,elizabeth.taylor764@example.com,Consumer,Online,West,2018-07-26,25-34,False
+765,MC000765,Isabella,Thomas,isabella.thomas765@example.com,Consumer,In-Store,West,2023-03-01,25-34,False
+766,MC000766,Zara,Anderson,zara.anderson766@example.com,Consumer,Mobile App,West,2021-11-12,45-54,True
+767,MC000767,Robert,Davis,robert.davis767@example.com,Consumer,In-Store,West,2022-05-11,35-44,False
+768,MC000768,Ava,Brown,ava.brown768@example.com,Consumer,Online,Central,2019-07-22,25-34,False
+769,MC000769,Yuki,Chen,yuki.chen769@example.com,Loyalty Member,Online,West,2023-10-22,25-34,False
+770,MC000770,Carlos,Smith,carlos.smith770@example.com,Loyalty Member,In-Store,West,2024-11-07,25-34,False
+771,MC000771,Isabella,Garcia,isabella.garcia771@example.com,Corporate,In-Store,West,2020-07-03,35-44,False
+772,MC000772,Robert,Moore,robert.moore772@example.com,Loyalty Member,Mobile App,West,2018-11-08,18-24,False
+773,MC000773,John,Anderson,john.anderson773@example.com,Consumer,In-Store,East,2023-09-14,65+,False
+774,MC000774,Robert,Chen,robert.chen774@example.com,Consumer,In-Store,Central,2025-10-02,25-34,False
+775,MC000775,Linda,Rodriguez,linda.rodriguez775@example.com,Corporate,In-Store,Central,2024-09-02,45-54,False
+776,MC000776,Zara,White,zara.white776@example.com,Consumer,In-Store,West,2023-04-21,35-44,False
+777,MC000777,John,Smith,john.smith777@example.com,Consumer,In-Store,West,2024-11-05,25-34,True
+778,MC000778,David,Thomas,david.thomas778@example.com,Consumer,In-Store,West,2020-12-18,45-54,True
+779,MC000779,Sofia,Taylor,sofia.taylor779@example.com,Consumer,Online,East,2018-01-25,55-64,False
+780,MC000780,Omar,Johnson,omar.johnson780@example.com,Consumer,Online,West,2019-04-12,18-24,False
+781,MC000781,Patricia,Martinez,patricia.martinez781@example.com,Corporate,In-Store,East,2020-10-24,55-64,False
+782,MC000782,Mary,Thomas,mary.thomas782@example.com,Consumer,In-Store,West,2020-09-04,45-54,False
+783,MC000783,Yuki,Thomas,yuki.thomas783@example.com,Loyalty Member,In-Store,West,2022-04-10,18-24,False
+784,MC000784,Wei,Thomas,wei.thomas784@example.com,Consumer,Online,West,2023-04-23,35-44,False
+785,MC000785,Emma,Lopez,emma.lopez785@example.com,Corporate,In-Store,Central,2023-03-29,25-34,False
+786,MC000786,Omar,Smith,omar.smith786@example.com,Consumer,In-Store,Central,2023-12-22,35-44,False
+787,MC000787,David,Jones,david.jones787@example.com,Corporate,Mobile App,West,2021-05-18,35-44,False
+788,MC000788,Noah,Taylor,noah.taylor788@example.com,Consumer,Mobile App,Central,2018-04-12,65+,False
+789,MC000789,Elizabeth,Garcia,elizabeth.garcia789@example.com,Consumer,Online,West,2022-03-29,65+,False
+790,MC000790,Patricia,Brown,patricia.brown790@example.com,Loyalty Member,Mobile App,West,2020-06-08,35-44,False
+791,MC000791,Liam,Lopez,liam.lopez791@example.com,Loyalty Member,In-Store,Central,2023-06-09,18-24,False
+792,MC000792,Elizabeth,Johnson,elizabeth.johnson792@example.com,Consumer,In-Store,Central,2023-03-17,18-24,False
+793,MC000793,Michael,Williams,michael.williams793@example.com,Consumer,In-Store,Central,2024-12-29,35-44,False
+794,MC000794,Robert,Kim,robert.kim794@example.com,Consumer,In-Store,East,2018-05-06,25-34,False
+795,MC000795,Omar,Johnson,omar.johnson795@example.com,Loyalty Member,In-Store,East,2018-05-27,18-24,False
+796,MC000796,Mary,Patel,mary.patel796@example.com,Corporate,In-Store,East,2019-05-25,25-34,False
+797,MC000797,Ethan,Moore,ethan.moore797@example.com,Consumer,In-Store,Central,2018-12-25,45-54,False
+798,MC000798,Jennifer,Thomas,jennifer.thomas798@example.com,Consumer,In-Store,West,2025-11-25,25-34,True
+799,MC000799,Ava,White,ava.white799@example.com,Loyalty Member,In-Store,East,2024-12-05,45-54,False
+800,MC000800,Wei,Jones,wei.jones800@example.com,Corporate,In-Store,East,2023-03-15,35-44,True
+801,MC000801,Diego,Brown,diego.brown801@example.com,Loyalty Member,In-Store,Central,2018-11-06,65+,True
+802,MC000802,Wei,Lee,wei.lee802@example.com,Loyalty Member,Online,Central,2019-12-11,45-54,False
+803,MC000803,Elizabeth,Lee,elizabeth.lee803@example.com,Loyalty Member,Mobile App,Central,2020-06-28,35-44,False
+804,MC000804,Linda,Garcia,linda.garcia804@example.com,Consumer,In-Store,Central,2019-10-09,55-64,False
+805,MC000805,David,Lopez,david.lopez805@example.com,Consumer,Mobile App,West,2018-09-01,25-34,False
+806,MC000806,John,White,john.white806@example.com,Consumer,In-Store,Central,2021-08-06,35-44,False
+807,MC000807,Jennifer,Williams,jennifer.williams807@example.com,Loyalty Member,Online,East,2025-10-19,35-44,False
+808,MC000808,Patricia,Thomas,patricia.thomas808@example.com,Corporate,In-Store,Central,2023-09-25,25-34,False
+809,MC000809,Sofia,Moore,sofia.moore809@example.com,Corporate,Mobile App,Central,2018-04-02,18-24,False
+810,MC000810,Omar,Williams,omar.williams810@example.com,Consumer,Online,Central,2025-05-01,35-44,False
+811,MC000811,Zara,Brown,zara.brown811@example.com,Consumer,Mobile App,Central,2025-04-20,35-44,False
+812,MC000812,Fatima,Patel,fatima.patel812@example.com,Loyalty Member,In-Store,East,2022-01-21,35-44,False
+813,MC000813,Sofia,Wilson,sofia.wilson813@example.com,Consumer,In-Store,Central,2023-01-15,25-34,False
+814,MC000814,Sofia,Johnson,sofia.johnson814@example.com,Corporate,Mobile App,West,2023-07-31,18-24,False
+815,MC000815,Isabella,Taylor,isabella.taylor815@example.com,Consumer,Mobile App,East,2025-10-31,35-44,False
+816,MC000816,Ananya,Martinez,ananya.martinez816@example.com,Loyalty Member,In-Store,Central,2018-11-02,35-44,False
+817,MC000817,David,Johnson,david.johnson817@example.com,Loyalty Member,Online,West,2026-01-28,35-44,False
+818,MC000818,Fatima,Martinez,fatima.martinez818@example.com,Consumer,Mobile App,East,2024-10-28,45-54,False
+819,MC000819,Zara,White,zara.white819@example.com,Corporate,In-Store,Central,2024-03-30,25-34,False
+820,MC000820,Mei,Patel,mei.patel820@example.com,Loyalty Member,In-Store,West,2023-08-12,35-44,False
+821,MC000821,Sofia,Wilson,sofia.wilson821@example.com,Loyalty Member,Online,West,2026-04-15,45-54,False
+822,MC000822,Zara,Jones,zara.jones822@example.com,Corporate,Online,East,2021-12-19,65+,False
+823,MC000823,Zara,Moore,zara.moore823@example.com,Loyalty Member,Online,Central,2025-07-02,25-34,False
+824,MC000824,Ava,Perez,ava.perez824@example.com,Consumer,In-Store,East,2020-03-30,18-24,False
+825,MC000825,Yuki,Chen,yuki.chen825@example.com,Consumer,Online,Central,2026-03-04,55-64,False
+826,MC000826,Robert,Anderson,robert.anderson826@example.com,Corporate,In-Store,East,2020-05-12,65+,False
+827,MC000827,Sofia,Rodriguez,sofia.rodriguez827@example.com,Loyalty Member,In-Store,West,2025-05-02,35-44,False
+828,MC000828,Omar,Williams,omar.williams828@example.com,Loyalty Member,In-Store,West,2022-07-22,55-64,True
+829,MC000829,John,Lee,john.lee829@example.com,Corporate,Online,Central,2018-07-05,55-64,False
+830,MC000830,Yuki,Nguyen,yuki.nguyen830@example.com,Loyalty Member,Mobile App,Central,2025-12-28,35-44,False
+831,MC000831,Omar,Miller,omar.miller831@example.com,Consumer,Mobile App,West,2025-11-22,45-54,False
+832,MC000832,Olivia,Patel,olivia.patel832@example.com,Consumer,In-Store,West,2020-01-14,45-54,False
+833,MC000833,Patricia,Rodriguez,patricia.rodriguez833@example.com,Loyalty Member,In-Store,East,2025-07-05,45-54,False
+834,MC000834,Yuki,Thomas,yuki.thomas834@example.com,Consumer,In-Store,Central,2024-03-31,25-34,False
+835,MC000835,Priya,Jones,priya.jones835@example.com,Consumer,Online,East,2021-12-01,45-54,False
+836,MC000836,Ethan,Davis,ethan.davis836@example.com,Consumer,In-Store,West,2020-10-03,35-44,False
+837,MC000837,Robert,Jackson,robert.jackson837@example.com,Loyalty Member,In-Store,East,2023-07-14,25-34,False
+838,MC000838,Priya,Patel,priya.patel838@example.com,Corporate,In-Store,West,2019-04-25,55-64,False
+839,MC000839,Ava,Patel,ava.patel839@example.com,Consumer,Mobile App,West,2021-06-27,35-44,True
+840,MC000840,Robert,Jackson,robert.jackson840@example.com,Consumer,Mobile App,Central,2023-09-18,25-34,False
+841,MC000841,James,Jones,james.jones841@example.com,Consumer,Mobile App,East,2020-02-26,35-44,False
+842,MC000842,Fatima,Jones,fatima.jones842@example.com,Loyalty Member,Online,East,2022-10-07,65+,False
+843,MC000843,Patricia,Rodriguez,patricia.rodriguez843@example.com,Loyalty Member,Mobile App,East,2022-10-22,35-44,False
+844,MC000844,Robert,Miller,robert.miller844@example.com,Consumer,Mobile App,West,2025-04-06,25-34,False
+845,MC000845,Isabella,Wilson,isabella.wilson845@example.com,Consumer,In-Store,West,2025-04-24,35-44,False
+846,MC000846,Mary,Davis,mary.davis846@example.com,Corporate,Online,West,2020-06-07,25-34,True
+847,MC000847,Sofia,Lopez,sofia.lopez847@example.com,Consumer,In-Store,Central,2022-01-08,55-64,False
+848,MC000848,Mary,Nguyen,mary.nguyen848@example.com,Loyalty Member,In-Store,Central,2025-10-05,45-54,False
+849,MC000849,Jennifer,White,jennifer.white849@example.com,Loyalty Member,In-Store,East,2025-05-18,35-44,False
+850,MC000850,John,Perez,john.perez850@example.com,Loyalty Member,In-Store,Central,2019-10-29,18-24,False
+851,MC000851,Linda,Moore,linda.moore851@example.com,Consumer,In-Store,East,2024-11-14,25-34,False
+852,MC000852,Zara,Lopez,zara.lopez852@example.com,Consumer,In-Store,West,2018-06-22,35-44,False
+853,MC000853,Zara,Williams,zara.williams853@example.com,Loyalty Member,In-Store,West,2024-07-29,18-24,False
+854,MC000854,Jennifer,Kim,jennifer.kim854@example.com,Loyalty Member,In-Store,East,2025-09-26,55-64,True
+855,MC000855,Elizabeth,Singh,elizabeth.singh855@example.com,Consumer,In-Store,Central,2025-08-29,35-44,False
+856,MC000856,Isabella,Johnson,isabella.johnson856@example.com,Consumer,Mobile App,East,2019-04-26,18-24,False
+857,MC000857,Ethan,Taylor,ethan.taylor857@example.com,Loyalty Member,In-Store,Central,2024-07-19,55-64,False
+858,MC000858,Sofia,Taylor,sofia.taylor858@example.com,Consumer,In-Store,West,2020-06-05,65+,False
+859,MC000859,Omar,Jones,omar.jones859@example.com,Consumer,Online,West,2018-12-28,25-34,False
+860,MC000860,Diego,Jackson,diego.jackson860@example.com,Loyalty Member,In-Store,East,2022-08-08,45-54,True
+861,MC000861,Omar,Brown,omar.brown861@example.com,Loyalty Member,In-Store,West,2024-01-20,55-64,False
+862,MC000862,Arjun,Brown,arjun.brown862@example.com,Loyalty Member,In-Store,East,2025-10-06,65+,False
+863,MC000863,Patricia,Taylor,patricia.taylor863@example.com,Loyalty Member,Online,Central,2019-01-14,65+,False
+864,MC000864,Priya,Jones,priya.jones864@example.com,Consumer,Online,Central,2023-04-07,35-44,False
+865,MC000865,Elizabeth,Lopez,elizabeth.lopez865@example.com,Consumer,In-Store,Central,2022-05-25,35-44,True
+866,MC000866,Fatima,Lee,fatima.lee866@example.com,Consumer,In-Store,West,2023-04-11,35-44,True
+867,MC000867,Elizabeth,Anderson,elizabeth.anderson867@example.com,Consumer,Online,West,2021-03-29,25-34,False
+868,MC000868,John,Williams,john.williams868@example.com,Consumer,In-Store,East,2023-10-20,35-44,True
+869,MC000869,Wei,Garcia,wei.garcia869@example.com,Consumer,Online,Central,2025-06-13,35-44,False
+870,MC000870,Patricia,Brown,patricia.brown870@example.com,Loyalty Member,In-Store,East,2025-05-31,25-34,False
+871,MC000871,Yuki,Martinez,yuki.martinez871@example.com,Corporate,Online,East,2024-03-02,25-34,False
+872,MC000872,Robert,Lee,robert.lee872@example.com,Consumer,In-Store,East,2026-05-04,55-64,False
+873,MC000873,Yuki,White,yuki.white873@example.com,Loyalty Member,In-Store,East,2023-09-24,35-44,False
+874,MC000874,Zara,Kim,zara.kim874@example.com,Loyalty Member,In-Store,East,2020-12-17,25-34,False
+875,MC000875,Ethan,Garcia,ethan.garcia875@example.com,Consumer,Mobile App,East,2018-02-15,18-24,False
+876,MC000876,John,Miller,john.miller876@example.com,Consumer,In-Store,West,2018-10-29,35-44,False
+877,MC000877,James,Lee,james.lee877@example.com,Consumer,Mobile App,Central,2019-05-23,25-34,False
+878,MC000878,John,Patel,john.patel878@example.com,Corporate,In-Store,Central,2022-12-23,25-34,False
+879,MC000879,Isabella,Williams,isabella.williams879@example.com,Loyalty Member,Online,West,2020-08-20,35-44,False
+880,MC000880,Linda,Perez,linda.perez880@example.com,Consumer,In-Store,Central,2020-03-14,25-34,False
+881,MC000881,Liam,Patel,liam.patel881@example.com,Consumer,Mobile App,East,2018-12-25,45-54,False
+882,MC000882,Linda,Lee,linda.lee882@example.com,Loyalty Member,Mobile App,West,2022-07-22,35-44,False
+883,MC000883,Diego,Smith,diego.smith883@example.com,Corporate,Mobile App,East,2019-09-04,25-34,False
+884,MC000884,Priya,Wilson,priya.wilson884@example.com,Loyalty Member,In-Store,East,2023-05-08,25-34,False
+885,MC000885,Liam,Lee,liam.lee885@example.com,Loyalty Member,Online,West,2020-11-28,35-44,False
+886,MC000886,Emma,Patel,emma.patel886@example.com,Consumer,Mobile App,Central,2026-05-20,18-24,True
+887,MC000887,Mei,Moore,mei.moore887@example.com,Corporate,In-Store,Central,2019-04-07,35-44,False
+888,MC000888,Sofia,Taylor,sofia.taylor888@example.com,Consumer,Online,Central,2023-01-01,25-34,False
+889,MC000889,Arjun,Brown,arjun.brown889@example.com,Consumer,In-Store,Central,2022-06-23,35-44,False
+890,MC000890,Sofia,Jackson,sofia.jackson890@example.com,Loyalty Member,In-Store,Central,2020-03-09,25-34,False
+891,MC000891,Olivia,Kim,olivia.kim891@example.com,Loyalty Member,Online,Central,2024-12-05,65+,False
+892,MC000892,Ava,Chen,ava.chen892@example.com,Consumer,In-Store,East,2025-10-27,25-34,False
+893,MC000893,James,Singh,james.singh893@example.com,Loyalty Member,Online,Central,2021-04-27,65+,False
+894,MC000894,Elizabeth,Rodriguez,elizabeth.rodriguez894@example.com,Consumer,In-Store,Central,2023-02-06,55-64,True
+895,MC000895,David,Wilson,david.wilson895@example.com,Consumer,In-Store,East,2022-11-17,45-54,False
+896,MC000896,Patricia,Williams,patricia.williams896@example.com,Corporate,Mobile App,Central,2018-01-20,25-34,False
+897,MC000897,Zara,Davis,zara.davis897@example.com,Corporate,Online,East,2024-04-10,45-54,False
+898,MC000898,Lucas,Williams,lucas.williams898@example.com,Consumer,In-Store,East,2026-02-22,35-44,False
+899,MC000899,Wei,Davis,wei.davis899@example.com,Consumer,In-Store,East,2019-06-08,25-34,False
+900,MC000900,Linda,Lopez,linda.lopez900@example.com,Consumer,In-Store,West,2018-11-24,65+,False
+901,MC000901,David,Perez,david.perez901@example.com,Consumer,Mobile App,East,2019-06-12,18-24,False
+902,MC000902,Carlos,Wilson,carlos.wilson902@example.com,Consumer,Mobile App,Central,2024-10-03,55-64,True
+903,MC000903,Noah,White,noah.white903@example.com,Consumer,Online,East,2025-09-23,25-34,False
+904,MC000904,Ananya,Perez,ananya.perez904@example.com,Corporate,In-Store,West,2021-12-30,65+,True
+905,MC000905,Liam,Taylor,liam.taylor905@example.com,Consumer,In-Store,West,2022-06-14,65+,False
+906,MC000906,David,Garcia,david.garcia906@example.com,Consumer,In-Store,West,2025-02-20,25-34,False
+907,MC000907,James,Anderson,james.anderson907@example.com,Consumer,Mobile App,Central,2021-08-03,25-34,False
+908,MC000908,Michael,Wilson,michael.wilson908@example.com,Loyalty Member,Mobile App,Central,2018-03-04,25-34,False
+909,MC000909,Omar,Chen,omar.chen909@example.com,Consumer,In-Store,East,2019-01-08,25-34,True
+910,MC000910,Lucas,Taylor,lucas.taylor910@example.com,Loyalty Member,In-Store,West,2018-06-24,35-44,False
+911,MC000911,Carlos,Williams,carlos.williams911@example.com,Consumer,In-Store,Central,2023-04-17,35-44,False
+912,MC000912,Zara,White,zara.white912@example.com,Consumer,In-Store,Central,2025-11-19,25-34,False
+913,MC000913,Elizabeth,Jackson,elizabeth.jackson913@example.com,Consumer,In-Store,Central,2023-06-08,35-44,False
+914,MC000914,Noah,Moore,noah.moore914@example.com,Loyalty Member,Online,West,2025-10-01,45-54,True
+915,MC000915,Diego,Wilson,diego.wilson915@example.com,Loyalty Member,In-Store,East,2020-05-01,35-44,False
+916,MC000916,Omar,Miller,omar.miller916@example.com,Consumer,In-Store,East,2023-02-18,25-34,False
+917,MC000917,Omar,Lee,omar.lee917@example.com,Corporate,In-Store,Central,2024-07-17,65+,True
+918,MC000918,Omar,Smith,omar.smith918@example.com,Corporate,In-Store,West,2018-06-28,35-44,False
+919,MC000919,Elizabeth,Patel,elizabeth.patel919@example.com,Loyalty Member,Mobile App,Central,2020-05-31,35-44,False
+920,MC000920,Ananya,Anderson,ananya.anderson920@example.com,Loyalty Member,Mobile App,West,2025-11-07,35-44,True
+921,MC000921,Carlos,Wilson,carlos.wilson921@example.com,Consumer,Online,Central,2019-03-26,55-64,False
+922,MC000922,Ananya,Singh,ananya.singh922@example.com,Loyalty Member,In-Store,East,2026-03-02,45-54,False
+923,MC000923,Ananya,Jones,ananya.jones923@example.com,Consumer,Online,Central,2018-01-29,45-54,True
+924,MC000924,Olivia,Lopez,olivia.lopez924@example.com,Consumer,In-Store,West,2023-07-13,35-44,False
+925,MC000925,James,Chen,james.chen925@example.com,Consumer,Online,East,2021-02-06,35-44,True
+926,MC000926,Linda,Lee,linda.lee926@example.com,Consumer,In-Store,East,2022-07-18,18-24,False
+927,MC000927,Mary,Williams,mary.williams927@example.com,Loyalty Member,Online,East,2021-03-06,25-34,False
+928,MC000928,Linda,Perez,linda.perez928@example.com,Consumer,Online,West,2026-05-27,35-44,False
+929,MC000929,Ava,Anderson,ava.anderson929@example.com,Consumer,Online,West,2026-02-13,25-34,False
+930,MC000930,Zara,Williams,zara.williams930@example.com,Consumer,In-Store,West,2021-03-16,25-34,False
+931,MC000931,Emma,Martinez,emma.martinez931@example.com,Consumer,Mobile App,Central,2019-02-08,18-24,False
+932,MC000932,Sofia,Perez,sofia.perez932@example.com,Loyalty Member,Online,Central,2019-06-01,35-44,False
+933,MC000933,Zara,Lee,zara.lee933@example.com,Consumer,Online,West,2025-11-20,18-24,False
+934,MC000934,Mei,Rodriguez,mei.rodriguez934@example.com,Loyalty Member,In-Store,West,2019-10-12,35-44,False
+935,MC000935,Noah,Patel,noah.patel935@example.com,Loyalty Member,In-Store,West,2025-10-16,45-54,True
+936,MC000936,John,Moore,john.moore936@example.com,Corporate,In-Store,Central,2022-09-05,18-24,False
+937,MC000937,Priya,Nguyen,priya.nguyen937@example.com,Consumer,In-Store,West,2020-04-30,35-44,True
+938,MC000938,Zara,Perez,zara.perez938@example.com,Corporate,In-Store,West,2020-06-01,25-34,False
+939,MC000939,Michael,Perez,michael.perez939@example.com,Loyalty Member,In-Store,West,2019-02-08,65+,False
+940,MC000940,Ananya,Brown,ananya.brown940@example.com,Loyalty Member,Online,Central,2018-05-05,35-44,False
+941,MC000941,Diego,Anderson,diego.anderson941@example.com,Loyalty Member,Online,West,2024-05-22,25-34,False
+942,MC000942,Robert,Rodriguez,robert.rodriguez942@example.com,Corporate,Mobile App,Central,2025-11-28,35-44,False
+943,MC000943,Isabella,Williams,isabella.williams943@example.com,Consumer,In-Store,East,2021-05-07,45-54,False
+944,MC000944,Robert,Martinez,robert.martinez944@example.com,Corporate,In-Store,West,2022-09-12,25-34,False
+945,MC000945,Diego,Anderson,diego.anderson945@example.com,Loyalty Member,Online,West,2021-11-03,25-34,False
+946,MC000946,Fatima,Jones,fatima.jones946@example.com,Consumer,Online,Central,2025-12-06,55-64,False
+947,MC000947,Zara,Smith,zara.smith947@example.com,Loyalty Member,In-Store,West,2018-11-20,25-34,False
+948,MC000948,Zara,Garcia,zara.garcia948@example.com,Consumer,Mobile App,East,2019-04-14,35-44,False
+949,MC000949,Patricia,Miller,patricia.miller949@example.com,Consumer,In-Store,West,2025-08-03,25-34,False
+950,MC000950,Arjun,Patel,arjun.patel950@example.com,Loyalty Member,Online,West,2018-07-16,25-34,False
+951,MC000951,Sofia,Smith,sofia.smith951@example.com,Consumer,Online,East,2022-05-28,45-54,True
+952,MC000952,David,Lee,david.lee952@example.com,Loyalty Member,In-Store,Central,2018-04-12,55-64,False
+953,MC000953,Sofia,Kim,sofia.kim953@example.com,Loyalty Member,In-Store,West,2018-08-17,55-64,False
+954,MC000954,Patricia,Kim,patricia.kim954@example.com,Loyalty Member,Mobile App,Central,2023-09-04,18-24,False
+955,MC000955,Arjun,Perez,arjun.perez955@example.com,Consumer,Online,West,2020-03-28,35-44,True
+956,MC000956,Elizabeth,Patel,elizabeth.patel956@example.com,Consumer,In-Store,West,2026-04-12,25-34,True
+957,MC000957,Emma,Williams,emma.williams957@example.com,Loyalty Member,In-Store,West,2024-10-14,35-44,False
+958,MC000958,Noah,Chen,noah.chen958@example.com,Consumer,In-Store,West,2021-08-01,18-24,False
+959,MC000959,Emma,Wilson,emma.wilson959@example.com,Loyalty Member,Online,East,2025-09-16,45-54,True
+960,MC000960,David,Garcia,david.garcia960@example.com,Corporate,In-Store,Central,2021-09-28,65+,False
+961,MC000961,Linda,Williams,linda.williams961@example.com,Consumer,Online,Central,2024-05-23,45-54,False
+962,MC000962,Priya,Thomas,priya.thomas962@example.com,Corporate,In-Store,Central,2025-12-16,35-44,False
+963,MC000963,Lucas,Martinez,lucas.martinez963@example.com,Consumer,In-Store,East,2020-04-21,45-54,False
+964,MC000964,Mei,Anderson,mei.anderson964@example.com,Loyalty Member,Mobile App,Central,2019-08-29,25-34,False
+965,MC000965,Liam,Patel,liam.patel965@example.com,Loyalty Member,Mobile App,Central,2020-03-19,45-54,False
+966,MC000966,Sofia,Miller,sofia.miller966@example.com,Loyalty Member,In-Store,East,2019-06-21,18-24,False
+967,MC000967,Isabella,Kim,isabella.kim967@example.com,Consumer,In-Store,Central,2026-01-06,18-24,False
+968,MC000968,David,Davis,david.davis968@example.com,Consumer,Online,East,2024-08-17,45-54,True
+969,MC000969,James,Anderson,james.anderson969@example.com,Loyalty Member,In-Store,Central,2026-01-07,55-64,False
+970,MC000970,Arjun,Patel,arjun.patel970@example.com,Loyalty Member,In-Store,Central,2022-07-25,35-44,True
+971,MC000971,Wei,Lee,wei.lee971@example.com,Consumer,Mobile App,Central,2020-01-13,45-54,False
+972,MC000972,Ethan,Brown,ethan.brown972@example.com,Consumer,In-Store,East,2022-09-11,65+,False
+973,MC000973,Noah,Taylor,noah.taylor973@example.com,Loyalty Member,In-Store,West,2026-05-24,25-34,False
+974,MC000974,Ananya,Wilson,ananya.wilson974@example.com,Consumer,In-Store,Central,2024-10-29,35-44,False
+975,MC000975,Ananya,Garcia,ananya.garcia975@example.com,Consumer,Mobile App,Central,2019-07-22,45-54,False
+976,MC000976,Linda,Williams,linda.williams976@example.com,Corporate,Mobile App,West,2021-06-22,35-44,False
+977,MC000977,Lucas,White,lucas.white977@example.com,Consumer,In-Store,Central,2020-10-06,35-44,False
+978,MC000978,Yuki,Davis,yuki.davis978@example.com,Corporate,Online,West,2022-09-15,35-44,False
+979,MC000979,Mei,White,mei.white979@example.com,Consumer,Online,Central,2023-04-19,35-44,False
+980,MC000980,Michael,Martinez,michael.martinez980@example.com,Loyalty Member,Online,East,2025-01-17,18-24,False
+981,MC000981,Olivia,Smith,olivia.smith981@example.com,Loyalty Member,In-Store,West,2018-07-24,25-34,False
+982,MC000982,Ethan,Johnson,ethan.johnson982@example.com,Consumer,Online,East,2025-07-05,65+,True
+983,MC000983,Zara,Chen,zara.chen983@example.com,Consumer,Mobile App,Central,2021-11-16,25-34,False
+984,MC000984,Arjun,Johnson,arjun.johnson984@example.com,Corporate,Online,East,2025-06-02,18-24,False
+985,MC000985,Linda,Jones,linda.jones985@example.com,Loyalty Member,Mobile App,Central,2018-11-19,65+,False
+986,MC000986,Sofia,Brown,sofia.brown986@example.com,Loyalty Member,Mobile App,Central,2020-12-21,45-54,False
+987,MC000987,Mei,White,mei.white987@example.com,Loyalty Member,Mobile App,Central,2024-03-01,55-64,False
+988,MC000988,Wei,White,wei.white988@example.com,Loyalty Member,Mobile App,East,2018-09-11,35-44,False
+989,MC000989,Jennifer,Jackson,jennifer.jackson989@example.com,Consumer,Mobile App,Central,2021-02-02,25-34,False
+990,MC000990,Wei,Moore,wei.moore990@example.com,Consumer,In-Store,West,2026-02-04,55-64,True
+991,MC000991,Noah,Kim,noah.kim991@example.com,Loyalty Member,Online,East,2025-05-15,35-44,False
+992,MC000992,Diego,Moore,diego.moore992@example.com,Corporate,In-Store,Central,2024-04-06,65+,False
+993,MC000993,John,Smith,john.smith993@example.com,Loyalty Member,Mobile App,East,2020-10-20,25-34,False
+994,MC000994,Omar,Lopez,omar.lopez994@example.com,Loyalty Member,In-Store,Central,2018-01-15,25-34,False
+995,MC000995,Sofia,Wilson,sofia.wilson995@example.com,Loyalty Member,Online,East,2021-09-30,25-34,False
+996,MC000996,Isabella,Nguyen,isabella.nguyen996@example.com,Consumer,In-Store,Central,2019-04-22,35-44,True
+997,MC000997,Zara,Lee,zara.lee997@example.com,Corporate,In-Store,West,2026-06-21,35-44,False
+998,MC000998,Mary,Chen,mary.chen998@example.com,Corporate,In-Store,East,2024-01-18,45-54,False
+999,MC000999,Arjun,Perez,arjun.perez999@example.com,Loyalty Member,Mobile App,East,2021-07-24,18-24,False
+1000,MC001000,Omar,Moore,omar.moore1000@example.com,Loyalty Member,Mobile App,Central,2023-06-06,55-64,False
+1001,MC001001,Noah,Lopez,noah.lopez1001@example.com,Consumer,Online,East,2019-09-25,25-34,False
+1002,MC001002,Fatima,Smith,fatima.smith1002@example.com,Loyalty Member,In-Store,Central,2020-12-29,35-44,False
+1003,MC001003,Yuki,Chen,yuki.chen1003@example.com,Consumer,Online,East,2018-04-28,45-54,True
+1004,MC001004,John,Garcia,john.garcia1004@example.com,Loyalty Member,Online,Central,2020-07-22,45-54,False
+1005,MC001005,Omar,Jones,omar.jones1005@example.com,Consumer,In-Store,Central,2026-05-31,65+,False
+1006,MC001006,Elizabeth,Kim,elizabeth.kim1006@example.com,Corporate,In-Store,West,2021-12-11,65+,False
+1007,MC001007,James,Lopez,james.lopez1007@example.com,Loyalty Member,In-Store,East,2019-11-05,65+,True
+1008,MC001008,Patricia,Davis,patricia.davis1008@example.com,Corporate,Online,East,2023-03-11,45-54,False
+1009,MC001009,David,Kim,david.kim1009@example.com,Consumer,In-Store,Central,2024-12-15,25-34,False
+1010,MC001010,Ananya,Thomas,ananya.thomas1010@example.com,Loyalty Member,Online,Central,2019-10-08,35-44,False
+1011,MC001011,Omar,Singh,omar.singh1011@example.com,Loyalty Member,In-Store,East,2021-03-08,18-24,False
+1012,MC001012,Fatima,Martinez,fatima.martinez1012@example.com,Consumer,Online,Central,2023-06-04,35-44,False
+1013,MC001013,Mei,Lee,mei.lee1013@example.com,Consumer,In-Store,East,2025-08-26,25-34,False
+1014,MC001014,John,Smith,john.smith1014@example.com,Consumer,Online,West,2021-02-26,18-24,False
+1015,MC001015,Robert,Perez,robert.perez1015@example.com,Consumer,In-Store,West,2024-12-08,35-44,False
+1016,MC001016,Wei,Chen,wei.chen1016@example.com,Consumer,In-Store,East,2018-01-12,35-44,False
+1017,MC001017,Wei,Davis,wei.davis1017@example.com,Consumer,Online,West,2022-05-29,55-64,False
+1018,MC001018,Priya,Martinez,priya.martinez1018@example.com,Consumer,In-Store,West,2026-02-16,25-34,False
+1019,MC001019,Fatima,Perez,fatima.perez1019@example.com,Consumer,Online,East,2022-01-14,55-64,False
+1020,MC001020,Wei,Wilson,wei.wilson1020@example.com,Consumer,In-Store,West,2021-06-24,18-24,False
+1021,MC001021,Isabella,Martinez,isabella.martinez1021@example.com,Corporate,Mobile App,West,2018-03-06,45-54,False
+1022,MC001022,Robert,Jones,robert.jones1022@example.com,Corporate,In-Store,East,2024-05-13,25-34,False
+1023,MC001023,Priya,Chen,priya.chen1023@example.com,Loyalty Member,In-Store,East,2023-05-02,65+,False
+1024,MC001024,Diego,Miller,diego.miller1024@example.com,Corporate,In-Store,West,2022-03-19,25-34,False
+1025,MC001025,Ananya,Nguyen,ananya.nguyen1025@example.com,Loyalty Member,In-Store,East,2024-10-12,35-44,True
+1026,MC001026,Robert,Thomas,robert.thomas1026@example.com,Consumer,In-Store,East,2020-05-27,18-24,False
+1027,MC001027,Fatima,Taylor,fatima.taylor1027@example.com,Consumer,Online,East,2019-04-29,35-44,False
+1028,MC001028,Yuki,Wilson,yuki.wilson1028@example.com,Loyalty Member,In-Store,Central,2022-01-31,65+,False
+1029,MC001029,Mei,Garcia,mei.garcia1029@example.com,Consumer,In-Store,East,2020-09-03,45-54,False
+1030,MC001030,Olivia,Miller,olivia.miller1030@example.com,Loyalty Member,In-Store,Central,2022-02-22,35-44,False
+1031,MC001031,Lucas,Smith,lucas.smith1031@example.com,Consumer,Online,East,2023-11-20,55-64,False
+1032,MC001032,Carlos,Kim,carlos.kim1032@example.com,Corporate,Online,Central,2023-01-05,55-64,False
+1033,MC001033,Isabella,Chen,isabella.chen1033@example.com,Loyalty Member,Online,East,2019-09-22,18-24,False
+1034,MC001034,Robert,Anderson,robert.anderson1034@example.com,Corporate,Mobile App,West,2023-09-13,55-64,True
+1035,MC001035,Zara,Davis,zara.davis1035@example.com,Consumer,In-Store,East,2020-10-23,25-34,True
+1036,MC001036,Diego,Patel,diego.patel1036@example.com,Loyalty Member,Mobile App,West,2025-11-23,18-24,False
+1037,MC001037,Wei,Perez,wei.perez1037@example.com,Loyalty Member,Mobile App,East,2020-12-11,35-44,False
+1038,MC001038,Carlos,Miller,carlos.miller1038@example.com,Loyalty Member,In-Store,East,2018-05-10,55-64,False
+1039,MC001039,Sofia,Jackson,sofia.jackson1039@example.com,Consumer,In-Store,East,2022-10-02,55-64,False
+1040,MC001040,Linda,Nguyen,linda.nguyen1040@example.com,Consumer,In-Store,East,2024-09-08,25-34,False
+1041,MC001041,Liam,Jones,liam.jones1041@example.com,Consumer,Mobile App,West,2023-05-22,35-44,False
+1042,MC001042,Zara,Brown,zara.brown1042@example.com,Consumer,Mobile App,East,2021-05-26,25-34,False
+1043,MC001043,Robert,Patel,robert.patel1043@example.com,Corporate,Mobile App,Central,2018-11-05,25-34,False
+1044,MC001044,Fatima,Thomas,fatima.thomas1044@example.com,Corporate,In-Store,West,2023-08-03,18-24,False
+1045,MC001045,Wei,Williams,wei.williams1045@example.com,Consumer,In-Store,West,2021-01-28,55-64,False
+1046,MC001046,Mary,Williams,mary.williams1046@example.com,Consumer,In-Store,East,2021-12-12,45-54,False
+1047,MC001047,Noah,Lopez,noah.lopez1047@example.com,Consumer,In-Store,East,2022-06-17,45-54,False
+1048,MC001048,Fatima,Kim,fatima.kim1048@example.com,Consumer,Mobile App,East,2020-05-10,35-44,False
+1049,MC001049,Linda,Martinez,linda.martinez1049@example.com,Loyalty Member,Online,West,2019-03-25,65+,False
+1050,MC001050,Linda,Moore,linda.moore1050@example.com,Corporate,Online,Central,2025-02-09,35-44,False
+1051,MC001051,Isabella,Chen,isabella.chen1051@example.com,Loyalty Member,In-Store,East,2021-02-18,35-44,False
+1052,MC001052,Noah,Lopez,noah.lopez1052@example.com,Loyalty Member,Online,East,2019-01-09,35-44,False
+1053,MC001053,Liam,Johnson,liam.johnson1053@example.com,Corporate,In-Store,East,2020-02-12,65+,False
+1054,MC001054,David,Lopez,david.lopez1054@example.com,Consumer,In-Store,East,2020-10-24,35-44,False
+1055,MC001055,Ananya,Williams,ananya.williams1055@example.com,Consumer,In-Store,East,2024-03-20,25-34,True
+1056,MC001056,Priya,White,priya.white1056@example.com,Loyalty Member,In-Store,East,2023-02-12,45-54,False
+1057,MC001057,Ava,Thomas,ava.thomas1057@example.com,Loyalty Member,In-Store,East,2018-12-27,35-44,False
+1058,MC001058,Mary,Anderson,mary.anderson1058@example.com,Loyalty Member,In-Store,West,2025-07-09,35-44,False
+1059,MC001059,Jennifer,Williams,jennifer.williams1059@example.com,Loyalty Member,In-Store,East,2019-05-25,35-44,False
+1060,MC001060,Isabella,Thomas,isabella.thomas1060@example.com,Consumer,Mobile App,West,2018-08-17,55-64,False
+1061,MC001061,James,Brown,james.brown1061@example.com,Consumer,Mobile App,Central,2019-07-13,45-54,False
+1062,MC001062,James,Wilson,james.wilson1062@example.com,Consumer,Mobile App,West,2026-06-21,18-24,False
+1063,MC001063,Ava,Kim,ava.kim1063@example.com,Loyalty Member,Online,West,2019-11-14,45-54,False
+1064,MC001064,Isabella,Williams,isabella.williams1064@example.com,Corporate,In-Store,West,2019-07-29,25-34,True
+1065,MC001065,Ava,Nguyen,ava.nguyen1065@example.com,Loyalty Member,In-Store,West,2018-05-16,55-64,False
+1066,MC001066,Patricia,Johnson,patricia.johnson1066@example.com,Consumer,Online,West,2020-11-11,35-44,False
+1067,MC001067,Olivia,Davis,olivia.davis1067@example.com,Consumer,In-Store,East,2025-10-01,25-34,False
+1068,MC001068,Elizabeth,Martinez,elizabeth.martinez1068@example.com,Loyalty Member,Mobile App,East,2019-08-10,18-24,False
+1069,MC001069,Elizabeth,Williams,elizabeth.williams1069@example.com,Consumer,In-Store,Central,2025-09-16,45-54,False
+1070,MC001070,Fatima,Brown,fatima.brown1070@example.com,Loyalty Member,Mobile App,West,2021-08-11,55-64,False
+1071,MC001071,Patricia,Perez,patricia.perez1071@example.com,Corporate,In-Store,East,2023-01-10,55-64,False
+1072,MC001072,Michael,Brown,michael.brown1072@example.com,Consumer,Mobile App,East,2022-06-20,25-34,False
+1073,MC001073,Carlos,Nguyen,carlos.nguyen1073@example.com,Corporate,In-Store,West,2020-05-16,25-34,True
+1074,MC001074,Isabella,Taylor,isabella.taylor1074@example.com,Consumer,Mobile App,West,2024-03-28,18-24,True
+1075,MC001075,Elizabeth,Jackson,elizabeth.jackson1075@example.com,Corporate,Online,East,2018-06-09,35-44,False
+1076,MC001076,Arjun,Jackson,arjun.jackson1076@example.com,Consumer,Online,East,2019-01-22,25-34,False
+1077,MC001077,Isabella,Taylor,isabella.taylor1077@example.com,Loyalty Member,In-Store,East,2021-02-16,65+,True
+1078,MC001078,Elizabeth,Perez,elizabeth.perez1078@example.com,Loyalty Member,Mobile App,West,2023-05-13,18-24,True
+1079,MC001079,Mary,Moore,mary.moore1079@example.com,Consumer,Online,East,2022-10-10,45-54,False
+1080,MC001080,James,Kim,james.kim1080@example.com,Consumer,In-Store,East,2026-05-21,25-34,True
+1081,MC001081,Isabella,Taylor,isabella.taylor1081@example.com,Loyalty Member,In-Store,East,2018-11-20,25-34,False
+1082,MC001082,Ananya,Miller,ananya.miller1082@example.com,Loyalty Member,In-Store,West,2026-06-17,25-34,True
+1083,MC001083,Olivia,Jackson,olivia.jackson1083@example.com,Consumer,In-Store,East,2026-01-24,55-64,False
+1084,MC001084,Robert,Wilson,robert.wilson1084@example.com,Loyalty Member,Online,Central,2022-03-06,25-34,False
+1085,MC001085,Yuki,Jones,yuki.jones1085@example.com,Loyalty Member,In-Store,Central,2024-02-29,18-24,False
+1086,MC001086,Isabella,Perez,isabella.perez1086@example.com,Consumer,Online,West,2019-03-15,55-64,False
+1087,MC001087,Jennifer,Taylor,jennifer.taylor1087@example.com,Loyalty Member,Online,Central,2023-05-08,55-64,True
+1088,MC001088,Mary,Thomas,mary.thomas1088@example.com,Loyalty Member,In-Store,West,2023-05-13,25-34,False
+1089,MC001089,Diego,Singh,diego.singh1089@example.com,Consumer,In-Store,Central,2025-12-31,65+,False
+1090,MC001090,Robert,Kim,robert.kim1090@example.com,Consumer,Mobile App,West,2021-08-12,25-34,False
+1091,MC001091,Ananya,Wilson,ananya.wilson1091@example.com,Loyalty Member,Online,Central,2026-06-11,18-24,False
+1092,MC001092,Arjun,Jackson,arjun.jackson1092@example.com,Consumer,In-Store,West,2023-06-22,18-24,False
+1093,MC001093,David,Nguyen,david.nguyen1093@example.com,Loyalty Member,Mobile App,West,2020-02-07,18-24,False
+1094,MC001094,Ananya,Nguyen,ananya.nguyen1094@example.com,Consumer,Mobile App,East,2026-04-11,25-34,False
+1095,MC001095,Yuki,Rodriguez,yuki.rodriguez1095@example.com,Consumer,Mobile App,East,2019-12-16,18-24,False
+1096,MC001096,Liam,Singh,liam.singh1096@example.com,Loyalty Member,In-Store,East,2019-05-13,55-64,False
+1097,MC001097,Diego,Thomas,diego.thomas1097@example.com,Loyalty Member,In-Store,West,2026-01-05,25-34,False
+1098,MC001098,Mary,Davis,mary.davis1098@example.com,Corporate,Online,Central,2026-03-25,45-54,False
+1099,MC001099,Ava,Thomas,ava.thomas1099@example.com,Corporate,Mobile App,Central,2018-12-20,65+,False
+1100,MC001100,David,Nguyen,david.nguyen1100@example.com,Consumer,Online,Central,2019-06-22,25-34,True
+1101,MC001101,Jennifer,Martinez,jennifer.martinez1101@example.com,Consumer,In-Store,Central,2018-02-25,25-34,False
+1102,MC001102,James,White,james.white1102@example.com,Loyalty Member,Mobile App,West,2019-10-17,25-34,False
+1103,MC001103,Carlos,Patel,carlos.patel1103@example.com,Loyalty Member,In-Store,East,2025-07-17,35-44,False
+1104,MC001104,Priya,White,priya.white1104@example.com,Consumer,Mobile App,East,2022-03-31,35-44,False
+1105,MC001105,Lucas,Taylor,lucas.taylor1105@example.com,Consumer,In-Store,Central,2025-07-09,55-64,False
+1106,MC001106,Arjun,Singh,arjun.singh1106@example.com,Consumer,In-Store,West,2022-12-19,45-54,True
+1107,MC001107,Michael,Jones,michael.jones1107@example.com,Loyalty Member,In-Store,West,2018-09-20,18-24,False
+1108,MC001108,Michael,Taylor,michael.taylor1108@example.com,Consumer,In-Store,East,2018-08-11,35-44,False
+1109,MC001109,Lucas,White,lucas.white1109@example.com,Loyalty Member,In-Store,West,2020-11-16,55-64,False
+1110,MC001110,Jennifer,Martinez,jennifer.martinez1110@example.com,Consumer,In-Store,East,2025-04-11,35-44,False
+1111,MC001111,David,Perez,david.perez1111@example.com,Loyalty Member,Online,West,2025-12-09,25-34,False
+1112,MC001112,Liam,Johnson,liam.johnson1112@example.com,Loyalty Member,In-Store,East,2020-08-07,18-24,False
+1113,MC001113,Jennifer,Lee,jennifer.lee1113@example.com,Consumer,Mobile App,West,2019-10-01,25-34,False
+1114,MC001114,Sofia,Miller,sofia.miller1114@example.com,Corporate,Online,East,2022-08-05,45-54,False
+1115,MC001115,Wei,Miller,wei.miller1115@example.com,Loyalty Member,Mobile App,Central,2018-10-31,65+,False
+1116,MC001116,Arjun,Perez,arjun.perez1116@example.com,Consumer,Mobile App,West,2024-05-15,55-64,False
+1117,MC001117,Arjun,Perez,arjun.perez1117@example.com,Loyalty Member,In-Store,West,2025-05-07,45-54,False
+1118,MC001118,Robert,Martinez,robert.martinez1118@example.com,Consumer,In-Store,Central,2023-07-10,55-64,False
+1119,MC001119,Isabella,Nguyen,isabella.nguyen1119@example.com,Corporate,In-Store,Central,2022-08-22,25-34,False
+1120,MC001120,Arjun,Singh,arjun.singh1120@example.com,Loyalty Member,In-Store,West,2023-06-27,35-44,False
+1121,MC001121,Carlos,Singh,carlos.singh1121@example.com,Loyalty Member,In-Store,Central,2021-06-22,55-64,False
+1122,MC001122,Yuki,Johnson,yuki.johnson1122@example.com,Consumer,Online,West,2018-06-12,35-44,False
+1123,MC001123,Mei,Singh,mei.singh1123@example.com,Loyalty Member,Online,Central,2021-03-31,25-34,False
+1124,MC001124,Fatima,Brown,fatima.brown1124@example.com,Consumer,Mobile App,West,2020-07-02,45-54,False
+1125,MC001125,Lucas,Patel,lucas.patel1125@example.com,Consumer,In-Store,East,2019-02-19,35-44,False
+1126,MC001126,Robert,Singh,robert.singh1126@example.com,Corporate,In-Store,Central,2022-03-20,35-44,False
+1127,MC001127,Ananya,Davis,ananya.davis1127@example.com,Loyalty Member,In-Store,East,2021-03-05,25-34,False
+1128,MC001128,Noah,Jones,noah.jones1128@example.com,Corporate,In-Store,West,2025-09-09,55-64,False
+1129,MC001129,Wei,Rodriguez,wei.rodriguez1129@example.com,Loyalty Member,Mobile App,Central,2018-06-20,55-64,False
+1130,MC001130,Ananya,Davis,ananya.davis1130@example.com,Corporate,In-Store,Central,2024-12-14,25-34,False
+1131,MC001131,Ananya,Wilson,ananya.wilson1131@example.com,Consumer,Online,Central,2026-03-10,65+,False
+1132,MC001132,Isabella,White,isabella.white1132@example.com,Loyalty Member,Online,East,2022-02-10,55-64,False
+1133,MC001133,Sofia,Williams,sofia.williams1133@example.com,Consumer,Online,East,2025-10-11,55-64,False
+1134,MC001134,John,Williams,john.williams1134@example.com,Corporate,In-Store,Central,2025-03-30,55-64,False
+1135,MC001135,Omar,Lee,omar.lee1135@example.com,Consumer,In-Store,East,2021-08-05,18-24,False
+1136,MC001136,James,Nguyen,james.nguyen1136@example.com,Corporate,In-Store,East,2025-07-12,35-44,False
+1137,MC001137,Lucas,Miller,lucas.miller1137@example.com,Loyalty Member,In-Store,Central,2021-11-20,25-34,False
+1138,MC001138,Carlos,Rodriguez,carlos.rodriguez1138@example.com,Loyalty Member,Mobile App,Central,2022-11-07,55-64,False
+1139,MC001139,Patricia,Jones,patricia.jones1139@example.com,Loyalty Member,In-Store,Central,2018-02-23,65+,False
+1140,MC001140,Isabella,Brown,isabella.brown1140@example.com,Consumer,In-Store,West,2026-01-14,65+,False
+1141,MC001141,Priya,Johnson,priya.johnson1141@example.com,Loyalty Member,Online,East,2024-06-06,35-44,False
+1142,MC001142,Fatima,Williams,fatima.williams1142@example.com,Corporate,In-Store,Central,2021-04-26,35-44,False
+1143,MC001143,Ethan,Smith,ethan.smith1143@example.com,Consumer,Mobile App,East,2025-07-28,65+,False
+1144,MC001144,Zara,White,zara.white1144@example.com,Corporate,In-Store,Central,2018-04-13,55-64,False
+1145,MC001145,Robert,Anderson,robert.anderson1145@example.com,Consumer,Mobile App,Central,2018-11-05,65+,False
+1146,MC001146,Lucas,Jackson,lucas.jackson1146@example.com,Loyalty Member,In-Store,West,2018-12-08,25-34,False
+1147,MC001147,Diego,Singh,diego.singh1147@example.com,Loyalty Member,In-Store,East,2019-06-21,55-64,False
+1148,MC001148,James,Lee,james.lee1148@example.com,Consumer,In-Store,East,2020-01-12,35-44,False
+1149,MC001149,Patricia,Wilson,patricia.wilson1149@example.com,Corporate,Mobile App,West,2018-05-26,55-64,False
+1150,MC001150,Patricia,Lee,patricia.lee1150@example.com,Loyalty Member,In-Store,West,2020-07-24,65+,False
+1151,MC001151,Ethan,Jones,ethan.jones1151@example.com,Consumer,Mobile App,East,2026-03-17,35-44,False
+1152,MC001152,Patricia,Thomas,patricia.thomas1152@example.com,Consumer,Online,Central,2022-12-02,25-34,False
+1153,MC001153,Mei,Lee,mei.lee1153@example.com,Corporate,In-Store,West,2026-04-09,35-44,False
+1154,MC001154,Liam,Moore,liam.moore1154@example.com,Consumer,Mobile App,East,2018-11-30,55-64,True
+1155,MC001155,Ethan,Kim,ethan.kim1155@example.com,Loyalty Member,Online,Central,2025-05-07,18-24,False
+1156,MC001156,Diego,Jackson,diego.jackson1156@example.com,Corporate,In-Store,Central,2026-06-06,45-54,True
+1157,MC001157,Carlos,Johnson,carlos.johnson1157@example.com,Corporate,Mobile App,East,2019-07-27,55-64,False
+1158,MC001158,Noah,Lopez,noah.lopez1158@example.com,Loyalty Member,In-Store,Central,2019-12-13,35-44,False
+1159,MC001159,Lucas,Miller,lucas.miller1159@example.com,Consumer,In-Store,East,2020-05-02,35-44,False
+1160,MC001160,Isabella,Rodriguez,isabella.rodriguez1160@example.com,Loyalty Member,Mobile App,Central,2023-09-12,35-44,False
+1161,MC001161,Arjun,Patel,arjun.patel1161@example.com,Consumer,In-Store,West,2021-04-15,65+,False
+1162,MC001162,Sofia,Wilson,sofia.wilson1162@example.com,Corporate,Mobile App,East,2020-10-02,55-64,False
+1163,MC001163,Isabella,Kim,isabella.kim1163@example.com,Consumer,Mobile App,West,2022-08-16,65+,True
+1164,MC001164,Noah,Brown,noah.brown1164@example.com,Loyalty Member,Mobile App,West,2024-10-13,25-34,False
+1165,MC001165,Fatima,Wilson,fatima.wilson1165@example.com,Consumer,Mobile App,Central,2022-12-22,25-34,False
+1166,MC001166,Sofia,Johnson,sofia.johnson1166@example.com,Corporate,Mobile App,West,2025-04-09,45-54,False
+1167,MC001167,Ethan,Perez,ethan.perez1167@example.com,Loyalty Member,In-Store,West,2024-03-30,25-34,False
+1168,MC001168,Yuki,Chen,yuki.chen1168@example.com,Consumer,In-Store,Central,2025-12-08,65+,False
+1169,MC001169,James,Williams,james.williams1169@example.com,Consumer,In-Store,East,2024-03-20,65+,False
+1170,MC001170,Wei,Miller,wei.miller1170@example.com,Loyalty Member,Mobile App,East,2022-07-30,55-64,False
+1171,MC001171,Michael,Singh,michael.singh1171@example.com,Corporate,In-Store,East,2025-01-12,45-54,False
+1172,MC001172,Mei,Anderson,mei.anderson1172@example.com,Loyalty Member,Online,Central,2023-07-17,65+,True
+1173,MC001173,Ethan,Thomas,ethan.thomas1173@example.com,Loyalty Member,In-Store,East,2025-05-12,35-44,False
+1174,MC001174,Linda,Rodriguez,linda.rodriguez1174@example.com,Corporate,Mobile App,Central,2025-05-12,18-24,False
+1175,MC001175,Linda,Wilson,linda.wilson1175@example.com,Consumer,Mobile App,Central,2024-09-19,25-34,False
+1176,MC001176,Jennifer,Nguyen,jennifer.nguyen1176@example.com,Consumer,Online,East,2018-10-15,45-54,False
+1177,MC001177,Diego,Martinez,diego.martinez1177@example.com,Consumer,Online,West,2026-02-26,55-64,False
+1178,MC001178,Noah,Martinez,noah.martinez1178@example.com,Corporate,Online,West,2020-08-26,18-24,True
+1179,MC001179,Sofia,Garcia,sofia.garcia1179@example.com,Corporate,In-Store,West,2023-08-17,35-44,False
+1180,MC001180,Emma,Kim,emma.kim1180@example.com,Corporate,Online,East,2019-03-02,45-54,False
+1181,MC001181,Isabella,Davis,isabella.davis1181@example.com,Consumer,In-Store,West,2023-11-12,35-44,False
+1182,MC001182,Yuki,Jones,yuki.jones1182@example.com,Consumer,In-Store,East,2021-03-23,18-24,False
+1183,MC001183,Michael,Nguyen,michael.nguyen1183@example.com,Loyalty Member,Mobile App,Central,2025-12-18,65+,False
+1184,MC001184,John,Smith,john.smith1184@example.com,Consumer,Mobile App,Central,2019-02-22,55-64,False
+1185,MC001185,Sofia,Davis,sofia.davis1185@example.com,Consumer,In-Store,East,2019-07-30,35-44,False
+1186,MC001186,Isabella,Davis,isabella.davis1186@example.com,Consumer,Online,West,2020-02-29,55-64,False
+1187,MC001187,Sofia,Wilson,sofia.wilson1187@example.com,Consumer,In-Store,West,2022-02-21,65+,False
+1188,MC001188,John,Moore,john.moore1188@example.com,Consumer,Online,East,2019-11-28,55-64,True
+1189,MC001189,Mary,Miller,mary.miller1189@example.com,Consumer,Mobile App,East,2024-09-08,65+,False
+1190,MC001190,Liam,Johnson,liam.johnson1190@example.com,Consumer,In-Store,West,2022-02-16,25-34,False
+1191,MC001191,Fatima,Moore,fatima.moore1191@example.com,Consumer,Online,Central,2019-09-18,35-44,False
+1192,MC001192,Ava,Anderson,ava.anderson1192@example.com,Consumer,In-Store,West,2023-03-30,55-64,False
+1193,MC001193,Fatima,Chen,fatima.chen1193@example.com,Consumer,Mobile App,East,2019-01-20,35-44,False
+1194,MC001194,Lucas,Johnson,lucas.johnson1194@example.com,Corporate,Online,Central,2025-02-13,25-34,False
+1195,MC001195,Elizabeth,Rodriguez,elizabeth.rodriguez1195@example.com,Loyalty Member,In-Store,East,2020-09-29,25-34,False
+1196,MC001196,David,Moore,david.moore1196@example.com,Consumer,In-Store,Central,2020-10-30,45-54,False
+1197,MC001197,John,Lopez,john.lopez1197@example.com,Corporate,Mobile App,East,2024-05-26,25-34,False
+1198,MC001198,Olivia,Anderson,olivia.anderson1198@example.com,Consumer,In-Store,West,2022-06-11,55-64,True
+1199,MC001199,Ananya,Taylor,ananya.taylor1199@example.com,Corporate,Online,Central,2024-07-25,18-24,False
+1200,MC001200,Emma,Brown,emma.brown1200@example.com,Corporate,In-Store,West,2024-01-29,55-64,False

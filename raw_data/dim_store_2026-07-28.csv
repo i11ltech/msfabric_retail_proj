@@ -1,0 +1,22 @@
+store_id,store_code,store_name,city,region,store_type,open_date,square_feet,employee_count
+1,MR001,Meridian Seattle,Seattle WA,West,Outlet,2015-09-10,33875,53
+2,MR002,Meridian Portland,Portland OR,West,Flagship,2014-10-24,43119,18
+3,MR003,Meridian San Francisco,San Francisco CA,West,Outlet,2020-07-15,11801,44
+4,MR004,Meridian Los Angeles,Los Angeles CA,West,Standard,2014-06-03,13632,39
+5,MR005,Meridian San Diego,San Diego CA,West,Express,2014-10-14,23772,17
+6,MR006,Meridian Phoenix,Phoenix AZ,West,Express,2014-08-31,16113,26
+7,MR007,Meridian Denver,Denver CO,West,Flagship,2020-06-21,33996,15
+8,MR008,Meridian Chicago,Chicago IL,Central,Standard,2014-07-10,44481,20
+9,MR009,Meridian Dallas,Dallas TX,Central,Outlet,2018-09-13,17453,46
+10,MR010,Meridian Houston,Houston TX,Central,Flagship,2020-05-27,28216,47
+11,MR011,Meridian Minneapolis,Minneapolis MN,Central,Standard,2015-02-27,20312,35
+12,MR012,Meridian St. Louis,St. Louis MO,Central,Flagship,2020-02-22,12114,48
+13,MR013,Meridian Austin,Austin TX,Central,Flagship,2016-04-23,40533,55
+14,MR014,Meridian New York,New York NY,East,Express,2017-07-10,38513,49
+15,MR015,Meridian Boston,Boston MA,East,Express,2018-01-21,27645,27
+16,MR016,Meridian Philadelphia,Philadelphia PA,East,Standard,2016-09-26,13364,48
+17,MR017,Meridian Atlanta,Atlanta GA,East,Outlet,2019-11-22,40447,33
+18,MR018,Meridian Miami,Miami FL,East,Express,2017-03-25,12797,19
+19,MR019,Meridian Charlotte,Charlotte NC,East,Express,2015-11-07,30416,21
+20,MR020,Meridian Washington,Washington DC,East,Express,2018-09-24,10569,54
+21,MR021,Meridian Online Store,E-Commerce,Online,Online,2017-03-01,0,

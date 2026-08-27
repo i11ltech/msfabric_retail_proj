@@ -266,46 +266,33 @@ Watermark-based incremental merge:
 
 ---
 
+## Future Enhancements
 
-##  Project Structure
+1. **Real-time Streaming**: Migrate to Structured Streaming for near real-time analytics
+2. **Type 2 SCD**: Implement customer dimension history tracking
+3. **Aggregate Tables**: Pre-compute monthly/quarterly aggregates
+4. **Data Quality Monitoring**: Automated alerts on anomalies
+5. **ML Integration**: Product recommendation, demand forecasting, churn prediction
+6. **Dashboard Automation**: Schedule refresh and email reports
+7. **Performance Optimization**: Partition strategy, Z-ordering, liquid clustering
+8. **Additional Dimensions**: Promotion, employee, channel dimensions
 
-```
-msfabric_retail_proj/
-├── README.md                          # This file
-├── skillease_retail.ipynb             # Main notebook with all pipeline code
-│
-├── Data Sources (Unity Catalog Volume)
-│   └── /Volumes/skillease/bronze/raw_csv/
-│       ├── dim_customer_YYYY-MM-DD.csv
-│       ├── dim_store_YYYY-MM-DD.csv
-│       ├── dim_promotion_YYYY-MM-DD.csv
-│       ├── dim_date_YYYY-MM-DD.csv
-│       ├── fullload_sales_YYYY-MM-DD.csv
-│       ├── incremental_sales_YYYY-MM-DD.csv
-│       └── products.json
-│
-├── Bronze Layer Tables (skillease.bronze)
-│   ├── bronze_sales
-│   ├── bronze_customer
-│   ├── bronze_store
-│   ├── bronze_promotion
-│   ├── bronze_date
-│   ├── bronze_products
-│   └── load_control (audit table)
-│
-├── Silver Layer Tables (skillease.bronze)
-│   ├── silver_sales
-│   ├── silver_customer
-│   ├── silver_store
-│   ├── silver_promotion
-│   ├── silver_date
-│   ├── silver_products
-│   └── quarantine_sales
-│
-└── Gold Layer Tables (workspace.default or custom schema)
-    ├── gold_dim_customer
-    ├── gold_dim_product
-    ├── gold_dim_store
-    ├── gold_dim_date
-    └── gold_fact_sales
-```
+---
+
+## 📊 Key Metrics Summary
+
+| Metric | Value |
+|--------|-------|
+| **Total Revenue** | $185.9M |
+| **Total Margin** | $69.7M (37.5%) |
+| **Total Orders** | 323,947 |
+| **Avg Order Value** | $261 |
+| **Unique Customers** | 1,200 |
+| **Products** | 250 |
+| **Stores** | 21 (+ 1 Online) |
+| **Date Range** | July 2023 - August 2026 |
+| **Top Category** | Electronics ($103.9M, 56%) |
+| **Top Region** | East ($44.4M) |
+| **Best Margin Category** | Beauty & Health (55.7%) |
+
+---

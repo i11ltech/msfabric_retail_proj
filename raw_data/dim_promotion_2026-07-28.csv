@@ -1,0 +1,46 @@
+promotion_id,promo_code,promotion_name,promo_type,discount_pct,start_date,end_date,applies_to_category
+0,PR000,No Promotion,None,0.0,2020-01-01,2099-12-31,
+1,PR001,New Year Kickoff 2023,Seasonal,0.1,2023-03-23,2023-04-13,
+2,PR002,Spring Refresh 2023,Seasonal,0.1,2023-11-10,2023-11-24,
+3,PR003,Memorial Day Blowout 2023,Holiday,0.2,2023-07-04,2023-07-07,
+4,PR004,Summer Clearance 2023,Clearance,0.3,2023-10-19,2023-11-09,Apparel
+5,PR005,Back to School 2023,Seasonal,0.15,2023-09-10,2023-10-01,Electronics
+6,PR006,Labor Day Sale 2023,Holiday,0.2,2023-10-16,2023-10-19,Home & Kitchen
+7,PR007,Halloween Deals 2023,Seasonal,0.12,2023-10-17,2023-10-31,Apparel
+8,PR008,Black Friday 2023,Holiday,0.35,2023-01-19,2023-02-09,
+9,PR009,Cyber Monday 2023,Holiday,0.3,2023-09-14,2023-09-21,
+10,PR010,Holiday Gift Event 2023,Holiday,0.2,2023-01-14,2023-01-21,Electronics
+11,PR011,Weekend Flash 24h 2023,Flash,0.22,2023-10-11,2023-10-18,Apparel
+12,PR012,New Year Kickoff 2024,Seasonal,0.1,2024-09-18,2024-09-25,Home & Kitchen
+13,PR013,Spring Refresh 2024,Seasonal,0.1,2024-01-14,2024-01-21,Electronics
+14,PR014,Memorial Day Blowout 2024,Holiday,0.2,2024-10-25,2024-11-15,
+15,PR015,Summer Clearance 2024,Clearance,0.3,2024-03-07,2024-03-10,Apparel
+16,PR016,Back to School 2024,Seasonal,0.15,2024-09-12,2024-10-03,
+17,PR017,Labor Day Sale 2024,Holiday,0.2,2024-07-12,2024-07-26,
+18,PR018,Halloween Deals 2024,Seasonal,0.12,2024-10-19,2024-11-02,Apparel
+19,PR019,Black Friday 2024,Holiday,0.35,2024-08-09,2024-08-30,Apparel
+20,PR020,Cyber Monday 2024,Holiday,0.3,2024-01-07,2024-01-28,All
+21,PR021,Holiday Gift Event 2024,Holiday,0.2,2024-06-21,2024-06-24,All
+22,PR022,Weekend Flash 24h 2024,Flash,0.22,2024-10-17,2024-10-31,
+23,PR023,New Year Kickoff 2025,Seasonal,0.1,2025-01-21,2025-01-24,All
+24,PR024,Spring Refresh 2025,Seasonal,0.1,2025-01-11,2025-01-25,
+25,PR025,Memorial Day Blowout 2025,Holiday,0.2,2025-02-23,2025-03-02,Home & Kitchen
+26,PR026,Summer Clearance 2025,Clearance,0.3,2025-08-03,2025-08-17,Home & Kitchen
+27,PR027,Back to School 2025,Seasonal,0.15,2025-02-01,2025-02-04,
+28,PR028,Labor Day Sale 2025,Holiday,0.2,2025-11-15,2025-11-29,Apparel
+29,PR029,Halloween Deals 2025,Seasonal,0.12,2025-04-19,2025-04-22,Apparel
+30,PR030,Black Friday 2025,Holiday,0.35,2025-03-25,2025-04-01,Home & Kitchen
+31,PR031,Cyber Monday 2025,Holiday,0.3,2025-08-25,2025-09-08,Home & Kitchen
+32,PR032,Holiday Gift Event 2025,Holiday,0.2,2025-06-15,2025-06-29,Electronics
+33,PR033,Weekend Flash 24h 2025,Flash,0.22,2025-06-09,2025-06-23,Apparel
+34,PR034,New Year Kickoff 2026,Seasonal,0.1,2026-03-03,2026-03-24,Apparel
+35,PR035,Spring Refresh 2026,Seasonal,0.1,2026-06-01,2026-06-04,
+36,PR036,Memorial Day Blowout 2026,Holiday,0.2,2026-08-10,2026-08-13,Apparel
+37,PR037,Summer Clearance 2026,Clearance,0.3,2026-10-15,2026-10-29,Apparel
+38,PR038,Back to School 2026,Seasonal,0.15,2026-11-10,2026-11-24,All
+39,PR039,Labor Day Sale 2026,Holiday,0.2,2026-06-06,2026-06-09,Apparel
+40,PR040,Halloween Deals 2026,Seasonal,0.12,2026-04-19,2026-05-10,Apparel
+41,PR041,Black Friday 2026,Holiday,0.35,2026-04-12,2026-04-15,All
+42,PR042,Cyber Monday 2026,Holiday,0.3,2026-10-18,2026-10-21,Electronics
+43,PR043,Holiday Gift Event 2026,Holiday,0.2,2026-09-14,2026-09-17,Electronics
+44,PR044,Weekend Flash 24h 2026,Flash,0.22,2026-08-11,2026-08-14,
